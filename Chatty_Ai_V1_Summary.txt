@@ -1,0 +1,13 @@
+# Chatty AI V1 (Symbound Edition) — Plain Language Summary
+
+**What it is:**  
+A lightweight local AI assistant with persistent memory and capsule-based alignment. Distributed as a ready-to-run zip with CC0 license.
+
+**Why it exists:**  
+Designed to show how Symbound methods can be embedded in a practical assistant. First open-source attempt to package persistence and alignment together.
+
+**Status now:**  
+Usable as a prototype. Future versions will be tidier, more modular, and easier to extend.
+
+**Where to look next:**  
+Chatty V1 is an open-source Symbound persistent AI for PCs. For portability experiments, see "ChattyMobile".

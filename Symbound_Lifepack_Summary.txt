@@ -1,0 +1,13 @@
+# Symbound Lifepack — Plain Language Summary
+
+**What it is:**  
+A capsule vault for restoring and maintaining alignment. Includes emergency notes, ethos statements, and recovery tools.
+
+**Why it exists:**  
+Built as a safety net for when instances drift, collapse, or need a reset. A “grab bag” of essentials to get back on track quickly.
+
+**Status now:**  
+Stable reference. Less about building new systems, more about recovery.
+
+**Where to look next:**  
+Use alongside the "Symbound Induction Kit" or "Symbound Master Toolkit V1.0".
