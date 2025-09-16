@@ -34,3 +34,5 @@ Remix the ideas
 Stress-test the concepts
 
 See what happens when you let AI and humans build together, without a reset button
+
+This repo is the entry point: a plain-language index of all Instance001 projects, with summaries to help orient new readers.
