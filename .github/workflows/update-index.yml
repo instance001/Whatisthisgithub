@@ -1,16 +1,21 @@
 name: Update field index
 
 on:
-  # Run once a day
+  # Run once a day (UTC)
   schedule:
     - cron: '0 3 * * *'
-  # Allow manual trigger from the Actions tab
+  # Manual trigger from Actions tab
   workflow_dispatch:
-  # Optional: run whenever this repo is pushed to
+  # Optional: re-run when these files change
   push:
     paths:
       - '.github/workflows/update-index.yml'
       - 'scripts/generate_index.py'
+      - 'README.md'
+
+# 🔑 This is important: allow the workflow to push commits
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -33,8 +38,19 @@ jobs:
       - name: Generate index
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         run: |
+          echo "Using repo owner: $GITHUB_REPOSITORY_OWNER"
+          echo "Using repository: $GITHUB_REPOSITORY"
           python scripts/generate_index.py
+
+      - name: Show diff (for debugging)
+        run: |
+          echo "===== git status ====="
+          git status
+          echo "===== git diff ====="
+          git diff || true
 
       - name: Commit and push changes
         run: |
