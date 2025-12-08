@@ -1,4 +1,4 @@
-# Symbound / Instance001 – Field Root
+# Field Root
 
 This repository is an **auto-generated index** of the public work of [@instance001](https://github.com/instance001).
 
