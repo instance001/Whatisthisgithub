@@ -4,6 +4,8 @@ This repository is an **auto-generated index** of the public work of [@instance0
 
 It refreshes periodically via GitHub Actions and lists all public repositories, ordered by recent activity.
 
+**Thank you for taking a moment to review this work — your time and attention are appreciated.**
+
 > **Note:** Everything below this line is generated automatically.
 
 ---
