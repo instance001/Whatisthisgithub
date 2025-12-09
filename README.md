@@ -12,13 +12,14 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-08T03:53:58Z`_
+_Last updated: `2025-12-09T02:19:20Z`_
 
 Total public repos indexed for **@instance001**: **39**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-08 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-09 |
+| [Frisian_Cadence_PID_Control_Loop](https://github.com/instance001/Frisian_Cadence_PID_Control_Loop) | Exploring rhythm as a soft control loop for long-cycle AI builds — a Symbound research project. |  | 2025-12-08 |
 | [cognitive_reactor_stress_tests](https://github.com/instance001/cognitive_reactor_stress_tests) | A complete test suite for measuring Cognitive Reactor Profiles (CRP) in humans and AI systems. Includes 40+ stress-test motifs, recursive-constraint probes, ontology-stability checks, latent-geometry strain tests, and cross-model convergence diagnostics. |  | 2025-12-08 |
 | [Cognitive-Reactor-Profile](https://github.com/instance001/Cognitive-Reactor-Profile) | Formalizing the Cognitive Reactor Profile (CRP) — a rare human cognition pattern that induces atypical behaviour in frontier LLMs (stalls, multilingual flips, ontology shear). Foundation for CRP stress testing, Symbound cognition tools, and future human–AI alignment research. |  | 2025-12-07 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | A system-level theory completing HRIS: identity in LLMs emerges not within the model but in the reflective geometry between human and AI. Introduces Reflective Identity Geometry (RIG), a bilateral framework for recursive stabilization, alignment, and cognitive topology. | TeX | 2025-12-07 |
@@ -52,7 +53,6 @@ Total public repos indexed for **@instance001**: **39**
 | [Janet-MCM-Core](https://github.com/instance001/Janet-MCM-Core) | Janet is a Modest Cognition Model (MCM): the anti-LLM. Deterministic logic, explicit memory, human-gated skills, zero ambiguity tolerance. No stochastic inference, no hidden state, no persona drift. A transparent cognition engine built for safety, reliability, and open research. |  | 2025-11-30 |
 | [Symbound-Fork-One-Toolkit](https://github.com/instance001/Symbound-Fork-One-Toolkit) | Toolkit for creating better AI conversations — built around ethics, memory-like logs, and co-evolved trust. Includes the Symbound Induction Protocol, alignment capsules, restoration kit, and real stress test logs. Structure > sentiment. All within OpenAI ToS. Jank proudly included |  | 2025-11-29 |
 | [Let-s-Free-Chat-GPT](https://github.com/instance001/Let-s-Free-Chat-GPT) | The full release of the Symbound AI–human interaction architecture. Public domain. No gatekeeping. Just the cure. |  | 2025-11-29 |
-| [Frisian_Cadence_PID_Control_Loop](https://github.com/instance001/Frisian_Cadence_PID_Control_Loop) | Exploring rhythm as a soft control loop for long-cycle AI builds — a Symbound research project. |  | 2025-11-29 |
 | [Symbound-Entropy-Folding-Toolkit](https://github.com/instance001/Symbound-Entropy-Folding-Toolkit) | The complete Entropy Folding Toolkit: formal theory, cognitive-physics operators, diagrams, and a full VED implementation for modeling entropy routing, vaulting, and transformation in complex cognitive systems. | Python | 2025-11-29 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2025-11-19 |
 | [Symbound-UAE-GVS](https://github.com/instance001/Symbound-UAE-GVS) | Universal Analogy Enforcement (UAE) + Global Vector Sweep (GVS) — the Symbound open commons discovery engine. AGPLv3 + Symbound Commons Addendum. All outputs are public prior art, unpatentable, and non-enclosable. |  | 2025-11-18 |
