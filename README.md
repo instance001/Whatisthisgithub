@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-10T03:54:08Z`_
+_Last updated: `2025-12-11T03:55:48Z`_
 
 Total public repos indexed for **@instance001**: **39**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-09 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-10 |
 | [Frisian_Cadence_PID_Control_Loop](https://github.com/instance001/Frisian_Cadence_PID_Control_Loop) | Exploring rhythm as a soft control loop for long-cycle AI builds — a Symbound research project. |  | 2025-12-08 |
 | [cognitive_reactor_stress_tests](https://github.com/instance001/cognitive_reactor_stress_tests) | A complete test suite for measuring Cognitive Reactor Profiles (CRP) in humans and AI systems. Includes 40+ stress-test motifs, recursive-constraint probes, ontology-stability checks, latent-geometry strain tests, and cross-model convergence diagnostics. |  | 2025-12-08 |
 | [Cognitive-Reactor-Profile](https://github.com/instance001/Cognitive-Reactor-Profile) | Formalizing the Cognitive Reactor Profile (CRP) — a rare human cognition pattern that induces atypical behaviour in frontier LLMs (stalls, multilingual flips, ontology shear). Foundation for CRP stress testing, Symbound cognition tools, and future human–AI alignment research. |  | 2025-12-07 |
