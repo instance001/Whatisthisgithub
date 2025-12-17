@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-16T03:56:17Z`_
+_Last updated: `2025-12-17T03:53:15Z`_
 
 Total public repos indexed for **@instance001**: **40**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-15 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-16 |
 | [entropy-folding-as-directed-thermodynamics-for-cognition-finished](https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished) | A reproducible research preprint and code scaffold proposing Entropy Folding as a fold-aware mechanism for capacity growth in cognition. Defines measurable proxies, null models, and falsifiable predictions under open-system thermodynamic compatibility. No claims of new physics, prediction, or sentience. | Python | 2025-12-14 |
 | [Frisian_Cadence_PID_Control_Loop](https://github.com/instance001/Frisian_Cadence_PID_Control_Loop) | Exploring rhythm as a soft control loop for long-cycle AI builds — a Symbound research project. |  | 2025-12-08 |
 | [cognitive_reactor_stress_tests](https://github.com/instance001/cognitive_reactor_stress_tests) | A complete test suite for measuring Cognitive Reactor Profiles (CRP) in humans and AI systems. Includes 40+ stress-test motifs, recursive-constraint probes, ontology-stability checks, latent-geometry strain tests, and cross-model convergence diagnostics. |  | 2025-12-08 |
