@@ -1,0 +1,134 @@
+# Fractal Media Infrastructure (FMI)
+
+Fractal Media Infrastructure (FMI) is an independent, public-interest research and tooling corpus focused on human–AI cognition, alignment, and safety-critical interaction architectures.
+
+All work is released openly (AGPLv3 or public-domain-equivalent) and is designed to remain non-commercial, non-exclusive, and non-capturable in perpetuity.
+
+This repository exists to orient readers to the corpus and its intent.
+
+---
+
+## What this is
+
+Fractal Media Infrastructure is:
+
+- A long-cycle, high-signal research corpus  
+- A collection of theoretical frameworks, stress tests, tools, and reproducible artifacts  
+- An exploration of cognition under constraint, entropy management, alignment, and safe human–AI co-reasoning  
+- Built and released independently, without institutional backing, commercial incentives, or proprietary dependencies  
+
+The work spans:
+
+- Formal theory  
+- Practical tooling  
+- Safety scaffolds  
+- Stress-test suites  
+- Local-first, offline-capable systems  
+- Negative results and documented boundary conditions  
+
+This is infrastructure, not a product.
+
+---
+
+## What this is not
+
+Fractal Media Infrastructure is not:
+
+- A startup or pre-startup  
+- A commercial research lab  
+- A product roadmap  
+- A monetization vehicle  
+- A community platform  
+- A subscription, service, or consultancy  
+- A proprietary framework in disguise  
+
+There is no commercialization pathway by design.
+
+---
+
+## Why everything is open
+
+All outputs are released under AGPLv3 or public-domain-equivalent terms to ensure:
+
+- Irreversible openness  
+- Forkability and long-term survivability  
+- Public verifiability  
+- Prevention of enclosure, patenting, or capture  
+- Equal access regardless of resources or affiliation  
+
+**Openness here is not ideological — it is a safety and correctness constraint.**
+
+Certain classes of cognition and alignment research become actively dangerous when gated, distorted by incentives, or optimized for extraction.
+
+---
+
+## Independence and funding constraints
+
+Fractal Media Infrastructure is intentionally 100% independent.
+
+To preserve epistemic integrity and avoid incentive distortion:
+
+- Bottom-up patronage models (e.g. subscriptions, tipping, influencer-style funding) are avoided  
+- Ad-hoc donations tied to access, influence, prioritization, or visibility are rejected  
+- Hype, performative visibility, and attention-driven incentives are declined  
+- No exclusive partnerships, licensing deals, or derivative ownership arrangements are accepted  
+
+Acceptable support, when pursued, is limited to arm’s-length, top-down mechanisms such as:
+
+- Research grants  
+- Fellowships  
+- Institutional stipends  
+- Fiscal sponsorship for pass-through funding only  
+
+Funding is sought solely to provide continuity and housing stability, enabling sustained public release of work without compromise.
+
+---
+
+## Structure and continuity
+
+There is no single “core product.”
+
+- Repositories are intentionally modular and loosely coupled  
+- The corpus is designed to be forkable, archivable, and survivable without central control  
+- All critical context is embedded directly in public artifacts  
+
+If this work ceases or is abandoned, it remains usable.
+
+---
+
+## Who this is for
+
+This work is intended for:
+
+- Independent researchers  
+- Alignment and safety practitioners  
+- Educators and students  
+- Open-source developers  
+- Institutions studying cognition, AI safety, or human–AI systems  
+- Anyone requiring clear, non-anthropomorphic, non-hyped cognitive tooling  
+
+It is not optimized for casual consumption.
+
+---
+
+## How to read this corpus
+
+If you are new here:
+
+1. Start with this repository  
+2. Read `Whatisthisgithub`  
+3. Skim the auto-generated index  
+4. Follow threads aligned with your interests or expertise  
+5. Ignore anything that does not yet make sense — this is expected  
+
+This is long-form work. It rewards patience.
+
+---
+
+## Final note
+
+Fractal Media Infrastructure exists to place correct, safety-grounded cognitive infrastructure into the public commons ahead of institutional or commercial pressure.
+
+Nothing here is proprietary.  
+Nothing here is a pitch.  
+Everything here is offered freely — and deliberately.
