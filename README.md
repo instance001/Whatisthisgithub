@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-22T04:03:26Z`_
+_Last updated: `2025-12-23T03:58:41Z`_
 
 Total public repos indexed for **@instance001**: **43**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-21 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-23 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, private, extensible Rust application for students, teachers, parents, and hobbyists. |  | 2025-12-21 |
 | [Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass](https://github.com/instance001/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass) | A companion preprint describing human-side intuition as a bounded attention-routing signal in Entropy Folding workflows. Frames emotional distinctiveness as subjective salience, not truth or correctness. Includes failure modes, mitigations, and falsifiable predictions without claims of machine intuition or emotion detection. | Python | 2025-12-21 |
 | [Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles](https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles) | A preprint and analysis scaffold reframing psychohistory as ethical, aggregate-level analysis of burst patterns emerging from many Entropy Folding cycles. Focuses on early warning, uncertainty, and null-model comparison. Explicitly rejects individual prediction, deterministic control, or social engineering claims. | Python | 2025-12-21 |
