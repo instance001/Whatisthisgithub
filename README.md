@@ -12,15 +12,15 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-26T02:11:38Z`_
+_Last updated: `2025-12-26T03:56:14Z`_
 
 Total public repos indexed for **@instance001**: **45**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-26 |
 | [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks |  | 2025-12-26 |
 | [entropy_folding_scale](https://github.com/instance001/entropy_folding_scale) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks | Roff | 2025-12-26 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-26 |
 | [entropy-folding-foundational-frameworks](https://github.com/instance001/entropy-folding-foundational-frameworks) | A collection of foundational conceptual frameworks constraining cognition, agency, and structural change. The repository presents six coordinated foundations (conceptual and meta layers) intended as upstream lenses for entropy-folding approaches, without empirical claims or unified theory assertions. |  | 2025-12-26 |
 | [chatty-edu-v0.2](https://github.com/instance001/chatty-edu-v0.2) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Makefile | 2025-12-25 |
 | [chattydoom](https://github.com/instance001/chattydoom) | Barebones AI-augmented Doom sandbox using ViZDoom + Freedoom. Runs out of the box, shoots demons, opens doors, and invites hacking. Minimal, libre, and gloriously jank. | Python | 2025-12-25 |
