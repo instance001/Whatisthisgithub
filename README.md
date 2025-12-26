@@ -12,18 +12,18 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-26T01:56:38Z`_
+_Last updated: `2025-12-26T02:11:38Z`_
 
 Total public repos indexed for **@instance001**: **45**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Formal paper defining the cognitive boundary conditions of Entropy Folding. “Scope” establishes the interpretive window where entropy becomes meaningful, stable, and actionable. Part of the core Entropy Folding canon (Vector, Scale, Scope, Ontic, Action). AGPLv3. |  | 2025-12-26 |
-| [entropy_folding_scale](https://github.com/instance001/entropy_folding_scale) | This repository contains one of the core theoretical components of the *Entropy Folding* research programme: a general scaling framework that treats **scale as a function of entropy, stability, and resolution**, rather than as a simple measure of size or magnitude. | Roff | 2025-12-26 |
+| [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks |  | 2025-12-26 |
+| [entropy_folding_scale](https://github.com/instance001/entropy_folding_scale) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks | Roff | 2025-12-26 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-26 |
 | [entropy-folding-foundational-frameworks](https://github.com/instance001/entropy-folding-foundational-frameworks) | A collection of foundational conceptual frameworks constraining cognition, agency, and structural change. The repository presents six coordinated foundations (conceptual and meta layers) intended as upstream lenses for entropy-folding approaches, without empirical claims or unified theory assertions. |  | 2025-12-26 |
 | [chatty-edu-v0.2](https://github.com/instance001/chatty-edu-v0.2) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Makefile | 2025-12-25 |
 | [chattydoom](https://github.com/instance001/chattydoom) | Barebones AI-augmented Doom sandbox using ViZDoom + Freedoom. Runs out of the box, shoots demons, opens doors, and invites hacking. Minimal, libre, and gloriously jank. | Python | 2025-12-25 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-25 |
 | [Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass](https://github.com/instance001/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass) | A companion preprint describing human-side intuition as a bounded attention-routing signal in Entropy Folding workflows. Frames emotional distinctiveness as subjective salience, not truth or correctness. Includes failure modes, mitigations, and falsifiable predictions without claims of machine intuition or emotion detection. | Python | 2025-12-21 |
 | [Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles](https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles) | A preprint and analysis scaffold reframing psychohistory as ethical, aggregate-level analysis of burst patterns emerging from many Entropy Folding cycles. Focuses on early warning, uncertainty, and null-model comparison. Explicitly rejects individual prediction, deterministic control, or social engineering claims. | Python | 2025-12-21 |
 | [entropy-folding-as-directed-thermodynamics-for-cognition-finished](https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished) | A reproducible research preprint and code scaffold proposing Entropy Folding as a fold-aware mechanism for capacity growth in cognition. Defines measurable proxies, null models, and falsifiable predictions under open-system thermodynamic compatibility. No claims of new physics, prediction, or sentience. | Python | 2025-12-14 |
