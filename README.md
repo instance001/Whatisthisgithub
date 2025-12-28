@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2025-12-27T03:54:13Z`_
+_Last updated: `2025-12-28T04:05:56Z`_
 
 Total public repos indexed for **@instance001**: **45**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-26 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2025-12-27 |
 | [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks |  | 2025-12-26 |
 | [entropy_folding_scale](https://github.com/instance001/entropy_folding_scale) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks | Roff | 2025-12-26 |
 | [entropy-folding-foundational-frameworks](https://github.com/instance001/entropy-folding-foundational-frameworks) | A collection of foundational conceptual frameworks constraining cognition, agency, and structural change. The repository presents six coordinated foundations (conceptual and meta layers) intended as upstream lenses for entropy-folding approaches, without empirical claims or unified theory assertions. |  | 2025-12-26 |
