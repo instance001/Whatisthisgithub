@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-01-03T03:53:31Z`_
+_Last updated: `2026-01-04T04:09:13Z`_
 
 Total public repos indexed for **@instance001**: **45**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-02 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-03 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-01-01 |
 | [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks |  | 2025-12-26 |
 | [entropy_folding_scale](https://github.com/instance001/entropy_folding_scale) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks | Roff | 2025-12-26 |
