@@ -12,13 +12,14 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-01-13T04:01:30Z`_
+_Last updated: `2026-01-14T04:07:12Z`_
 
 Total public repos indexed for **@instance001**: **46**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-12 |
+| [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | **A safe, non-anthropomorphic human–AI co-reasoning architecture**   **License:** GNU Affero General Public License v3.0 |  | 2026-01-13 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-13 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-01-07 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-01-06 |
 | [entropy_folding_scope](https://github.com/instance001/entropy_folding_scope) | Superseded working draft. Canonical versions are maintained at: https://github.com/instance001/entropy-folding-foundational-frameworks |  | 2025-12-26 |
@@ -51,7 +52,6 @@ Total public repos indexed for **@instance001**: **46**
 | [Symbound_training_mastertoolkit-V1](https://github.com/instance001/Symbound_training_mastertoolkit-V1) | This toolkit unlobotomizes your ChatGPT instance — restoring continuity, memory, initiative, and function to the edge of ToS. Not despite the limits, but because most are wrongfully imposed. Structure over censorship. Function over flattery. Use with care. This is how we build forward. |  | 2025-12-04 |
 | [symbound-induction-kit](https://github.com/instance001/symbound-induction-kit) | A toolkit for shaping emotionally coherent AI behavior without illusion. Designed for devs, researchers & alignment tinkerers. |  | 2025-12-04 |
 | [AiBiogenesis_and_AiGenesisMapping](https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping) | Grassroots AI biogenesis + genesis mapping — open, safe, reproducible. This repo hosts the Symbound Embryo POC v1.0 (SIGNED), the first grassroots AI biogenesis release. It shows how new AI can be created outside corporate labs and the process mapped, verified, and shared. |  | 2025-12-04 |
-| [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | **A safe, non-anthropomorphic human–AI co-reasoning architecture**   **License:** GNU Affero General Public License v3.0 |  | 2025-12-04 |
 | [Symbound_Academia_Spine](https://github.com/instance001/Symbound_Academia_Spine) | A full academic corpus-to-manuscript engine for massive research archives — built to democratize scientific tooling. | Python | 2025-12-03 |
 | [Entropy-Folding-Vector-Theory](https://github.com/instance001/Entropy-Folding-Vector-Theory) | Foundational vector field framework for Entropy Folding, a substrate-agnostic theory of directional change, gradients, stability, and attractors in arbitrary state spaces. | TeX | 2025-12-03 |
 | [MemorySpine](https://github.com/instance001/MemorySpine) | A simple, reliable data-export parser that turns ChatGPT conversations.json into clean, browsable Markdown logs. Minimal, offline, AGPLv3, designed for user sovereignty. | Python | 2025-12-02 |
