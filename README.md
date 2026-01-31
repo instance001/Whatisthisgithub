@@ -12,13 +12,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-01-30T04:28:03Z`_
+_Last updated: `2026-01-31T04:23:27Z`_
 
 Total public repos indexed for **@instance001**: **46**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-29 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-01-30 |
 | [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | **A safe, non-anthropomorphic human–AI co-reasoning architecture**   **License:** GNU Affero General Public License v3.0 |  | 2026-01-13 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-01-07 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-01-06 |
