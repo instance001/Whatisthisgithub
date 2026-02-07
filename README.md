@@ -17,15 +17,15 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-02-07T04:26:21Z`_
+_Last updated: `2026-02-07T05:47:01Z`_
 
 Total public repos indexed for **@instance001**: **46**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-07 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-02-07 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2026-02-07 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-06 |
 | [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | **A safe, non-anthropomorphic human–AI co-reasoning architecture**   **License:** GNU Affero General Public License v3.0 |  | 2026-01-13 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-01-07 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-01-06 |
