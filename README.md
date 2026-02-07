@@ -6,6 +6,11 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 **Thank you for taking a moment to review this work — your time and attention are appreciated.**
 
+## Atlas
+
+- Glossary (terms + mapping symbols): [GLOSSARY.md](GLOSSARY.md)
+- Ambiguities (needs disambiguation): [AMBIGUITIES.md](AMBIGUITIES.md)
+
 > **Note:** Everything below this line is generated automatically.
 
 ---
