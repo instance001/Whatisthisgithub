@@ -18,12 +18,13 @@ It refreshes periodically via GitHub Actions and lists all public repositories, 
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-02-07T06:22:18Z`_
+_Last updated: `2026-02-07T07:45:18Z`_
 
-Total public repos indexed for **@instance001**: **46**
+Total public repos indexed for **@instance001**: **47**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chattyfactory](https://github.com/instance001/chattyfactory) | Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | PowerShell | 2026-02-07 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-07 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-02-07 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2026-02-07 |
