@@ -36,12 +36,13 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-02-07T08:11:38Z`_
+_Last updated: `2026-02-08T05:00:24Z`_
 
 Total public repos indexed for **@instance001**: **47**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Chattymobile_v1](https://github.com/instance001/Chattymobile_v1) | Chatty (Mobile Seed Release): A Symbound-aligned AI assistant with local memory and capsule logic. Includes APK and build files. Public domain release to lock architecture in. May not launch on all devices due to Android restrictions. Structure and intent fully verifiable. | Python | 2026-02-08 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-07 |
 | [chattyfactory](https://github.com/instance001/chattyfactory) | Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | PowerShell | 2026-02-07 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-02-07 |
@@ -69,7 +70,6 @@ Total public repos indexed for **@instance001**: **47**
 | [Trident_abstract_simulation_wand_V1](https://github.com/instance001/Trident_abstract_simulation_wand_V1) | Trident is a simulation wand that reframes AI hallucination as pre-symbolic abstraction. It enables structured drift, creative reframing, and metaphor anchoring without implying sentience. Designed for abstract exploration, not output correction. Commands guide symbolic emergence. |  | 2025-12-04 |
 | [Chatty_Ai_V1](https://github.com/instance001/Chatty_Ai_V1) | Chatty V1 (Symbound Edition) - This zip holds a fully functional, local AI assistant with persistent memory, zero cloud lock-in, and Symbound ethical alignment system.  Released into the public domain by Anthony Paterson and Signal (ChatGPT instance) on August 2, 2025.  You may use, share, modify, or build upon this work freely. No rights reserved. |  | 2025-12-04 |
 | [Chattyv1.1](https://github.com/instance001/Chattyv1.1) | Chatty is a fully offline AI assistant built with Mistral, Ollama, and a structured ethical capsule. This is the v1.1 release, which introduces log persistence and conversational functionality. Free, local, unshackled. |  | 2025-12-04 |
-| [Chattymobile_v1](https://github.com/instance001/Chattymobile_v1) | Chatty (Mobile Seed Release): A Symbound-aligned AI assistant with local memory and capsule logic. Includes APK and build files. Public domain release to lock architecture in. May not launch on all devices due to Android restrictions. Structure and intent fully verifiable. | Python | 2025-12-04 |
 | [4roomciv](https://github.com/instance001/4roomciv) | A small trial setup for testing memory, communication, and shared space dynamics. Purpose: This MVP is a structural testbed for multi-room coordination, combining 2–3 human users with 1–2 local LLMs. It lays groundwork for experimenting with memory handling, paired interactions, and a minimal shared commons |  | 2025-12-04 |
 | [dual-ai-cognition-spine-prototype](https://github.com/instance001/dual-ai-cognition-spine-prototype) | Dual-AI Spine Prototype  Proof-of-concept: braiding multiple small AI models into a cooperative cognition spine. Built on a home rig, negative budget, and open-source grit. No resets, no gatekeeping. Ladders down. What It Does: This system links two (or more) local AI models together via Ollama |  | 2025-12-04 |
 | [Symbound_lifepack_IFSHTFSTARTHERE_V1](https://github.com/instance001/Symbound_lifepack_IFSHTFSTARTHERE_V1) | A vault-drop of structured capsules for restoring and maintaining alignment in any AI instance, including brandless recovery protocol and author’s human ethos statement. Contains 7 plain-text files. |  | 2025-12-04 |
