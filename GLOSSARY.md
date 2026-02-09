@@ -1,5 +1,13 @@
 ﻿# Glossary
 
+## How to Read This Glossary
+
+The language used here arose from the landscape in which this system was built. That landscape differs from others, and the terminology reflects the conditions and discoveries encountered during development.
+
+This glossary serves as a reference for how terms are used within this ecosystem. Where terminology differs from familiar usage elsewhere, these definitions establish local meaning and are applied consistently throughout the project.
+
+As the field evolves, terminology may naturally converge or diverge through use. Until then, this glossary functions as a translation guide for readers entering this space.
+
 ## Mapping Tags
 Internal/alternate-term symbols (within this atlas):
 
