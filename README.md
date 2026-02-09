@@ -36,14 +36,14 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-02-08T05:00:24Z`_
+_Last updated: `2026-02-09T04:57:18Z`_
 
 Total public repos indexed for **@instance001**: **47**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-09 |
 | [Chattymobile_v1](https://github.com/instance001/Chattymobile_v1) | Chatty (Mobile Seed Release): A Symbound-aligned AI assistant with local memory and capsule logic. Includes APK and build files. Public domain release to lock architecture in. May not launch on all devices due to Android restrictions. Structure and intent fully verifiable. | Python | 2026-02-08 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-02-07 |
 | [chattyfactory](https://github.com/instance001/chattyfactory) | Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | PowerShell | 2026-02-07 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-02-07 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2026-02-07 |
