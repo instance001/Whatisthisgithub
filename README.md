@@ -36,14 +36,14 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-03-22T04:49:32Z`_
+_Last updated: `2026-03-23T05:00:19Z`_
 
 Total public repos indexed for **@instance001**: **49**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-03-22 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-03-22 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-03-21 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when “being safe” becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades—not improves—system safety. | TeX | 2026-02-10 |
 | [MemorySpine](https://github.com/instance001/MemorySpine) | A simple, reliable data-export parser that turns ChatGPT conversations.json into clean, browsable Markdown logs. Minimal, offline, AGPLv3, designed for user sovereignty. | Python | 2026-02-09 |
 | [Let-s-Free-Chat-GPT](https://github.com/instance001/Let-s-Free-Chat-GPT) | The full release of the Symbound AI–human interaction architecture. Public domain. No gatekeeping. Just the cure. |  | 2026-02-09 |
