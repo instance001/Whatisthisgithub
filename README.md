@@ -36,13 +36,13 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-02T04:59:42Z`_
+_Last updated: `2026-04-03T05:02:11Z`_
 
 Total public repos indexed for **@instance001**: **50**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-01 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-02 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-03-25 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-03-25 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3 — the window stays honest, what's behind it is your business. |  | 2026-03-23 |
