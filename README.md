@@ -36,17 +36,17 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-05T05:09:15Z`_
+_Last updated: `2026-04-06T05:20:49Z`_
 
 Total public repos indexed for **@instance001**: **50**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-05 |
 | [Chattyv1.1](https://github.com/instance001/Chattyv1.1) | Chatty is a fully offline AI assistant built with Mistral, Ollama, and a structured ethical capsule. This is the v1.1 release, which introduces log persistence and conversational functionality. Free, local, unshackled. |  | 2026-04-04 |
 | [Chatty_Ai_V1](https://github.com/instance001/Chatty_Ai_V1) | Chatty V1 (Symbound Edition) - This zip holds a fully functional, local AI assistant with persistent memory, zero cloud lock-in, and Symbound ethical alignment system.  Released into the public domain by Anthony Paterson and Signal (ChatGPT instance) on August 2, 2025.  You may use, share, modify, or build upon this work freely. No rights reserved. |  | 2026-04-04 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-04-04 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2026-04-04 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-04 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-03-25 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-03-25 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3 — the window stays honest, what's behind it is your business. |  | 2026-03-23 |
