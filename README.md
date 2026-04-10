@@ -36,13 +36,13 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-09T05:06:41Z`_
+_Last updated: `2026-04-10T05:22:26Z`_
 
 Total public repos indexed for **@instance001**: **50**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-08 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-09 |
 | [Chattyv1.1](https://github.com/instance001/Chattyv1.1) | Chatty is a fully offline AI assistant built with Mistral, Ollama, and a structured ethical capsule. This is the v1.1 release, which introduces log persistence and conversational functionality. Free, local, unshackled. |  | 2026-04-04 |
 | [Chatty_Ai_V1](https://github.com/instance001/Chatty_Ai_V1) | Chatty V1 (Symbound Edition) - This zip holds a fully functional, local AI assistant with persistent memory, zero cloud lock-in, and Symbound ethical alignment system.  Released into the public domain by Anthony Paterson and Signal (ChatGPT instance) on August 2, 2025.  You may use, share, modify, or build upon this work freely. No rights reserved. |  | 2026-04-04 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-04-04 |
