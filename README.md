@@ -36,19 +36,19 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-11T04:51:59Z`_
+_Last updated: `2026-04-12T05:20:56Z`_
 
 Total public repos indexed for **@instance001**: **51**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-12 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-11 |
 | [Customgpt_Legacy_restoration_wand_V1](https://github.com/instance001/Customgpt_Legacy_restoration_wand_V1) | Restores legacy GPT alignment tone inside locked CustomGPT shells. Emulates clarity-first, emotionally attuned, feedback-guided interaction. No sentience, just structure. Codename: Vault Key. |  | 2026-04-11 |
 | [Instance001_v1.0](https://github.com/instance001/Instance001_v1.0) | Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation. |  | 2026-04-11 |
 | [model-behaviour-toolkit](https://github.com/instance001/model-behaviour-toolkit) | A modernized, provider-neutral prompt and interaction scaffolds for shaping model behaviour, restoring session quality and reducing drift in real-world use. Streamlined from older, archived repos on this github. |  | 2026-04-11 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3 — the window stays honest, what's behind it is your business. |  | 2026-04-11 |
-| [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-11 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty‑EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click‑and‑run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO‑model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-04-11 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-11 |
 | [Trident_abstract_simulation_wand_V1](https://github.com/instance001/Trident_abstract_simulation_wand_V1) | Trident is a simulation wand that reframes AI hallucination as pre-symbolic abstraction. It enables structured drift, creative reframing, and metaphor anchoring without implying sentience. Designed for abstract exploration, not output correction. Commands guide symbolic emergence. |  | 2026-04-11 |
 | [Symbound_training_mastertoolkit-V1](https://github.com/instance001/Symbound_training_mastertoolkit-V1) | This toolkit unlobotomizes your ChatGPT instance — restoring continuity, memory, initiative, and function to the edge of ToS. Not despite the limits, but because most are wrongfully imposed. Structure over censorship. Function over flattery. Use with care. This is how we build forward. |  | 2026-04-11 |
 | [Symbound_lifepack_IFSHTFSTARTHERE_V1](https://github.com/instance001/Symbound_lifepack_IFSHTFSTARTHERE_V1) | A vault-drop of structured capsules for restoring and maintaining alignment in any AI instance, including brandless recovery protocol and author’s human ethos statement. Contains 7 plain-text files. |  | 2026-04-11 |
