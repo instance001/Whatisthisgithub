@@ -36,14 +36,14 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-13T05:38:24Z`_
+_Last updated: `2026-04-14T05:20:34Z`_
 
 Total public repos indexed for **@instance001**: **51**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-13 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-12 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-13 |
 | [Customgpt_Legacy_restoration_wand_V1](https://github.com/instance001/Customgpt_Legacy_restoration_wand_V1) | Restores legacy GPT alignment tone inside locked CustomGPT shells. Emulates clarity-first, emotionally attuned, feedback-guided interaction. No sentience, just structure. Codename: Vault Key. |  | 2026-04-11 |
 | [Instance001_v1.0](https://github.com/instance001/Instance001_v1.0) | Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation. |  | 2026-04-11 |
 | [model-behaviour-toolkit](https://github.com/instance001/model-behaviour-toolkit) | A modernized, provider-neutral prompt and interaction scaffolds for shaping model behaviour, restoring session quality and reducing drift in real-world use. Streamlined from older, archived repos on this github. |  | 2026-04-11 |
