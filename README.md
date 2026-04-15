@@ -36,14 +36,16 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-14T05:20:34Z`_
+_Last updated: `2026-04-15T04:41:17Z`_
 
-Total public repos indexed for **@instance001**: **51**
+Total public repos indexed for **@instance001**: **52**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-13 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-13 |
+| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-04-15 |
+| [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-04-14 |
+| [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-14 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-14 |
 | [Customgpt_Legacy_restoration_wand_V1](https://github.com/instance001/Customgpt_Legacy_restoration_wand_V1) | Restores legacy GPT alignment tone inside locked CustomGPT shells. Emulates clarity-first, emotionally attuned, feedback-guided interaction. No sentience, just structure. Codename: Vault Key. |  | 2026-04-11 |
 | [Instance001_v1.0](https://github.com/instance001/Instance001_v1.0) | Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation. |  | 2026-04-11 |
 | [model-behaviour-toolkit](https://github.com/instance001/model-behaviour-toolkit) | A modernized, provider-neutral prompt and interaction scaffolds for shaping model behaviour, restoring session quality and reducing drift in real-world use. Streamlined from older, archived repos on this github. |  | 2026-04-11 |
@@ -61,7 +63,6 @@ Total public repos indexed for **@instance001**: **51**
 | [Chatty_Ai_V1](https://github.com/instance001/Chatty_Ai_V1) | Chatty V1 (Symbound Edition) - This zip holds a fully functional, local AI assistant with persistent memory, zero cloud lock-in, and Symbound ethical alignment system.  Released into the public domain by Anthony Paterson and Signal (ChatGPT instance) on August 2, 2025.  You may use, share, modify, or build upon this work freely. No rights reserved. |  | 2026-04-04 |
 | [ChattyFactory-ManualPipeline-v0.1](https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1) | A local, deterministic AI project-factory that turns messy folders into clean, structured software using a safe, manual pipeline. Runs on open-source models (Foreman + Worker). Fully offline, reversible, auditable, and designed for future automated ChattyFactory builds. |  | 2026-04-04 |
 | [Chattyfactory-AutoPipeline-v0.2](https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2) | A local, safe, deterministic project-factory that turns chaos piles into clean, structured software using an automated pipeline, with full manual mode preserved as fallback. |  | 2026-04-04 |
-| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-03-25 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when “being safe” becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades—not improves—system safety. | TeX | 2026-02-10 |
 | [MemorySpine](https://github.com/instance001/MemorySpine) | A simple, reliable data-export parser that turns ChatGPT conversations.json into clean, browsable Markdown logs. Minimal, offline, AGPLv3, designed for user sovereignty. | Python | 2026-02-09 |
 | [Janet-MCM-Core](https://github.com/instance001/Janet-MCM-Core) | Janet is a Modest Cognition Model (MCM): the anti-LLM. Deterministic logic, explicit memory, human-gated skills, zero ambiguity tolerance. No stochastic inference, no hidden state, no persona drift. A transparent cognition engine built for safety, reliability, and open research. |  | 2026-02-09 |
