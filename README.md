@@ -36,13 +36,13 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-04-20T05:37:48Z`_
+_Last updated: `2026-04-21T05:24:27Z`_
 
 Total public repos indexed for **@instance001**: **52**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-19 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-04-20 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-04-15 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-04-14 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-04-14 |
