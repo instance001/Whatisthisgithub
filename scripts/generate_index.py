@@ -8,7 +8,6 @@ API_URL_TEMPLATE = "https://api.github.com/users/{username}/repos"
 AUTO_START = "<!-- AUTO-GENERATED-INDEX:START -->"
 AUTO_END = "<!-- AUTO-GENERATED-INDEX:END -->"
 
-
 def get_username():
     # Prefer the repo owner, fall back to a hardcoded default
     env_owner = os.environ.get("GITHUB_REPOSITORY_OWNER")
@@ -71,11 +70,29 @@ def format_date(date_str):
         return date_str
 
 
+def normalize_text(value):
+    """
+    Keep generated markdown ASCII-friendly so it renders cleanly in plain terminals.
+    """
+    return (
+        value
+        .replace("\u2010", "-")
+        .replace("\u2011", "-")
+        .replace("\u2012", "-")
+        .replace("\u2013", "-")
+        .replace("\u2014", " - ")
+        .replace("\u2018", "'")
+        .replace("\u2019", "'")
+        .replace("\u201c", '"')
+        .replace("\u201d", '"')
+    )
+
+
 def build_index_markdown(username, repos):
     """
     Build the markdown for the auto-generated section.
     """
-    now = datetime.datetime.utcnow().isoformat(timespec="seconds") + "Z"
+    now = datetime.datetime.now(datetime.UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
 
     visible_repos = [
         r for r in repos
@@ -84,33 +101,56 @@ def build_index_markdown(username, repos):
         # and not r.get("fork", False)
     ]
 
-    visible_repos.sort(
+    active_repos = [r for r in visible_repos if not r.get("archived", False)]
+    archived_repos = [r for r in visible_repos if r.get("archived", False)]
+
+    active_repos.sort(
+        key=lambda r: r.get("updated_at", "1970-01-01T00:00:00Z"),
+        reverse=True,
+    )
+    archived_repos.sort(
         key=lambda r: r.get("updated_at", "1970-01-01T00:00:00Z"),
         reverse=True,
     )
 
     print("Visible public repos:", len(visible_repos))
+    print("Active public repos:", len(active_repos))
+    print("Archived public repos:", len(archived_repos))
+
+    def append_repo_table(lines, repo_list):
+        lines.append("| Repo | Description | Language | Updated |")
+        lines.append("| ---- | ----------- | -------- | ------- |")
+
+        for repo in repo_list:
+            name = repo.get("name", "")
+            html_url = repo.get("html_url", "")
+            desc = repo.get("description") or ""
+            lang = repo.get("language") or ""
+            updated = format_date(repo.get("updated_at", ""))
+
+            desc = normalize_text(desc).replace("|", "\\|")
+            lang = normalize_text(lang)
+
+            lines.append(
+                "| [{}]({}) | {} | {} | {} |".format(name, html_url, desc, lang, updated)
+            )
 
     lines = []
     lines.append("_Last updated: `{}`_".format(now))
     lines.append("")
     lines.append("Total public repos indexed for **@{}**: **{}**".format(username, len(visible_repos)))
     lines.append("")
-    lines.append("| Repo | Description | Language | Updated |")
-    lines.append("| ---- | ----------- | -------- | ------- |")
+    lines.append("## Active Repositories")
+    lines.append("")
+    append_repo_table(lines, active_repos)
 
-    for repo in visible_repos:
-        name = repo.get("name", "")
-        html_url = repo.get("html_url", "")
-        desc = repo.get("description") or ""
-        lang = repo.get("language") or ""
-        updated = format_date(repo.get("updated_at", ""))
-
-        desc = desc.replace("|", "\\|")
-
-        lines.append(
-            "| [{}]({}) | {} | {} | {} |".format(name, html_url, desc, lang, updated)
-        )
+    if archived_repos:
+        lines.append("")
+        lines.append("## Archived Repositories")
+        lines.append("")
+        lines.append("Below is a list of archived, historical repos. No longer current and superseded by the repos above.")
+        lines.append("")
+        append_repo_table(lines, archived_repos)
 
     return "\n".join(lines) + "\n"
 

@@ -13,7 +13,7 @@ on:
       - 'scripts/generate_index.py'
       - 'README.md'
 
-# 🔑 This is important: allow the workflow to push commits
+# This is important: allow the workflow to push commits
 permissions:
   contents: write
 
