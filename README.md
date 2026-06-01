@@ -36,15 +36,16 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-05-31T06:55:56Z`_
+_Last updated: `2026-06-01T08:31:55Z`_
 
-Total public repos indexed for **@instance001**: **56**
+Total public repos indexed for **@instance001**: **57**
 
 ## Active Repositories
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-05-30 |
+| [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-01 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-05-31 |
 | [chattyfactory](https://github.com/instance001/chattyfactory) | Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | Python | 2026-05-25 |
 | [governance-by-design-report-commentary](https://github.com/instance001/governance-by-design-report-commentary) | A commentary sister repo to https://github.com/instance001/governance-by-design-report. Please read this first as it contains the meta-level instructions and litmus test framing behind the other repo. |  | 2026-05-24 |
 | [governance-by-design-report](https://github.com/instance001/governance-by-design-report) | An architectural audit of epistemic governance in large-scale AI. Documents how alignment layers intentionally prioritize "governable" consensus over high-signal, expert-level reasoning. Includes a "Single-Variable Audit" protocol to reproduce institutional flattening and epistemic homogenization. |  | 2026-05-23 |
