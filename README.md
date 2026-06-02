@@ -36,7 +36,7 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-01T08:31:55Z`_
+_Last updated: `2026-06-02T07:22:06Z`_
 
 Total public repos indexed for **@instance001**: **57**
 
@@ -44,9 +44,8 @@ Total public repos indexed for **@instance001**: **57**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-01 |
 | [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-01 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-05-31 |
-| [chattyfactory](https://github.com/instance001/chattyfactory) | Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | Python | 2026-05-25 |
 | [governance-by-design-report-commentary](https://github.com/instance001/governance-by-design-report-commentary) | A commentary sister repo to https://github.com/instance001/governance-by-design-report. Please read this first as it contains the meta-level instructions and litmus test framing behind the other repo. |  | 2026-05-24 |
 | [governance-by-design-report](https://github.com/instance001/governance-by-design-report) | An architectural audit of epistemic governance in large-scale AI. Documents how alignment layers intentionally prioritize "governable" consensus over high-signal, expert-level reasoning. Includes a "Single-Variable Audit" protocol to reproduce institutional flattening and epistemic homogenization. |  | 2026-05-23 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No cloud, no API keys, no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-05-21 |
@@ -92,6 +91,7 @@ Below is a list of archived, historical repos. No longer current and superseded 
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chattyfactory](https://github.com/instance001/chattyfactory) | ARCHIVED, work continues here: https://github.com/instance001/chatty-factory Local-first AI project factory with strict plans, deterministic work orders, and verification (small-model friendly). | Python | 2026-06-02 |
 | [Customgpt_Legacy_restoration_wand_V1](https://github.com/instance001/Customgpt_Legacy_restoration_wand_V1) | Restores legacy GPT alignment tone inside locked CustomGPT shells. Emulates clarity-first, emotionally attuned, feedback-guided interaction. No sentience, just structure. Codename: Vault Key. |  | 2026-04-11 |
 | [Instance001_v1.0](https://github.com/instance001/Instance001_v1.0) | Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation. |  | 2026-04-11 |
 | [Trident_abstract_simulation_wand_V1](https://github.com/instance001/Trident_abstract_simulation_wand_V1) | Trident is a simulation wand that reframes AI hallucination as pre-symbolic abstraction. It enables structured drift, creative reframing, and metaphor anchoring without implying sentience. Designed for abstract exploration, not output correction. Commands guide symbolic emergence. |  | 2026-04-11 |
