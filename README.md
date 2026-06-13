@@ -36,7 +36,7 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-13T04:01:36Z`_
+_Last updated: `2026-06-13T06:56:24Z`_
 
 Total public repos indexed for **@instance001**: **63**
 
@@ -44,9 +44,9 @@ Total public repos indexed for **@instance001**: **63**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-13 |
 | [entropy-folding-cross-domain-signal-atlas](https://github.com/instance001/entropy-folding-cross-domain-signal-atlas) | A companion signal atlas for Entropy Folding and Eureka Cascade: operator provenance, mechanism traces, tool-architecture signals, tooling lenses, supporting correspondences, exclusions, and uncertainty notes. |  | 2026-06-13 |
 | [entropy-folding-eureka-cascade-hypothesis](https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis) | A consolidated, falsifiability-first hypothesis repo for Entropy Folding and Eureka Cascade: definitions, model structure, formal notes, claims/non-claims, uncertainty bounds, and source mapping. |  | 2026-06-13 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-13 |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | Model-native persistent memory patterns for LLMs: semantic buckets, reducer-governed state, hot context injection, and context routing packets for compact continuity without cold-log token waste. |  | 2026-06-12 |
 | [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-06-12 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-06-11 |
