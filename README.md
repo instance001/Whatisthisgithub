@@ -1,16 +1,69 @@
 # Field Root
 
-This repository is an **auto-generated index** of the public work of [@instance001](https://github.com/instance001).
+This repository is the landing page and **auto-generated index** of the public work of [@instance001](https://github.com/instance001).
 
 It refreshes periodically via GitHub Actions and lists all public repositories, ordered by recent activity.
 
 **Thank you for taking a moment to review this work - your time and attention are appreciated.**
+
+## Start Here
+
+If you are new here, use this order:
+
+1. [EASY_START.md](EASY_START.md)
+2. [GLOSSARY.md](GLOSSARY.md)
+3. The active index below
+
+This gives you:
+
+- the practical entry-point map
+- the local terminology
+- then the full repo list once you know what you are looking at
+
+If you already know what you want, jump straight to:
+
+- Want the practical entry-point guide: [EASY_START.md](EASY_START.md)
+- Want term definitions first: [GLOSSARY.md](GLOSSARY.md)
+- Want wider glossary tables: [GLOSSARY_FULL.md](GLOSSARY_FULL.md)
+- Want the bigger corpus intent and stance: [ABOUT_FRACTAL_MEDIA_INFRASTRUCTURE](ABOUT_FRACTAL_MEDIA_INFRASTRUCTURE)
+
+## What This Repo Is For
+
+This repo is the navigation layer for the wider corpus.
+
+It is here to help visitors:
+
+- find the right starting repo quickly
+- distinguish current entry points from historical ones
+- decode local terminology
+- orient before dropping into the full auto-generated index
+
+If you only read one extra file from here, make it [EASY_START.md](EASY_START.md).
+
+## Current Fast Lanes
+
+If you want the strongest current entry points without reading the full 63-repo history, start with one of these:
+
+- `chatty-cog` for the everyday local assistant shell
+- `chatty-art` for local media generation
+- `chatty-lora` for local LoRA training and dataset prep
+- `chatty-factory` for plain-language build and patch workflows
+- `chatty-quest` for the newer deterministic game / engine lane
+- `ai-teaming-framework` for human-AI interaction mechanics
+- `model-behaviour-toolkit` for prompting, recovery, and drift handling
+- `llm-defined-persistent-memory` for compact persistent memory design
+- `semantic-signal-alphabet` for model-native semantic compression
+- `entropy-folding-eureka-cascade-hypothesis` for the current theory spine
+- `entropy-folding-cross-domain-signal-atlas` for the companion evidence / signal map
 
 ## Atlas
 
 - Glossary (terms + mapping symbols): [GLOSSARY.md](GLOSSARY.md)
 - Full glossary tables (wide): [GLOSSARY_FULL.md](GLOSSARY_FULL.md)
 - Ambiguities (needs disambiguation): [AMBIGUITIES.md](AMBIGUITIES.md)
+
+These are reference surfaces, not reading requirements.
+Use them when a term, framing, or repo relationship is unclear.
 
 ## Operator Provenance (Context Only)
 
