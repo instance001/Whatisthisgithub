@@ -89,7 +89,7 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-13T23:55:45Z`_
+_Last updated: `2026-06-14T00:44:47Z`_
 
 Total public repos indexed for **@instance001**: **63**
 
@@ -97,7 +97,7 @@ Total public repos indexed for **@instance001**: **63**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-13 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-14 |
 | [entropy-folding-cross-domain-signal-atlas](https://github.com/instance001/entropy-folding-cross-domain-signal-atlas) | A companion signal atlas for Entropy Folding and Eureka Cascade: operator provenance, mechanism traces, tool-architecture signals, tooling lenses, supporting correspondences, exclusions, and uncertainty notes. |  | 2026-06-13 |
 | [entropy-folding-eureka-cascade-hypothesis](https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis) | A consolidated, falsifiability-first hypothesis repo for Entropy Folding and Eureka Cascade: definitions, model structure, formal notes, claims/non-claims, uncertainty bounds, and source mapping. |  | 2026-06-13 |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | Model-native persistent memory patterns for LLMs: semantic buckets, reducer-governed state, hot context injection, and context routing packets for compact continuity without cold-log token waste. |  | 2026-06-12 |
