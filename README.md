@@ -89,7 +89,7 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-15T09:18:25Z`_
+_Last updated: `2026-06-16T08:43:23Z`_
 
 Total public repos indexed for **@instance001**: **63**
 
@@ -97,7 +97,8 @@ Total public repos indexed for **@instance001**: **63**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-14 |
+| [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-16 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-15 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-06-14 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty-EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click-and-run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO-model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-06-14 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-06-14 |
@@ -107,7 +108,6 @@ Total public repos indexed for **@instance001**: **63**
 | [entropy-folding-eureka-cascade-hypothesis](https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis) | A consolidated, falsifiability-first hypothesis repo for Entropy Folding and Eureka Cascade: definitions, model structure, formal notes, claims/non-claims, uncertainty bounds, and source mapping. |  | 2026-06-14 |
 | [entropy-folding-cross-domain-signal-atlas](https://github.com/instance001/entropy-folding-cross-domain-signal-atlas) | A companion signal atlas for Entropy Folding and Eureka Cascade: operator provenance, mechanism traces, tool-architecture signals, tooling lenses, supporting correspondences, exclusions, and uncertainty notes. |  | 2026-06-14 |
 | [ai-teaming-framework](https://github.com/instance001/ai-teaming-framework) | A skills-based framework for working effectively with any AI tool. Teaches the underlying mechanics of human-AI interaction  -  not a prompt list, not copy-paste templates, but transferable, epistemic principles that work across models, tools, and tasks. |  | 2026-06-14 |
-| [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-14 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-06-14 |
 | [historical-janet-school-exploratory-build](https://github.com/instance001/historical-janet-school-exploratory-build) | A prototype MCM school based on special needs, human curriculum exploring telemetry for signal of abstract reasoning. Local work is continuing on a newer, more fleshed out build currently and will be online soon. Contains initial run readout files for interest. Later half of 2025. | Python | 2026-06-14 |
 | [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-06-14 |
