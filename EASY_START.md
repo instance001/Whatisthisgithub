@@ -69,7 +69,7 @@ If you only want the current, most active entry points, stay mostly in the first
 
 ## If You Want the Newer "Current" Cluster Only
 
-If you do not want to wander through the full 63-repo history, these are the strongest current entry points:
+If you do not want to wander through the full repo history, these are the strongest current entry points:
 
 - `chatty-cog`
 - `chatty-art`
