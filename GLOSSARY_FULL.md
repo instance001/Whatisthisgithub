@@ -572,6 +572,16 @@ If you want the landing page, go back to `README.md`.
 | Auto-suggested backend | manual override | ~ | ~ | Family-aware backend recommendation state | Visible state showing whether the selected backend came from Chatty-lora's compatibility suggestion or from an intentional manual override | Not a hidden silent switch; not a guarantee the backend is optimal for every dataset | chatty-lora/README.md |
 | ECG Window (Chatty-lora) | training activity graph | ~ | ~ | Honest local activity indicator | Small CPU/GPU graph shown on the top runnable saved-plan card so cache stages and live training activity stay visible | Not deep telemetry; not a performance profiler | chatty-lora/README.md |
 
+## rd-engine
+| Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RD Engine | rd-engine | = | ~ | Tiny reducer-governed deterministic state core | Small reusable Rust core where canonical state lives in buckets, reducers own legal mutations, events explain changes, and the saved artifact is the canonical state itself | Not one fixed memory schema; not a full app framework; not tied to one game or UI model | rd-engine/README.md; rd-engine/docs/00_core_idea.md |
+| Buckets | bucketed state | ~ | ~ | Canonical state containers | Live state containers that hold lasting truth and are mutated only through reducers | Not one universal vocabulary; not just display labels | rd-engine/README.md; rd-engine/docs/00_core_idea.md |
+| Reducer boundary | reducers, mutation boundary | ~ | ~ | Controlled mutation rule | Core rule that actions request change and reducers approve or reject legal state mutation | Not arbitrary freeform writes; not UI-driven state drift | rd-engine/docs/00_core_idea.md; rd-engine/docs/02_use_cases.md |
+| Engine events | events | = | ~ | Mutation receipts | Emitted records describing what changed when a reducer action succeeds or fails | Not the canonical state itself; not prose-only summaries | rd-engine/README.md; rd-engine/src/engine.rs |
+| Engine save envelope | save envelope | = | ~ | Canonical save artifact | Saved representation of canonical state intended for continuity and reload rather than saving only narrative descriptions | Not transcript replay; not a chat log pretending to be state | rd-engine/README.md; rd-engine/src/save.rs |
+| Project memory host | project memory example | ~ | ~ | Example host adaptation | Demonstration of how the same reducer-governed core can power project-memory storage and status mutation inside another repo | Not a mandatory schema; not the only intended use case | rd-engine/examples/project_memory_host.rs |
+
 ## chatty-quest
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |

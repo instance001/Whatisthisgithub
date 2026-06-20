@@ -49,6 +49,7 @@ If you want the strongest current entry points without reading the full 63-repo 
 - `chatty-lora` for local LoRA training and dataset prep
 - `chatty-factory` for plain-language build and patch workflows
 - `chatty-quest` for the newer deterministic game / engine lane
+- `rd-engine` for the tiny reducer-governed state core behind newer memory and engine work
 - `ai-teaming-framework` for human-AI interaction mechanics
 - `model-behaviour-toolkit` for prompting, recovery, and drift handling
 - `llm-defined-persistent-memory` for compact persistent memory design

@@ -52,10 +52,11 @@ If you only want the current, most active entry points, stay mostly in the first
 | Provider-neutral prompting / drift recovery / better sessions | `model-behaviour-toolkit` | `ai-teaming-framework`, `chatty-cog` | Best modernized prompt-and-behaviour toolkit in the corpus. |
 | Honest tiny activity monitor for local jobs | `ecg_window` | `chatty-art`, `chatty-lora`, `chatty-cog` | Small, self-contained, practical utility repo. |
 | Lightweight offline export utility | `MemorySpine` |  | Narrow, useful, and easy to understand quickly. |
-| Game / modding / deterministic adventure engine | `chatty-quest` | `chatty-art` | Current game-facing front door and one of the clearest newer active repos. |
+| Game / modding / deterministic adventure engine | `chatty-quest` | `rd-engine`, `chatty-art` | `chatty-quest` is the current game-facing front door; `rd-engine` is the smaller reusable state core underneath that lane. |
 | Small experimental sandbox | `chattydoom` | `chatty-quest` | Good if you want something hackable and less theory-heavy. |
-| Model-native persistent memory design | `llm-defined-persistent-memory` | `semantic-signal-alphabet`, `chatty-quest` | Best starting point for the newer compact-memory / reducer-governed continuity line. |
-| Semantic compression / bucketed meaning systems | `semantic-signal-alphabet` | `llm-defined-persistent-memory` | Start here if the bucket-map idea is what brought you in. |
+| Reducer-governed state core / reusable substrate | `rd-engine` | `llm-defined-persistent-memory`, `semantic-signal-alphabet`, `chatty-quest` | Best first stop if you want the smallest reusable core behind the newer memory and deterministic engine line. |
+| Model-native persistent memory design | `llm-defined-persistent-memory` | `rd-engine`, `semantic-signal-alphabet`, `chatty-quest` | Best starting point for the newer compact-memory / reducer-governed continuity line. |
+| Semantic compression / bucketed meaning systems | `semantic-signal-alphabet` | `rd-engine`, `llm-defined-persistent-memory` | Start here if the bucket-map idea is what brought you in. |
 | Human-AI cognition taxonomy / "what kind of system is this?" | `Cognition-Scale-Formal-Taxonomy` | `Janet-MCM-Core` | Taxonomy first, implementation exemplar second. |
 | Deterministic cognition / MCM implementation | `Janet-MCM-Core` | `historical-janet-school-exploratory-build` | `Janet-MCM-Core` is the cleaner conceptual anchor; the school build is historical exploratory machinery. |
 | Human-side profiling / strain effects on LLMs | `Cognitive-Reactor-Profile` | `cognitive_reactor_stress_tests` | Profile defines the construct; stress tests probe it. |
@@ -76,6 +77,7 @@ If you do not want to wander through the full repo history, these are the strong
 - `chatty-lora`
 - `chatty-factory`
 - `chatty-quest`
+- `rd-engine`
 - `ai-teaming-framework`
 - `model-behaviour-toolkit`
 - `llm-defined-persistent-memory`
@@ -96,7 +98,7 @@ Pick one of these routes:
 - Theory route:
   `entropy-folding-eureka-cascade-hypothesis` -> `entropy-folding-cross-domain-signal-atlas`
 - Memory / architecture route:
-  `semantic-signal-alphabet` -> `llm-defined-persistent-memory`
+  `rd-engine` -> `semantic-signal-alphabet` -> `llm-defined-persistent-memory`
 
 ## Active vs Historical
 
@@ -139,15 +141,17 @@ If you want a balanced overview without getting lost:
 5. `chatty-cog`
 6. `chatty-art`
 7. `chatty-factory`
-8. `semantic-signal-alphabet`
-9. `llm-defined-persistent-memory`
-10. `entropy-folding-eureka-cascade-hypothesis`
+8. `rd-engine`
+9. `semantic-signal-alphabet`
+10. `llm-defined-persistent-memory`
+11. `entropy-folding-eureka-cascade-hypothesis`
 
 That order gets you:
 
 - the navigation layer
 - the interaction philosophy
 - the practical tools
+- the small reusable state core behind part of the newer stack
 - the newer memory architecture ideas
 - the current theory spine
 
