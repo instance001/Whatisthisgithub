@@ -42,7 +42,7 @@ If you only read one extra file from here, make it [EASY_START.md](EASY_START.md
 
 ## Current Fast Lanes
 
-If you want the strongest current entry points without reading the full 63-repo history, start with one of these:
+If you want the strongest current entry points without reading the full repo history, start with one of these:
 
 - `chatty-cog` for the everyday local assistant shell
 - `chatty-art` for local media generation
