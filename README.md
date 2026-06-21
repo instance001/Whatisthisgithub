@@ -90,7 +90,7 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-21T03:11:09Z`_
+_Last updated: `2026-06-21T07:57:27Z`_
 
 Total public repos indexed for **@instance001**: **66**
 
@@ -98,8 +98,8 @@ Total public repos indexed for **@instance001**: **66**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-21 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-06-21 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-20 |
 | [rd-engine](https://github.com/instance001/rd-engine) | Tiny reducer-governed deterministic state core you can drop into your project, adapt to your domain, and expand as needed. | Rust | 2026-06-20 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-06-19 |
 | [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-18 |
