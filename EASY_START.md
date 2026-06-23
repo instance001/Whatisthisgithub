@@ -47,6 +47,7 @@ If you only want the current, most active entry points, stay mostly in the first
 | Click-and-run Windows release | `chatty-edu-user` | `chatty-edu` | Best first stop if you want something runnable without first building from source. |
 | Local image / GIF / video / audio generation | `chatty-art` | `chatty-lora`, `ecg_window` | `chatty-art` is the current media-generation front door. |
 | Local LoRA training / dataset curation | `chatty-lora` | `chatty-art` | Start here if the goal is training, dataset cleanup, or Wan/Musubi plan prep. |
+| Local LLM build suite: tweaking, quantizing, training | `nanochat-llm-tweaker` | `chatty-lora`, `chatty-cog` | Best first stop if you want a guided local suite for corpus prep, tokenizer work, base-model training, quantization, checkpoint testing, and related builder workflows. |
 | Plain-language software generation / patching | `chatty-factory` | `chatty-cog`, archived `chattyfactory` | Current project-factory surface; use this, not the older similarly named archive, for present-day direction. |
 | How to work better with AI in general | `ai-teaming-framework` | `model-behaviour-toolkit` | `ai-teaming-framework` is the clearest beginner-to-advanced interaction guide. |
 | Provider-neutral prompting / drift recovery / better sessions | `model-behaviour-toolkit` | `ai-teaming-framework`, `chatty-cog` | Best modernized prompt-and-behaviour toolkit in the corpus. |
@@ -59,6 +60,7 @@ If you only want the current, most active entry points, stay mostly in the first
 | Semantic compression / bucketed meaning systems | `semantic-signal-alphabet` | `rd-engine`, `llm-defined-persistent-memory` | Start here if the bucket-map idea is what brought you in. |
 | Human-AI cognition taxonomy / "what kind of system is this?" | `Cognition-Scale-Formal-Taxonomy` | `Janet-MCM-Core` | Taxonomy first, implementation exemplar second. |
 | Deterministic cognition / MCM implementation | `Janet-MCM-Core` | `historical-janet-school-exploratory-build` | `Janet-MCM-Core` is the cleaner conceptual anchor; the school build is historical exploratory machinery. |
+| Current Janet-school cognition / training-ground implementation lane | `janet-school` | `Janet-MCM-Core`, `historical-janet-school-exploratory-build` | Start here if you want the newer school-facing Janet implementation surface, with the core and historical exploratory repo as context. |
 | Human-side profiling / strain effects on LLMs | `Cognitive-Reactor-Profile` | `cognitive_reactor_stress_tests` | Profile defines the construct; stress tests probe it. |
 | Foundational entropy-folding theory | `entropy-folding-eureka-cascade-hypothesis` | `entropy-folding-cross-domain-signal-atlas`, `entropy-folding-foundational-frameworks` | Best current hypothesis-first entry point for this theory cluster. |
 | Evidence / provenance / signal mapping for that theory | `entropy-folding-cross-domain-signal-atlas` | `entropy-folding-eureka-cascade-hypothesis` | Use this if you want the signal map rather than the hypothesis spine first. |
@@ -75,6 +77,7 @@ If you do not want to wander through the full repo history, these are the strong
 - `chatty-cog`
 - `chatty-art`
 - `chatty-lora`
+- `nanochat-llm-tweaker`
 - `chatty-factory`
 - `chatty-quest`
 - `rd-engine`
@@ -82,6 +85,7 @@ If you do not want to wander through the full repo history, these are the strong
 - `model-behaviour-toolkit`
 - `llm-defined-persistent-memory`
 - `semantic-signal-alphabet`
+- `janet-school`
 - `entropy-folding-eureka-cascade-hypothesis`
 - `entropy-folding-cross-domain-signal-atlas`
 
@@ -92,13 +96,15 @@ That subset will give you a much more accurate picture of where the ecosystem is
 Pick one of these routes:
 
 - Local tools route:
-  `chatty-cog` -> `chatty-art` -> `chatty-factory`
+  `chatty-cog` -> `chatty-art` -> `nanochat-llm-tweaker` -> `chatty-factory`
 - AI interaction route:
   `ai-teaming-framework` -> `model-behaviour-toolkit`
 - Theory route:
   `entropy-folding-eureka-cascade-hypothesis` -> `entropy-folding-cross-domain-signal-atlas`
 - Memory / architecture route:
   `rd-engine` -> `semantic-signal-alphabet` -> `llm-defined-persistent-memory`
+- Janet / cognition route:
+  `Janet-MCM-Core` -> `janet-school`
 
 ## Active vs Historical
 
@@ -140,11 +146,13 @@ If you want a balanced overview without getting lost:
 4. `model-behaviour-toolkit`
 5. `chatty-cog`
 6. `chatty-art`
-7. `chatty-factory`
-8. `rd-engine`
-9. `semantic-signal-alphabet`
-10. `llm-defined-persistent-memory`
-11. `entropy-folding-eureka-cascade-hypothesis`
+7. `nanochat-llm-tweaker`
+8. `chatty-factory`
+9. `rd-engine`
+10. `semantic-signal-alphabet`
+11. `llm-defined-persistent-memory`
+12. `janet-school`
+13. `entropy-folding-eureka-cascade-hypothesis`
 
 That order gets you:
 
