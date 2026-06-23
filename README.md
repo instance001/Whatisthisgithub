@@ -90,20 +90,21 @@ This information is provided to contextualize output-to-input ratios and methodo
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-22T08:54:50Z`_
+_Last updated: `2026-06-23T04:04:26Z`_
 
-Total public repos indexed for **@instance001**: **66**
+Total public repos indexed for **@instance001**: **67**
 
 ## Active Repositories
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-21 |
-| [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-06-21 |
+| [janet-school](https://github.com/instance001/janet-school) | Janet School is a standalone/Chatty-cog module compatible Rust/WebView research rig for testing a deterministic MCM student against generated curricula, skill gates, transfer probes, telemetry, and cautious abstraction/anomaly analysis. | Rust | 2026-06-23 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-06-23 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-23 |
+| [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-06-23 |
+| [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-06-23 |
 | [rd-engine](https://github.com/instance001/rd-engine) | Tiny reducer-governed deterministic state core you can drop into your project, adapt to your domain, and expand as needed. | Rust | 2026-06-20 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-06-19 |
 | [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-06-18 |
-| [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-06-14 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public release of the user-focused Chatty-EDU repo, aligned with source v0.4. Prebuilt Windows app (`chatty-edu.exe`) for click-and-run use. - Offline-first setup with local data folder (`data/`) and no accounts. - BYO-model workflow (GGUF only); no model weights are included. Source code - https://github.com/instance001/chatty-edu |  | 2026-06-14 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-06-14 |
 | [governance-by-design-report-commentary](https://github.com/instance001/governance-by-design-report-commentary) | A commentary sister repo to https://github.com/instance001/governance-by-design-report. Please read this first as it contains the meta-level instructions and litmus test framing behind the other repo. |  | 2026-06-14 |
