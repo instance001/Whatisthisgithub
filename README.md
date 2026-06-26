@@ -84,6 +84,8 @@ It is not a credential claim, endorsement, or identity assertion.
 
 This information is provided to contextualize output-to-input ratios and methodological constraints.
 
+Version note: In FMI repos, "v0.1" usually means “first working end-to-end release,” not “empty scaffold” — expect useful core functionality, rough edges, and active evolution.
+
 > **Note:** Everything below this line is generated automatically.
 
 ---
