@@ -94,7 +94,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-06-27T06:27:16Z`_
+_Last updated: `2026-06-27T22:04:49Z`_
 
 Total public repos indexed for **@instance001**: **68**
 
@@ -102,7 +102,7 @@ Total public repos indexed for **@instance001**: **68**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-26 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-06-27 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-06-26 |
 | [chattydoom](https://github.com/instance001/chattydoom) | Barebones AI-augmented Doom sandbox using ViZDoom + Freedoom. Runs out of the box, shoots demons, opens doors, and invites hacking. Minimal, libre, and gloriously jank. | Python | 2026-06-23 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run entirely on-device. No cloud. No accounts. No tracking. Just a fast, free to use, private, extensible Rust application for students, teachers, parents, and hobbyists. | Rust | 2026-06-23 |
