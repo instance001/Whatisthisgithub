@@ -95,7 +95,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-01T07:08:29Z`_
+_Last updated: `2026-07-01T07:15:53Z`_
 
 Total public repos indexed for **@instance001**: **68**
 
