@@ -56,6 +56,7 @@ If you only want the current, most active entry points, stay mostly in the first
 | Game / modding / deterministic adventure engine | `chatty-quest` | `rd-engine`, `chatty-art` | `chatty-quest` is the current game-facing front door; `rd-engine` is the smaller reusable state core underneath that lane. |
 | Small experimental sandbox | `chattydoom` | `chatty-quest` | Good if you want something hackable and less theory-heavy. |
 | Reducer-governed state core / reusable substrate | `rd-engine` | `llm-defined-persistent-memory`, `semantic-signal-alphabet`, `chatty-quest` | Best first stop if you want the smallest reusable core behind the newer memory and deterministic engine line. |
+| Local semantic dataset sorting / bucket workbench | `llm-semantic-dataset-sorter` | `semantic-signal-alphabet`, `rd-engine`, `llm-defined-persistent-memory` | Best first stop if you want an operator-facing tool for fixed-budget semantic partitioning, junk handling, and dataset structure review. |
 | Model-native persistent memory design | `llm-defined-persistent-memory` | `rd-engine`, `semantic-signal-alphabet`, `chatty-quest` | Best starting point for the newer compact-memory / reducer-governed continuity line. |
 | Semantic compression / bucketed meaning systems | `semantic-signal-alphabet` | `rd-engine`, `llm-defined-persistent-memory` | Start here if the bucket-map idea is what brought you in. |
 | Human-AI cognition taxonomy / "what kind of system is this?" | `Cognition-Scale-Formal-Taxonomy` | `Janet-MCM-Core` | Taxonomy first, implementation exemplar second. |
@@ -81,6 +82,7 @@ If you do not want to wander through the full repo history, these are the strong
 - `chatty-factory`
 - `chatty-quest`
 - `rd-engine`
+- `llm-semantic-dataset-sorter`
 - `ai-teaming-framework`
 - `model-behaviour-toolkit`
 - `llm-defined-persistent-memory`
@@ -102,7 +104,7 @@ Pick one of these routes:
 - Theory route:
   `entropy-folding-eureka-cascade-hypothesis` -> `entropy-folding-cross-domain-signal-atlas`
 - Memory / architecture route:
-  `rd-engine` -> `semantic-signal-alphabet` -> `llm-defined-persistent-memory`
+  `rd-engine` -> `llm-semantic-dataset-sorter` -> `semantic-signal-alphabet` -> `llm-defined-persistent-memory`
 - Janet / cognition route:
   `Janet-MCM-Core` -> `janet-school`
 
@@ -149,10 +151,11 @@ If you want a balanced overview without getting lost:
 7. `nanochat-llm-tweaker`
 8. `chatty-factory`
 9. `rd-engine`
-10. `semantic-signal-alphabet`
-11. `llm-defined-persistent-memory`
-12. `janet-school`
-13. `entropy-folding-eureka-cascade-hypothesis`
+10. `llm-semantic-dataset-sorter`
+11. `semantic-signal-alphabet`
+12. `llm-defined-persistent-memory`
+13. `janet-school`
+14. `entropy-folding-eureka-cascade-hypothesis`
 
 That order gets you:
 
@@ -160,6 +163,7 @@ That order gets you:
 - the interaction philosophy
 - the practical tools
 - the small reusable state core behind part of the newer stack
+- the semantic sorting workbench that sits beside the newer stack
 - the newer memory architecture ideas
 - the current theory spine
 

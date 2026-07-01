@@ -52,6 +52,7 @@ If you want the strongest current entry points without reading the full repo his
 - `chatty-factory` for plain-language build and patch workflows
 - `chatty-quest` for the newer deterministic game / engine lane
 - `rd-engine` for the tiny reducer-governed state core behind newer memory and engine work
+- `llm-semantic-dataset-sorter` for local semantic dataset sorting under fixed bucket budgets
 - `ai-teaming-framework` for human-AI interaction mechanics
 - `model-behaviour-toolkit` for prompting, recovery, and drift handling
 - `llm-defined-persistent-memory` for compact persistent memory design
