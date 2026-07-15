@@ -51,12 +51,15 @@ If you want the strongest current entry points without reading the full repo his
 - `chatty-lora` for local LoRA training and dataset prep
 - `chatty-factory` for plain-language build and patch workflows
 - `chatty-quest` for the newer deterministic game / engine lane
+- `chatty-pet` for the lightweight local-first mobile pet / care-toy lane
 - `rd-engine` for the tiny reducer-governed state core behind newer memory and engine work
 - `llm-semantic-dataset-sorter` for local semantic dataset sorting under fixed bucket budgets
+- `cognition-mesh-test-chamber` for contained model suitability testing and cognitive fingerprinting
 - `ai-teaming-framework` for human-AI interaction mechanics
 - `model-behaviour-toolkit` for prompting, recovery, and drift handling
 - `llm-defined-persistent-memory` for compact persistent memory design
 - `semantic-signal-alphabet` for model-native semantic compression
+- `relational-curriculum-geometry` for early curriculum-shape research on how training data arrangement affects learning
 - `entropy-folding-eureka-cascade-hypothesis` for the current theory spine
 - `entropy-folding-cross-domain-signal-atlas` for the companion evidence / signal map
 
