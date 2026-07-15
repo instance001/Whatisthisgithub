@@ -98,15 +98,16 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-11T05:36:54Z`_
+_Last updated: `2026-07-14T05:26:01Z`_
 
-Total public repos indexed for **@instance001**: **71**
+Total public repos indexed for **@instance001**: **72**
 
 ## Active Repositories
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-11 |
+| [chatty-mini](https://github.com/instance001/chatty-mini) |  |  | 2026-07-13 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-13 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-11 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-07-11 |
 | [relational-curriculum-geometry](https://github.com/instance001/relational-curriculum-geometry) | Testing whether LLMs learn better from structured curriculum geometry: data ordered by domain, complexity, relation, boundary cases, uncertainty, role discipline, and multithread reasoning instead of random bulk exposure. |  | 2026-07-08 |
