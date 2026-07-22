@@ -104,7 +104,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-21T06:34:33Z`_
+_Last updated: `2026-07-22T02:42:55Z`_
 
 Total public repos indexed for **@instance001**: **74**
 
@@ -112,14 +112,15 @@ Total public repos indexed for **@instance001**: **74**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-22 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-22 |
+| [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-07-22 |
+| [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-07-22 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-07-21 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-21 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-20 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-07-20 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-07-20 |
 | [ef-engine](https://github.com/instance001/ef-engine) | A barebones, inspectable Rust specimen of Entropy Folding: vault failures, triangulate recurring blockers, metabolise them into reusable constraints, and reduce future search chaos. | Rust | 2026-07-18 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-07-16 |
-| [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-07-15 |
 | [ai-teaming-framework](https://github.com/instance001/ai-teaming-framework) | A skills-based framework for working effectively with any AI tool. Teaches the underlying mechanics of human-AI interaction  -  not a prompt list, not copy-paste templates, but transferable, epistemic principles that work across models, tools, and tasks. |  | 2026-07-15 |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | Model-native persistent memory patterns for LLMs: semantic buckets, reducer-governed state, hot context injection, and context routing packets for compact continuity without cold-log token waste. |  | 2026-07-15 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-07-15 |
@@ -142,7 +143,6 @@ Total public repos indexed for **@instance001**: **74**
 | [entropy-folding-cross-domain-signal-atlas](https://github.com/instance001/entropy-folding-cross-domain-signal-atlas) | A companion signal atlas for Entropy Folding and Eureka Cascade: operator provenance, mechanism traces, tool-architecture signals, tooling lenses, supporting correspondences, exclusions, and uncertainty notes. |  | 2026-06-14 |
 | [historical-janet-school-exploratory-build](https://github.com/instance001/historical-janet-school-exploratory-build) | A prototype MCM school based on special needs, human curriculum exploring telemetry for signal of abstract reasoning. Local work is continuing on a newer, more fleshed out build currently and will be online soon. Contains initial run readout files for interest. Later half of 2025. | Python | 2026-06-14 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3  -  the window stays honest, what's behind it is your business. |  | 2026-04-11 |
-| [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-02-10 |
 | [MemorySpine](https://github.com/instance001/MemorySpine) | A simple, reliable data-export parser that turns ChatGPT conversations.json into clean, browsable Markdown logs. Minimal, offline, AGPLv3, designed for user sovereignty. | Python | 2026-02-09 |
 | [Janet-MCM-Core](https://github.com/instance001/Janet-MCM-Core) | Janet is a Modest Cognition Model (MCM): the anti-LLM. Deterministic logic, explicit memory, human-gated skills, zero ambiguity tolerance. No stochastic inference, no hidden state, no persona drift. A transparent cognition engine built for safety, reliability, and open research. |  | 2026-02-09 |
 | [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | **A safe, non-anthropomorphic human-AI co-reasoning architecture**   **License:** GNU Affero General Public License v3.0 |  | 2026-02-09 |
