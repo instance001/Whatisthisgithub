@@ -27,27 +27,34 @@ If the terminology still feels dense after that:
 
 ## Quick Read of the Landscape
 
-Very roughly, this ecosystem has five big zones:
+Very roughly, this ecosystem has several big zones:
 
+- Public FMI orientation, app support, and release surfaces
 - Local-first AI tools you can use or build on
-- Model-behaviour and human-AI interaction frameworks
-- Cognition / taxonomy / profiling research
+- Host-side memory, deterministic state, and failure-aware architecture
+- Model-behaviour, human-AI interaction, and workflow frameworks
+- Cognition, taxonomy, profiling, and curriculum research
 - Entropy-folding theory and companion papers
 - Older Symbound-era toolkits and archived historical material
 
-If you only want the current, most active entry points, stay mostly in the first two zones.
+If you only want the current, most active entry points, stay mostly in the public orientation, local tools, and host-architecture zones.
+
+In the current tool repos, local-first means the local path is real and not a fake demo. It is also model/provider agnostic where the tool supports it: cloud when you need a hosted provider, local when you want control, privacy, or offline use.
 
 ## Best Entry Points
 
 | If you are here for... | Start with | Then look at | Why this is the right first stop |
 | --- | --- | --- | --- |
 | The overall corpus at a glance | `README.md` in `Whatisthisgithub` | `EASY_START.md`, `ABOUT_FRACTAL_MEDIA_INFRASTRUCTURE` | Best high-level orientation before choosing a lane. |
+| The public FMI website, app support, or store-facing surfaces | `instance001.github.io` | `app-support.html`, `google-play.html`, `projects.html` | Best first stop for the public organization surface, GitHub Pages site, support links, and Google Play release pages. |
+| Current host-side memory / reasoning architecture | `project-leviathan` | `ef-engine`, `rd-engine`, `llm-defined-persistent-memory`, `semantic-signal-alphabet` | Best first stop for the newest document-only architecture bundle around evidence-first memory, relational comparison, assumption freeze, and earned abstraction. |
 | Everyday local AI desktop assistant | `chatty-cog` | `chatty-edu`, `chatty-art`, `chatty-factory` | `chatty-cog` is the current general local assistant shell and the clearest "daily-use" surface. |
-| Education-focused offline assistant | `chatty-edu` | `chatty-edu-user`, `chatty-cog` | `chatty-edu` is the source repo; `chatty-edu-user` is the easier prebuilt user release. |
+| Small-phone Android local GGUF chat | `chatty-mini` | `chatty-cog`, `llm-defined-persistent-memory`, `project-leviathan` | Best first stop if you want the compact mobile chat app with imported GGUF models, local storage, personas, and sandbox files. |
+| Education-focused offline assistant | `chatty-edu` | `chatty-edu-user`, `chatty-cog` | `chatty-edu` is deliberately offline-first for school trust and deployment clarity; the broader ecosystem remains cloud-optional where a tool explicitly supports hosted providers. |
 | Click-and-run Windows release | `chatty-edu-user` | `chatty-edu` | Best first stop if you want something runnable without first building from source. |
-| Local image / GIF / video / audio generation | `chatty-art` | `chatty-lora`, `ecg_window` | `chatty-art` is the current media-generation front door. |
+| Local image / GIF / video / audio generation | `chatty-art` | `chatty-lora`, `ecg_window` | `chatty-art` is the current media-generation front door: local first, cloud optional when a provider lane is deliberately configured. |
 | Local-first mobile pet / care toy | `chatty-pet` | `rd-engine`, `chatty-quest` | Best first stop if you want a small local-first consumer app showing the newer reducer-governed UI/game-loop doctrine in a lighter mobile form. |
-| Local LoRA training / dataset curation | `chatty-lora` | `chatty-art` | Start here if the goal is training, dataset cleanup, or Wan/Musubi plan prep. |
+| Local LoRA training / dataset curation | `chatty-lora` | `chatty-art` | Start here if the goal is training, dataset cleanup, or Wan/Musubi plan prep, with helper lanes that can stay local or use BYO cloud providers by choice. |
 | Local LLM build suite: tweaking, quantizing, training | `nanochat-llm-tweaker` | `chatty-lora`, `chatty-cog` | Best first stop if you want a guided local suite for corpus prep, tokenizer work, base-model training, quantization, checkpoint testing, and related builder workflows. |
 | Plain-language software generation / patching | `chatty-factory` | `chatty-cog`, archived `chattyfactory` | Current project-factory surface; use this, not the older similarly named archive, for present-day direction. |
 | How to work better with AI in general | `ai-teaming-framework` | `model-behaviour-toolkit` | `ai-teaming-framework` is the clearest beginner-to-advanced interaction guide. |
@@ -56,6 +63,7 @@ If you only want the current, most active entry points, stay mostly in the first
 | Lightweight offline export utility | `MemorySpine` |  | Narrow, useful, and easy to understand quickly. |
 | Game / modding / deterministic adventure engine | `chatty-quest` | `rd-engine`, `chatty-art` | `chatty-quest` is the current game-facing front door; `rd-engine` is the smaller reusable state core underneath that lane. |
 | Small experimental sandbox | `chattydoom` | `chatty-quest` | Good if you want something hackable and less theory-heavy. |
+| Failure-aware routing / retry discipline | `ef-engine` | `project-leviathan`, `entropy-folding-eureka-cascade-hypothesis`, `chatty-factory` | Best first stop if you want the small inspectable core for vaulting failures, triangulating blockers, and turning repeated stuckness into constraints. |
 | Reducer-governed state core / reusable substrate | `rd-engine` | `llm-defined-persistent-memory`, `semantic-signal-alphabet`, `chatty-quest` | Best first stop if you want the smallest reusable core behind the newer memory and deterministic engine line. |
 | Local semantic dataset sorting / bucket workbench | `llm-semantic-dataset-sorter` | `semantic-signal-alphabet`, `rd-engine`, `llm-defined-persistent-memory` | Best first stop if you want an operator-facing tool for fixed-budget semantic partitioning, junk handling, and dataset structure review. |
 | Model suitability testing / cognitive fingerprinting | `cognition-mesh-test-chamber` | `llm-semantic-dataset-sorter`, `rd-engine` | Best first stop if you want contained local evaluation that maps model-host-task meshes into failure logs, negative lanes, and suitability profiles rather than leaderboard scores. |
@@ -78,13 +86,17 @@ If you only want the current, most active entry points, stay mostly in the first
 
 If you do not want to wander through the full repo history, these are the strongest current entry points:
 
+- `instance001.github.io`
+- `project-leviathan`
 - `chatty-cog`
+- `chatty-mini`
 - `chatty-art`
 - `chatty-lora`
 - `nanochat-llm-tweaker`
 - `chatty-factory`
 - `chatty-quest`
 - `chatty-pet`
+- `ef-engine`
 - `rd-engine`
 - `llm-semantic-dataset-sorter`
 - `cognition-mesh-test-chamber`
@@ -103,14 +115,18 @@ That subset will give you a much more accurate picture of where the ecosystem is
 
 Pick one of these routes:
 
+- Public / app-support route:
+  `instance001.github.io` -> `google-play.html` -> `app-support.html`
 - Local tools route:
-  `chatty-cog` -> `chatty-pet` -> `chatty-art` -> `nanochat-llm-tweaker`
+  `chatty-cog` -> `chatty-mini` -> `chatty-pet` -> `chatty-art`
 - AI interaction route:
   `ai-teaming-framework` -> `model-behaviour-toolkit`
-- Theory route:
-  `entropy-folding-eureka-cascade-hypothesis` -> `entropy-folding-cross-domain-signal-atlas`
+- Host architecture route:
+  `project-leviathan` -> `ef-engine` -> `rd-engine` -> `llm-defined-persistent-memory`
 - Memory / architecture route:
-  `rd-engine` -> `llm-semantic-dataset-sorter` -> `cognition-mesh-test-chamber` -> `llm-defined-persistent-memory`
+  `rd-engine` -> `llm-semantic-dataset-sorter` -> `cognition-mesh-test-chamber` -> `semantic-signal-alphabet`
+- Theory route:
+  `entropy-folding-eureka-cascade-hypothesis` -> `entropy-folding-cross-domain-signal-atlas` -> `project-leviathan`
 - Janet / cognition route:
   `Janet-MCM-Core` -> `janet-school`
 - Curriculum research route:
@@ -152,27 +168,35 @@ If you want a balanced overview without getting lost:
 
 1. `Whatisthisgithub/README.md`
 2. `Whatisthisgithub/GLOSSARY.md`
-3. `ai-teaming-framework`
-4. `model-behaviour-toolkit`
-5. `chatty-cog`
-6. `chatty-art`
-7. `nanochat-llm-tweaker`
-8. `chatty-factory`
-9. `chatty-pet`
-10. `rd-engine`
-11. `llm-semantic-dataset-sorter`
-12. `cognition-mesh-test-chamber`
-13. `semantic-signal-alphabet`
-14. `llm-defined-persistent-memory`
-15. `janet-school`
-16. `relational-curriculum-geometry`
-17. `entropy-folding-eureka-cascade-hypothesis`
+3. `instance001.github.io`
+4. `ai-teaming-framework`
+5. `model-behaviour-toolkit`
+6. `chatty-cog`
+7. `chatty-mini`
+8. `chatty-art`
+9. `chatty-lora`
+10. `nanochat-llm-tweaker`
+11. `chatty-factory`
+12. `chatty-pet`
+13. `project-leviathan`
+14. `ef-engine`
+15. `rd-engine`
+16. `llm-semantic-dataset-sorter`
+17. `cognition-mesh-test-chamber`
+18. `semantic-signal-alphabet`
+19. `llm-defined-persistent-memory`
+20. `janet-school`
+21. `relational-curriculum-geometry`
+22. `entropy-folding-eureka-cascade-hypothesis`
 
 That order gets you:
 
 - the navigation layer
+- the public FMI surface
 - the interaction philosophy
 - the practical tools
+- the current host-side architecture spec
+- the failure-aware routing core
 - the small reusable state core behind part of the newer stack
 - the semantic sorting workbench that sits beside the newer stack
 - the newer memory architecture ideas

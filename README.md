@@ -46,12 +46,16 @@ If you only read one extra file from here, make it [EASY_START.md](EASY_START.md
 
 If you want the strongest current entry points without reading the full repo history, start with one of these:
 
+- `instance001.github.io` for the public FMI website, app support, and Google Play release surface
+- `project-leviathan` for the current host-side memory, reasoning, and earned-abstraction architecture specification
 - `chatty-cog` for the everyday local assistant shell
+- `chatty-mini` for the small-phone Android local GGUF chat app
 - `chatty-art` for local media generation
 - `chatty-lora` for local LoRA training and dataset prep
 - `chatty-factory` for plain-language build and patch workflows
 - `chatty-quest` for the newer deterministic game / engine lane
 - `chatty-pet` for the lightweight local-first mobile pet / care-toy lane
+- `ef-engine` for the tiny failure-vault / retry / constraint-metabolization core
 - `rd-engine` for the tiny reducer-governed state core behind newer memory and engine work
 - `llm-semantic-dataset-sorter` for local semantic dataset sorting under fixed bucket budgets
 - `cognition-mesh-test-chamber` for contained model suitability testing and cognitive fingerprinting
@@ -62,6 +66,8 @@ If you want the strongest current entry points without reading the full repo his
 - `relational-curriculum-geometry` for early curriculum-shape research on how training data arrangement affects learning
 - `entropy-folding-eureka-cascade-hypothesis` for the current theory spine
 - `entropy-folding-cross-domain-signal-atlas` for the companion evidence / signal map
+
+Across the current tooling lanes, "local-first" means the local path stays usable, inspectable, and user-controlled. It is not a rejection of cloud tools: several tools are deliberately cloud-optional, with hosted providers used only when a user chooses that route.
 
 ## Atlas
 
