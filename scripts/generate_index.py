@@ -1,12 +1,14 @@
 import os
 import sys
 import datetime
+import json
 import requests
 from textwrap import dedent
 
 API_URL_TEMPLATE = "https://api.github.com/users/{username}/repos"
 AUTO_START = "<!-- AUTO-GENERATED-INDEX:START -->"
 AUTO_END = "<!-- AUTO-GENERATED-INDEX:END -->"
+OVERRIDES_PATH = "repo_metadata_overrides.json"
 
 def get_username():
     # Prefer the repo owner, fall back to a hardcoded default
@@ -88,10 +90,28 @@ def normalize_text(value):
     )
 
 
-def build_index_markdown(username, repos):
+def load_repo_metadata_overrides(path=OVERRIDES_PATH):
+    """
+    Load optional local overrides for public index fields that GitHub metadata
+    cannot always be updated at the same time as repo documentation.
+    """
+    if not os.path.exists(path):
+        return {}
+
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not isinstance(data, dict):
+        raise ValueError("{} must contain a JSON object".format(path))
+
+    return data
+
+
+def build_index_markdown(username, repos, overrides=None):
     """
     Build the markdown for the auto-generated section.
     """
+    overrides = overrides or {}
     now = datetime.datetime.now(datetime.UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
 
     visible_repos = [
@@ -124,7 +144,11 @@ def build_index_markdown(username, repos):
         for repo in repo_list:
             name = repo.get("name", "")
             html_url = repo.get("html_url", "")
-            desc = repo.get("description") or ""
+            repo_override = overrides.get(name, {})
+            if not isinstance(repo_override, dict):
+                raise ValueError("Override for {} must be an object".format(name))
+
+            desc = repo_override.get("description", repo.get("description") or "")
             lang = repo.get("language") or ""
             updated = format_date(repo.get("updated_at", ""))
 
@@ -198,7 +222,8 @@ def main():
 
     print("Building index for GitHub user: @{}".format(username))
     repos = fetch_repos(username, token=token)
-    markdown = build_index_markdown(username, repos)
+    overrides = load_repo_metadata_overrides()
+    markdown = build_index_markdown(username, repos, overrides=overrides)
     update_readme("README.md", markdown)
     print("Index generation complete.")
 

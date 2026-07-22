@@ -1,4 +1,4 @@
-﻿# Glossary
+# Glossary
 
 ## How to Read This Glossary
 

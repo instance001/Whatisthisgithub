@@ -1,0 +1,8 @@
+{
+  "chatty-edu": {
+    "description": "Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking."
+  },
+  "chatty-edu-user": {
+    "description": "First public user-focused Chatty-EDU release, aligned with source v0.4. Prebuilt Windows app for click-and-run use, offline-first by default with local data and no accounts."
+  }
+}
