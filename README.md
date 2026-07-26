@@ -105,7 +105,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-25T05:40:25Z`_
+_Last updated: `2026-07-26T05:57:48Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -113,9 +113,10 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-07-26 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-25 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-25 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-07-25 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-24 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-24 |
 | [collapse-of-the-semantic-middle](https://github.com/instance001/collapse-of-the-semantic-middle) | A conceptual paper on bidirectional LLM mediation, communicative atrophy, and preserving human access to the semantic middle. |  | 2026-07-24 |
 | [australian-ai-fair-go](https://github.com/instance001/australian-ai-fair-go) | Australian AI Fair-Go: a practical policy and evidence repo for fit-for-purpose AI, model choice, local/cloud hybrid control, proportionate governance, and grassroots Australian AI sovereignty. |  | 2026-07-23 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-07-22 |
@@ -136,7 +137,6 @@ Total public repos indexed for **@instance001**: **76**
 | [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-07-15 |
 | [chatty-factory](https://github.com/instance001/chatty-factory) | Offline by default, api key OPTIONAL deterministic agentic coder designed primarily with small sub-32b quantized models in mind. AGPLv3 release. Plain language sentence in, working build foundation out. Patch to complexity one moving part at a time. | Rust | 2026-07-15 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-07-11 |
-| [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-07-04 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-07-01 |
 | [chattydoom](https://github.com/instance001/chattydoom) | Barebones AI-augmented Doom sandbox using ViZDoom + Freedoom. Runs out of the box, shoots demons, opens doors, and invites hacking. Minimal, libre, and gloriously jank. | Python | 2026-06-23 |
 | [rd-engine](https://github.com/instance001/rd-engine) | Tiny reducer-governed deterministic state core you can drop into your project, adapt to your domain, and expand as needed. | Rust | 2026-06-20 |
