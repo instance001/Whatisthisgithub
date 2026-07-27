@@ -135,7 +135,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-27T21:18:33Z`_
+_Last updated: `2026-07-27T23:30:23Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -143,8 +143,9 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-07-27 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-07-27 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-27 |
+| [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-07-27 |
 | [rd-engine](https://github.com/instance001/rd-engine) | Tiny reducer-governed deterministic state core you can drop into your project, adapt to your domain, and expand as needed. | Rust | 2026-07-27 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-07-27 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-07-27 |
@@ -165,7 +166,6 @@ Total public repos indexed for **@instance001**: **76**
 | [australian-ai-fair-go](https://github.com/instance001/australian-ai-fair-go) | Australian AI Fair-Go: a practical policy and evidence repo for fit-for-purpose AI, model choice, local/cloud hybrid control, proportionate governance, and grassroots Australian AI sovereignty. |  | 2026-07-27 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-07-27 |
 | [4roomciv](https://github.com/instance001/4roomciv) | A small trial setup for testing memory, communication, and shared space dynamics. Purpose: This MVP is a structural testbed for multi-room coordination, combining 2-3 human users with 1-2 local LLMs. It lays groundwork for experimenting with memory handling, paired interactions, and a minimal shared commons |  | 2026-07-27 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-27 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-07-26 |
 | [collapse-of-the-semantic-middle](https://github.com/instance001/collapse-of-the-semantic-middle) | A conceptual paper on bidirectional LLM mediation, communicative atrophy, and preserving human access to the semantic middle. |  | 2026-07-24 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-07-22 |
