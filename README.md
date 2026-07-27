@@ -42,6 +42,36 @@ It is here to help visitors:
 
 If you only read one extra file from here, make it [EASY_START.md](EASY_START.md).
 
+## Ecosystem Map
+
+This is the shortest visual orientation before the full index. Treat it as a map of entry points, not a complete dependency graph.
+
+```mermaid
+flowchart TB
+    visitor["New visitor / reviewer"] --> fieldRoot["Whatisthisgithub<br/>orientation + generated repo index"]
+    fieldRoot --> publicSite["instance001.github.io<br/>public FMI website + app support"]
+    fieldRoot --> easyStart["EASY_START.md<br/>route selection"]
+    fieldRoot --> activeIndex["Active repo index<br/>current public lanes"]
+    fieldRoot --> glossary["Glossary surfaces<br/>local terms + symbols"]
+
+    activeIndex --> tools["Local-first tools<br/>chatty-cog, chatty-mini, chatty-art,<br/>chatty-lora, chatty-factory, chatty-pet"]
+    activeIndex --> architecture["Memory + engine architecture<br/>project-leviathan, ef-engine, rd-engine,<br/>persistent memory, semantic sorting"]
+    activeIndex --> interaction["Human-AI interaction<br/>ai-teaming-framework,<br/>model-behaviour-toolkit"]
+    activeIndex --> research["Research + policy lanes<br/>AI Fair-Go, governance, safety,<br/>curriculum, entropy-folding"]
+    activeIndex --> archived["Archived / historical repos<br/>lineage, provenance, superseded drafts"]
+
+    publicSite --> appSurface["App store and public support surface"]
+    publicSite --> repoAtlas["Site-native repo atlas"]
+
+    classDef entry fill:#eef7f2,stroke:#25624f,color:#14231d;
+    classDef lane fill:#fff8ec,stroke:#9b5b2e,color:#2a1b10;
+    classDef archive fill:#f3f0ea,stroke:#777,color:#333;
+
+    class visitor,fieldRoot,easyStart,glossary,publicSite,activeIndex entry;
+    class tools,architecture,interaction,research,appSurface,repoAtlas lane;
+    class archived archive;
+```
+
 ## Current Fast Lanes
 
 If you want the strongest current entry points without reading the full repo history, start with one of these:
