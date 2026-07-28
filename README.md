@@ -135,7 +135,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-27T23:30:23Z`_
+_Last updated: `2026-07-28T05:43:24Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -143,15 +143,15 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-07-27 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-28 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-27 |
+| [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-07-27 |
 | [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-07-27 |
 | [rd-engine](https://github.com/instance001/rd-engine) | Tiny reducer-governed deterministic state core you can drop into your project, adapt to your domain, and expand as needed. | Rust | 2026-07-27 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-07-27 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-07-27 |
 | [model-behaviour-toolkit](https://github.com/instance001/model-behaviour-toolkit) | A modernized, provider-neutral prompt and interaction scaffolds for shaping model behaviour, restoring session quality and reducing drift in real-world use. Streamlined from older, archived repos on this github. |  | 2026-07-27 |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | Model-native persistent memory patterns for LLMs: semantic buckets, reducer-governed state, hot context injection, and context routing packets for compact continuity without cold-log token waste. |  | 2026-07-27 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-27 |
 | [ef-engine](https://github.com/instance001/ef-engine) | A barebones, inspectable Rust specimen of Entropy Folding: vault failures, triangulate recurring blockers, metabolise them into reusable constraints, and reduce future search chaos. | Rust | 2026-07-27 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3  -  the window stays honest, what's behind it is your business. |  | 2026-07-27 |
 | [cognition-mesh-test-chamber](https://github.com/instance001/cognition-mesh-test-chamber) | Contained LLM suitability and cognitive fingerprinting harness for model-host-task meshes, with mock-safe evaluation, negative lane generation, assistant-role benchmarking, and a local dashboard. | Python | 2026-07-27 |
