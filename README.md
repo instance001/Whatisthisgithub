@@ -135,7 +135,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-07-31T05:18:46Z`_
+_Last updated: `2026-07-31T06:08:46Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -143,11 +143,11 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-31 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-07-31 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-07-30 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-07-30 |
 | [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-07-30 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-07-30 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-07-30 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-07-30 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-07-30 |
