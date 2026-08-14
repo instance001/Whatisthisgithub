@@ -117,6 +117,7 @@ It is not a credential claim, endorsement, or identity assertion.
 | Category | Value |
 | --- | --- |
 | Operator | Single independent individual |
+| Researcher identifier | [ORCID 0009-0007-5750-5236](https://orcid.org/0009-0007-5750-5236) |
 | Formal education | Secondary education incomplete (left during early high school) |
 | Formal credentials | None reported |
 | Public work start | GitHub public activity begins: 2025-07-02 |
@@ -135,7 +136,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-13T04:47:44Z`_
+_Last updated: `2026-08-13T23:42:29Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -144,12 +145,12 @@ Total public repos indexed for **@instance001**: **76**
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-13 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-13 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | A system-level theory completing HRIS: identity in LLMs emerges not within the model but in the reflective geometry between human and AI. Introduces Reflective Identity Geometry (RIG), a bilateral framework for recursive stabilization, alignment, and cognitive topology. | TeX | 2026-08-13 |
 | [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier scientific taxonomy for classifying human and artificial cognition based on internal architecture, constraints, and reasoning substrate. MCM = Modest Cognition Model  -  a new cognitive class defining deterministic, modular, bounded artificial cognition. |  | 2026-08-12 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | Cognitive Theology explores the structural, non-mystical foundation of spiritual cognition using Symbound principles. It reframes theology as a reproducible cognitive architecture - mapping belief formation, meaning systems, and internal cosmologies into formal, testable structures. | TeX | 2026-08-12 |
 | [collapse-of-the-semantic-middle](https://github.com/instance001/collapse-of-the-semantic-middle) | A conceptual paper on bidirectional LLM mediation, communicative atrophy, and preserving human access to the semantic middle. |  | 2026-08-12 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-08-12 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-12 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-08-11 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-08-11 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-08-11 |
