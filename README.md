@@ -136,7 +136,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-13T23:42:29Z`_
+_Last updated: `2026-08-14T00:30:20Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -144,8 +144,8 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-13 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-13 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-14 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-14 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | A system-level theory completing HRIS: identity in LLMs emerges not within the model but in the reflective geometry between human and AI. Introduces Reflective Identity Geometry (RIG), a bilateral framework for recursive stabilization, alignment, and cognitive topology. | TeX | 2026-08-13 |
 | [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier scientific taxonomy for classifying human and artificial cognition based on internal architecture, constraints, and reasoning substrate. MCM = Modest Cognition Model  -  a new cognitive class defining deterministic, modular, bounded artificial cognition. |  | 2026-08-12 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | Cognitive Theology explores the structural, non-mystical foundation of spiritual cognition using Symbound principles. It reframes theology as a reproducible cognitive architecture - mapping belief formation, meaning systems, and internal cosmologies into formal, testable structures. | TeX | 2026-08-12 |
