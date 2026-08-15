@@ -136,7 +136,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-14T04:45:21Z`_
+_Last updated: `2026-08-15T03:34:54Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -144,6 +144,8 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-08-14 |
+| [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-08-14 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-14 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-14 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | A system-level theory completing HRIS: identity in LLMs emerges not within the model but in the reflective geometry between human and AI. Introduces Reflective Identity Geometry (RIG), a bilateral framework for recursive stabilization, alignment, and cognitive topology. | TeX | 2026-08-13 |
@@ -154,7 +156,6 @@ Total public repos indexed for **@instance001**: **76**
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-08-11 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-08-11 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-08-11 |
-| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-08-11 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-08-11 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-08-11 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-08-11 |
@@ -162,7 +163,6 @@ Total public repos indexed for **@instance001**: **76**
 | [cognition-mesh-test-chamber](https://github.com/instance001/cognition-mesh-test-chamber) | Contained LLM suitability and cognitive fingerprinting harness for model-host-task meshes, with mock-safe evaluation, negative lane generation, assistant-role benchmarking, and a local dashboard. | Python | 2026-08-11 |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | Model-native persistent memory patterns for LLMs: semantic buckets, reducer-governed state, hot context injection, and context routing packets for compact continuity without cold-log token waste. |  | 2026-08-06 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-07-30 |
-| [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-07-30 |
 | [Symbound_Academia_Spine](https://github.com/instance001/Symbound_Academia_Spine) | A full academic corpus-to-manuscript engine for massive research archives  -  built to democratize scientific tooling. | Python | 2026-07-29 |
 | [semantic-signal-alphabet](https://github.com/instance001/semantic-signal-alphabet) | Semantic Signal Alphabet is a model-native semantic compression framework for generating low-bandwidth semantic alphabets from vocabularies, datasets, and domain inputs. Applications define bucket count as bandwidth; the model defines the sorting. | Python | 2026-07-29 |
 | [MemorySpine](https://github.com/instance001/MemorySpine) | A simple, reliable data-export parser that turns ChatGPT conversations.json into clean, browsable Markdown logs. Minimal, offline, AGPLv3, designed for user sovereignty. | Python | 2026-07-29 |
