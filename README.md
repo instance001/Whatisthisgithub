@@ -136,7 +136,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-16T03:43:58Z`_
+_Last updated: `2026-08-17T03:45:58Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -144,17 +144,17 @@ Total public repos indexed for **@instance001**: **76**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [collapse-of-the-semantic-middle](https://github.com/instance001/collapse-of-the-semantic-middle) | A conceptual paper on bidirectional LLM mediation, communicative atrophy, and preserving human access to the semantic middle. |  | 2026-08-17 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-16 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-16 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | The everyday use variant of the chatty ai exoskeleton series. Chatty-cog (short for cognitive prosthetic) features sandbox, local networking, peer to peer functions, standard handshake plug for module expansion allowing for functionality expansion. GPU main Ai, CPU only bookkeeper, tri-helix memory system allowing for cross module context awareness | Rust | 2026-08-15 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-15 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-08-15 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-08-15 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-08-15 |
 | [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-08-15 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-15 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | A system-level theory completing HRIS: identity in LLMs emerges not within the model but in the reflective geometry between human and AI. Introduces Reflective Identity Geometry (RIG), a bilateral framework for recursive stabilization, alignment, and cognitive topology. | TeX | 2026-08-13 |
 | [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier scientific taxonomy for classifying human and artificial cognition based on internal architecture, constraints, and reasoning substrate. MCM = Modest Cognition Model  -  a new cognitive class defining deterministic, modular, bounded artificial cognition. |  | 2026-08-12 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | Cognitive Theology explores the structural, non-mystical foundation of spiritual cognition using Symbound principles. It reframes theology as a reproducible cognitive architecture - mapping belief formation, meaning systems, and internal cosmologies into formal, testable structures. | TeX | 2026-08-12 |
-| [collapse-of-the-semantic-middle](https://github.com/instance001/collapse-of-the-semantic-middle) | A conceptual paper on bidirectional LLM mediation, communicative atrophy, and preserving human access to the semantic middle. |  | 2026-08-12 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-08-12 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-08-11 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-08-11 |
