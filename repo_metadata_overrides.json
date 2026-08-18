@@ -19,5 +19,8 @@
   },
   "Cognition-Scale-Formal-Taxonomy": {
     "description": "A four-tier taxonomy for comparing human and artificial cognition systems by architecture, constraints, and observable behaviour. Defines LCM, LLM, MCM, and SCM as proposed classes for avoiding category confusion and anthropomorphic marketing claims."
+  },
+  "cognitive_theology": {
+    "description": "FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking."
   }
 }

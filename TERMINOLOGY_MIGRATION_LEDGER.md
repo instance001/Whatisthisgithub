@@ -624,3 +624,51 @@ Unresolved terminology questions:
 
 - Live GitHub repository description should eventually be updated so the `Cognition-Scale-Formal-Taxonomy` override can be removed.
 - A deeper manuscript-version migration could separately modernize the full-edition `.txt` and checklist artifacts; this pass kept them as formal/provenance surfaces.
+
+### cognitive_theology
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `version_manifest.json`
+- `01_academic/manuscript_academic_consolidated.md`
+- `01_academic/commentary_notes.md`
+- `03_public/` adaptation surfaces
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+- portal metadata override in `Whatisthisgithub/repo_metadata_overrides.json`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognitive theology | polytheism-monotheism structural analysis | repo-name/provenance retained | The repository name remains historical/provenance; the active README and glossary already present the work as a structural pack rather than theology-as-doctrine. |
+| spiritual cognition / Symbound principles | structural architectures of religious systems | canonicalized in portal | Live generated description was stale; `repo_metadata_overrides.json` now points the public index to the bounded structural-analysis framing. |
+| theological truth / faith advocacy | not in scope | boundary retained | README, manuscript, commentary notes, and FAQ already state the work does not make theological truth claims, value judgments, or faith-advocacy claims. |
+| gods / divine authority / belief | source-domain terms | domain language retained | Preserved because the paper analyzes religious systems; these are ordinary domain terms, not anthropomorphic AI terminology. |
+| hybrid features | hybrid features | domain language retained | Preserved as comparative religious/institutional terminology, not a global `hybrid cognition` migration target. |
+
+Files changed:
+
+- `repo_metadata_overrides.json`
+- generated `README.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `cognitive theology pack` remains as a glossary alias for repository-name provenance.
+
+Historical occurrences intentionally preserved: yes, the repository name and source-domain religious language remain unchanged.
+
+Tests/checks run:
+
+- Search confirmed active source surfaces already bound the work as structural analysis and avoid theological truth/value claims.
+- `python -m json.tool version_manifest.json`
+- `python -m json.tool repo_metadata_overrides.json`
+- `python scripts/generate_index.py`
+- `node scripts/generate-seo.mjs` in `instance001.github.io`
+
+Unresolved terminology questions:
+
+- Live GitHub repository description should eventually be updated so the `cognitive_theology` override can be removed.
