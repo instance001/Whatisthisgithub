@@ -772,3 +772,59 @@ Tests/checks run:
 
 - `cargo test`
 - Targeted search confirmed remaining `objective truth`, `really thinks`, and `internal cognition` language appears in explicit non-claim contexts.
+
+### chatty-quest
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/ARCHITECTURE.md`
+- `docs/DECISION_LOG.md`
+- `docs/DESIGN_INTENT.md`
+- `docs/IMPLEMENTATION_ROADMAP.md`
+- `docs/KNOWN_NON_GOALS.md`
+- `docs/NARRATOR_CONTEXT_SPEC.md`
+- `docs/PROJECT_OVERVIEW.md`
+- `docs/UI_SHELL_SPEC.md`
+- `docs/V0_1_RELEASE_NOTES.md`
+- `docs/V0_2_MILESTONE_PLAN.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| RD Engine / Radiant Determinism | RD Engine / Radiant Determinism | product/framework terms retained | Preserved as the game engine's named identity and design stance; `radiant` and `alive` are readable experience language bounded by deterministic-state claims. |
+| game truth / canonical truth / truth model | game truth / canonical truth / truth model | game-canon technical language retained | Preserved because the docs explicitly define this as reducer-owned canonical game state, not metaphysical truth. |
+| Dungeon Master / DM capsule / narrator | Dungeon Master / DM capsule / narrator | UX/game terms retained | Preserved as expected tabletop/game terminology and product flavor; docs already state narrator/capsules shape presentation, not mechanics. |
+| real LLM / real model | live LLM / live model | disambiguated | Replaced where the intended contrast was inactive mock seam versus future integrated runtime model, avoiding the implication that current components are unreal or fake. |
+| split-brain model direction | dual-model runtime direction | clarified | Replaced a clinical/ambiguous brain metaphor in a technical planning sentence while preserving the planned CPU helper / GPU narrator split. |
+| natural-language understanding | natural-language understanding | non-goal retained | Preserved where it appears as an explicit non-goal or capability boundary; ordinary `understand` language elsewhere remains user-facing readability, not a cognition claim. |
+| support memory / Bookkeeper | support memory / Bookkeeper | bounded product terms retained | Preserved because support memory is explicitly non-authoritative and Bookkeeper is only a future support role. |
+
+Files changed:
+
+- `../chatty-quest/docs/ARCHITECTURE.md`
+- `../chatty-quest/docs/DECISION_LOG.md`
+- `../chatty-quest/docs/DESIGN_INTENT.md`
+- `../chatty-quest/docs/IMPLEMENTATION_ROADMAP.md`
+- `../chatty-quest/docs/KNOWN_NON_GOALS.md`
+- `../chatty-quest/docs/NARRATOR_CONTEXT_SPEC.md`
+- `../chatty-quest/docs/PROJECT_OVERVIEW.md`
+- `../chatty-quest/docs/UI_SHELL_SPEC.md`
+- `../chatty-quest/docs/V0_1_RELEASE_NOTES.md`
+- `../chatty-quest/docs/V0_2_MILESTONE_PLAN.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `RD Engine`, `Radiant Determinism`, `DM`, `narrator`, `capsule`, and `game truth` remain defining vocabulary.
+
+Historical occurrences intentionally preserved: yes, repo branding, scenario flavor, screenshots, generated release binaries, and game-content prose were not rewritten.
+
+Tests/checks run:
+
+- `cargo test`
+- Targeted search confirmed no remaining `real LLM`, `real model`, or `split-brain` phrasing in active docs.
