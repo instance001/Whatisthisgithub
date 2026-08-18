@@ -61,6 +61,7 @@ flowchart TB
     activeIndex --> archived["Archived / historical repos<br/>lineage, provenance, superseded drafts"]
 
     publicSite --> appSurface["App store and public support surface"]
+    publicSite --> shortMedia["TikTok<br/>short-form FMI public education surface"]
     publicSite --> repoAtlas["Site-native repo atlas"]
 
     classDef entry fill:#eef7f2,stroke:#25624f,color:#14231d;
@@ -68,7 +69,7 @@ flowchart TB
     classDef archive fill:#f3f0ea,stroke:#777,color:#333;
 
     class visitor,fieldRoot,easyStart,glossary,publicSite,activeIndex entry;
-    class tools,architecture,interaction,research,appSurface,repoAtlas lane;
+    class tools,architecture,interaction,research,appSurface,shortMedia,repoAtlas lane;
     class archived archive;
 ```
 
