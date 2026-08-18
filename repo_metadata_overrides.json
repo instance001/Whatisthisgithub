@@ -13,5 +13,8 @@
   },
   "chatty-edu-user": {
     "description": "First public user-focused Chatty-EDU release, aligned with source v0.4. Prebuilt Windows app for click-and-run use, offline-first by default with local data and no accounts."
+  },
+  "reflective_identity_geometry": {
+    "description": "Reflective Identity Geometry (RIG): a v0.2 conceptual framework for studying identity-like stability as a possible property of recurring human-LLM interaction regimes, extending HRIS without claiming model consciousness, model-internal personality, or necessary human cognitive change."
   }
 }

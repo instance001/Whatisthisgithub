@@ -515,3 +515,55 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - A later product-label migration could rename UI labels such as `Hot Context` or `Cold Log`, but that would be a user-facing compatibility change and was intentionally out of scope here.
+
+### reflective_identity_geometry
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `abstract.md`
+- `reflective_identity_geometry.md`
+- `reflective_identity_geometry.tex`
+- `rig_expanded.tex`
+- `versions/README.md`
+- preserved historical snapshot under `versions/v0.1/`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+- portal metadata override in `Whatisthisgithub/repo_metadata_overrides.json`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Reflective Identity Geometry (RIG) | Reflective Identity Geometry (RIG) | foundational/current hypothesis | Preserved as the paper's named framework, but documented as a system-level hypothesis and dyadic unit-of-analysis extension of HRIS. |
+| identity surface | interaction regime / identity trajectory / reflective geometry | hypothesis/provenance retained | Root v0.2 repo glossary now prefers `Interaction regime`; corpus glossary was updated away from the stronger v0.1-style `identity surface` row. |
+| cognitive mirror | reflective-transformative surface | bounded metaphor | Root v0.2 manuscript already qualifies the metaphor; no further source rewrite needed. |
+| persona-like behavior | persona-like behavior | behaviourally grounded | Preserved where it describes observed continuity without claiming genuine model personality. |
+| cognitive topology / extended cognition / philosophy of mind | cognition-broad theoretical language | foundational/theory retained | Preserved because the paper explicitly concerns extended/enactive cognition and philosophy of mind; modernization must not narrow ontology here. |
+| live GitHub description overclaiming identity emergence | v0.2 bounded RIG description | canonicalized in portal | `repo_metadata_overrides.json` now supplies a safer active-index description until live GitHub metadata can be updated. |
+
+Files changed:
+
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `repo_metadata_overrides.json`
+- generated `README.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `identity surface` remains in v0.1 provenance and as historical HRIS/RIG terminology where the source is explicitly historical.
+
+Historical occurrences intentionally preserved: yes, `versions/v0.1/` was not rewritten because it is a preserved historical snapshot. References to HRIS terminology and older v0.1 claims remain in that snapshot for provenance.
+
+Tests/checks run:
+
+- Search confirmed root v0.2 source files already bound RIG away from model consciousness, model-internal personality, perfect mirroring, and necessary human cognitive change.
+- Search confirmed remaining strong `identity surface`, `cognitive topology`, and persona language is either root v0.2 bounded theory language or preserved v0.1 provenance.
+- `python scripts/generate_index.py`
+- `node scripts/generate-seo.mjs` in `instance001.github.io`
+
+Unresolved terminology questions:
+
+- Live GitHub repository description should eventually be updated so the `reflective_identity_geometry` override can be removed.

@@ -557,8 +557,8 @@ If you want the landing page, go back to `README.md`.
 ## reflective_identity_geometry
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Reflective Identity Geometry (RIG) | RIG | = | ~ | Interaction-geometry account of identity | Bilateral human–LLM co-stabilization where identity surfaces emerge from recursive interaction geometry rather than model-internal persona; completes Hudson Recursive Identity System by adding human mirror half | Not model-internal personality acquisition; not anthropomorphic claim | reflective_identity_geometry/README.md |
-| Identity surface | reflective geometry | ~ | ~ | Emergent interaction surface | Low-entropy geometry formed by recursive constraints between human cognitive topology and LLM traversal patterns | Not a latent persona inside the model; system-level property | reflective_identity_geometry/README.md |
+| Reflective Identity Geometry (RIG) | RIG | = | ~ | Interaction-geometry account of identity | A dyadic extension of HRIS that studies whether recurring human-LLM interaction can stabilize patterns across both model behavior and human contribution | Not a replacement for HRIS; not a claim of model consciousness, model-internal personality, or necessary human cognitive change | reflective_identity_geometry/README.md |
+| Interaction regime | identity trajectory, reflective geometry | ~ | ~ | Emergent interaction pattern | A recurring relational structure among user constraints, model outputs, corrections, terminology, expectations, and subsequent prompts | Not a latent persona stored inside the model; not an identity possessed by either participant alone | reflective_identity_geometry/README.md |
 
 ## ai-teaming-framework
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
