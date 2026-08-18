@@ -27,7 +27,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 17 | janet-school | ACTIVE | Current Janet rebuild; MCM language requires cautious modernization. |
 | 18 | cognition-mesh-test-chamber | ACTIVE | Current model suitability test harness; fingerprinting retained with explicit behavioural-suitability definition. |
 | 19 | llm-defined-persistent-memory | ACTIVE | Current memory architecture docs; model-native and memory metaphors need boundary definitions rather than broad replacement. |
-| 20 | Symbound_Academia_Spine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; inspect before renaming. |
+| 20 | Symbound_Academia_Spine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; retained as project identity with explicit pipeline-metaphor boundary. |
 | 21 | semantic-signal-alphabet | ACTIVE | Foundational/current framework. |
 | 22 | MemorySpine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; active parser project. |
 | 23 | historical-janet-school-exploratory-build | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Name and description mark historical prototype. |
@@ -1064,3 +1064,50 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `mind`, `memory`, `hot context`, `cold logs`, `truth`, `spooky`, `vibes`, `autonomous`, and `consciousness` language is either explicitly bounded, avoided as a non-claim, or ordinary technical/product language.
+
+### Symbound_Academia_Spine
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `academic_abstract.md`
+- `spine_academia_config.json`
+- `Factory/factory/config_academia.json`
+- `build_academic_spine.py`
+- orchestration metadata
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Symbound Academia Spine / academic spine | Symbound Academia Spine / academic processing pipeline | project identity retained | Preserved because `Spine` is the repo name and organizing metaphor; source and corpus glossary now state it is not a claim that the tool is cognitive or autonomous. |
+| aligned cognitive prosthetic | FMI-aligned research support tool | canonicalized | Replaced in acknowledgements because the original phrasing over-personified the tool and implied a cognitive apparatus rather than a research-support pipeline. |
+| reliable cognitive prosthetics for emergent AI-human co-research | reliable research support infrastructure for human-AI research workflows | canonicalized | Replaced in the academic abstract to describe observable workflow support rather than emergent co-research cognition. |
+| Symbound Cognitive Architecture / Janet/MCM research | same framework names | framework terms retained | Preserved as project/framework references; not treated as claims that the Academia Spine itself is cognitive. |
+| cognitive architecture / external cognition / phenomenology / mental state keywords | classifier keywords retained | corpus-routing vocabulary retained | Preserved in config keyword lists because they classify incoming research material and must remain able to route legacy/theory content. |
+| backbone / spine / relics | same figurative language | ordinary metaphor retained | Preserved where it names project structure, archive handling, or readable pipeline metaphor rather than ontology. |
+
+Files changed:
+
+- `../Symbound_Academia_Spine/README.md`
+- `../Symbound_Academia_Spine/GLOSSARY.md`
+- `../Symbound_Academia_Spine/academic_abstract.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Symbound Academia Spine`, `academic spine`, `Symbound Cognitive Architecture`, and config classifier terms remain intact.
+
+Historical occurrences intentionally preserved: yes, repo identity, citation text, classifier keywords, and Symbound/Janet/MCM framework references remain.
+
+Tests/checks run:
+
+- `python -m py_compile build_academic_spine.py Factory/factory/sort_academia.py Factory/factory/consolidate.py`
+- `git diff --check`
+- Targeted search confirmed remaining `spine`, `cognitive`, `prosthetic`, `emergent`, `organ`, `phenomenology`, and `mental state` language is either bounded source/framework language, classifier vocabulary, or ordinary metaphor.

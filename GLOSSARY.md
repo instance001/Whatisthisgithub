@@ -507,7 +507,7 @@ If you want the landing page, go back to `README.md`.
 ## Symbound_Academia_Spine
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
-| Symbound Academia Spine | academic spine | ~/~ | **Is:** System to parse large research corpora, topic-bin, multi-level slice (domain→core theory→axioms), and consolidate into grant/publication-ready outputs; manages relics and logs<br>**Not:** Not a summarizer chatbot; not limited to one domain<br>**Relation:** Academic-scale processing pipeline | Symbound_Academia_Spine/README.md |
+| Symbound Academia Spine | academic spine | ~/~ | **Is:** System to parse large research corpora, topic-bin, multi-level slice (domain→core theory→axioms), and consolidate into grant/publication-ready outputs; manages relics and logs<br>**Not:** Not a summarizer chatbot; not limited to one domain; `Spine` is an organizing metaphor, not a claim that the tool is cognitive or autonomous<br>**Relation:** Academic-scale processing pipeline and project identity | Symbound_Academia_Spine/README.md |
 | Topic-sorted binning system | academic bins | ~/~ | **Is:** Automatic themed binning with foundational→derived→operational structuring across domains<br>**Not:** Not ad-hoc folder dumping; structured slicing<br>**Relation:** Corpus organizer | Symbound_Academia_Spine/README.md |
 | Consolidation engine | consolidated outputs | ~/~ | **Is:** Produces *_CONSOLIDATED.md manuscripts and archive-ready packages<br>**Not:** Not peer-review automation; requires human validation<br>**Relation:** Assembly stage | Symbound_Academia_Spine/README.md |
 
