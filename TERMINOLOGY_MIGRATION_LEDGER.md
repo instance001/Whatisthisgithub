@@ -240,6 +240,8 @@ General audit rule carried forward: modernization must not accidentally narrow o
 
 General UX/technical-language rule carried forward: do not replace friendly, established user-facing terminology merely because a more technically precise term exists. Change UX labels only when they materially mislead users about capability, state, privacy, or behaviour. Otherwise preserve the UX label and define its technical meaning in docs and glossaries. `Hot Memory` can remain a user-facing label mapped to active/working context; `Bookkeeper` can remain a product role mapped to memory/context support; `Memory Jogger` can remain a user-facing label mapped to a rolling persisted summary. By contrast, `brain file` should become `GGUF model file` because that metaphor obscures the actual imported object.
 
+General figurative-language rule carried forward: do not replace ordinary, well-understood figurative language merely because a more clinical phrase exists. `gold standard` is acceptable when it means reference benchmark/class and is not making a metaphysical claim. Distinguish dangerous ontology claims such as `real mind`, `all minds`, and `structurally safe` from ordinary readable language such as `gold standard`, `tool`, `reference point`, and `working model`. Prefer precision, but not at the cost of needless sterility.
+
 ### chatty-cog
 
 Status: ACTIVE
@@ -589,7 +591,7 @@ Terminology inventory:
 | Cognition Scale | Cognition Scale | foundational/proposed taxonomy | Preserved as the repo's named framework, but public definitions now describe it as a taxonomy for human and artificial cognition systems rather than all minds. |
 | LCM / LLM / MCM / SCM | LCM / LLM / MCM / SCM | framework terms retained | Preserved as taxonomy classes and repo identity terms; not replaced with generic wording because the repo is specifically defining this taxonomy. |
 | all kinds / four kinds of minds | human and artificial cognition systems / cognition classes | canonicalized | README and field guide now avoid implying all systems are minds. |
-| gold standard / real mind | biological reference class | canonicalized | Human cognition remains the reference class without turning the taxonomy into an anthropomorphic ranking. |
+| real mind | reference baseline / taxonomy class | canonicalized | Removed the metaphysical `real mind` claim, but restored `gold standard` where it simply means the human-cognition benchmark for the proposed taxonomy. |
 | safe logical tool mind / deterministic cognition model | bounded deterministic reasoning tool / proposed artificial cognition class | canonicalized | MCM language now emphasizes bounded, deterministic, auditable systems without calling the class a mind or guaranteeing correctness by label alone. |
 | typed memory spine | typed memory records | canonicalized | README now uses ordinary technical wording for inspected memory artifacts. |
 | structurally safe | more inspectable when compliance requirements are met | canonicalized | Policy brief now avoids treating MCM safety as automatic and ties claims to compliance. |
