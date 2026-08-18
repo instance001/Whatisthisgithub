@@ -1261,3 +1261,49 @@ Tests/checks run:
 - `python remediate.py --help`
 - `git diff --check`
 - Targeted search confirmed remaining `mind`, `cognitive`, `inner monologue`, `thinking`, `teacher`, `student`, `MCM`, `memory`, and `understand` terms are either historical apparatus language, README-bounded exploratory language, generated/provenance reports, or ordinary parser/telemetry wording.
+
+### Janet-MCM-Core
+
+Status: ACTIVE BUT MCM/IDENTITY-SENSITIVE
+
+Audit scope:
+
+- `Readme-Janet-MCM-Core.md`
+- `v.0.1_Public_release.txt`
+- `CognitionScaleTaxonomy—FullEdition(v0.3).txt`
+- `GLOSSARY.md`
+- architecture diagram text/spec files
+- corpus glossary/index entries in `Whatisthisgithub/GLOSSARY.md`, `Whatisthisgithub/GLOSSARY_FULL.md`, and `Whatisthisgithub/README.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Janet / MCM / Modest Cognition Model | same source/project identity | framework terms retained | Preserved because the repo exists to define Janet as an MCM reference architecture; replacing MCM would erase the subject rather than modernize it. |
+| cognition class / artificial cognition / cognitive class | proposed artificial cognition class / bounded taxonomy term | bounded framework language retained | Preserved where source docs define a taxonomy, but README, release notes, glossary, and taxonomy now state these are architecture/class labels, not claims of consciousness, sentience, personhood, subjective experience, moral standing, or guaranteed correctness. |
+| world's first / first public anchor / supersedes acronym uses | open reference / public anchor / Symbound-local acronym use | overbroad public claims narrowed | Softened external-priority and acronym-authority claims while keeping release identity and commons intent. |
+| safe by design / ideal for | bounded by design / candidates for | safety guarantee softened | Avoids treating safety as automatic by label; safety remains a design objective and compliance posture. |
+| cognitive step / cognition engine / cognitive substrate | MCM processing step / artificial cognition engine / proposed artificial-cognition substrate | precision update | Clarifies the artificial-system scope without replacing the core MCM terminology or flattening the project voice. |
+| Typed Memory Spine / Skill-based cognition / Zero-hallucination stance | same terms | product/framework terms retained | Preserved because they are established framework labels; glossary now documents technical meanings and boundaries instead of replacing friendly terminology. |
+
+Files changed:
+
+- `../Janet-MCM-Core/Readme-Janet-MCM-Core.md`
+- `../Janet-MCM-Core/v.0.1_Public_release.txt`
+- `../Janet-MCM-Core/CognitionScaleTaxonomy—FullEdition(v0.3).txt`
+- `../Janet-MCM-Core/GLOSSARY.md`
+- `README.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Janet`, `MCM`, `Modest Cognition Model`, `Memory Spine`, `Skill-based cognition`, and `Zero-hallucination stance` remain intact.
+
+Historical occurrences intentionally preserved: yes, architecture diagrams, release framing, taxonomy class names, and zipped artifact names were left intact.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `consciousness`, `sentience`, `subjective experience`, `cognition`, `memory`, `spine`, `agent`, and `reasoning` language is either explicit boundary language, taxonomy-defining MCM/LCM language, or ordinary framework terminology.
