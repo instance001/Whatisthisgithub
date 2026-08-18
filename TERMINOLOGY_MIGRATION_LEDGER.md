@@ -871,3 +871,54 @@ Tests/checks run:
 
 - `cargo test`
 - Targeted search confirmed model files/GGUF files are described as files or weights, not metaphors.
+
+### nanochat-llm-tweaker
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `HANDSHAKE.md`
+- `CLI_GUI_FUNCTION_MAP.md`
+- `nanochat-master/LOCAL_BUILDER_USER_MANUAL.md`
+- `nanochat-master/ZERO_EXPERIENCE_END_TO_END_GUIDE.md`
+- `nanochat-master/nanochat/dashboard.html`
+- `nanochat-master/nanochat/dashboard_tools.py`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| LLM Tweaker Builder | LLM Tweaker Builder | product term retained | Preserved as the wrapper/dashboard product name; docs already define it as a local builder workflow, not a vague prompt-tweaking toy. |
+| GGUF helper assistant | GGUF helper assistant | UX/technical term retained | Preserved because `assistant` is standard chat/SFT role language and the docs distinguish the helper `.gguf` from the model being trained. |
+| `Assistant_models/` | `assistant_models/` | path corrected | README, glossary, and handshake now match the actual lower-case helper-model folder used by code and detailed guides. |
+| `Assistant_sandbox/` | `assistant_sandbox/` | path corrected | Handshake artifact paths now match the actual lower-case sandbox folder used by code and detailed guides. |
+| teaching the assistant how it should think | teaching the assistant how it should describe its role and behave in conversation | bounded | Replaced one model-interiority phrase in the beginner manual while preserving the plain-language SFT explanation. |
+| Truth-First Teammate / Truth-First Preset | Truth-First Teammate / Truth-First Preset | UX preset retained | Preserved as an established friendly preset label; context defines it through uncertainty, evidence, and role behavior rather than guaranteeing truth. |
+| lab bench, not vending machine / not magic / not summon intelligence | same figurative language | figurative non-claim language retained | Preserved because it reduces overclaim in memorable user-facing language rather than creating one. |
+| real `.gguf` / real corpus | actual local file / user-provided corpus context | ordinary readable language retained | Preserved where `real` simply distinguishes actual provided files from missing placeholders. |
+
+Files changed:
+
+- `../nanochat-llm-tweaker/README.md`
+- `../nanochat-llm-tweaker/GLOSSARY.md`
+- `../nanochat-llm-tweaker/HANDSHAKE.md`
+- `../nanochat-llm-tweaker/nanochat-master/LOCAL_BUILDER_USER_MANUAL.md`
+- `../nanochat-llm-tweaker/nanochat-master/nanochat/dashboard.html`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `LLM Tweaker Builder`, `GGUF helper assistant`, `Truth-First Teammate`, and `assistant_sandbox` remain established workflow terms.
+
+Historical occurrences intentionally preserved: yes, upstream-derived `nanochat-master` role names, tests, release/runtime binaries, and synthetic-data dev materials were not bulk rewritten.
+
+Tests/checks run:
+
+- `python -m pytest` in `nanochat-master` (`156 passed, 11 skipped`)
+- Targeted search confirmed remaining `Truth-First` and figurative beginner-guide wording is bounded UX/preset language, not a truth guarantee or cognition claim.
