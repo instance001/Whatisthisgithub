@@ -22,5 +22,8 @@
   },
   "cognitive_theology": {
     "description": "FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking."
+  },
+  "safety_theatre": {
+    "description": "Safety Theatre and the Suppression of Agency: philosophy papers, AI-governance application, incident-report materials, and the ASEWB benchmark for studying when safety mechanisms drift from harm reduction into discretion control and competence suppression. Not anti-safety, anti-governance, or a motive claim."
   }
 }

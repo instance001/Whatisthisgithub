@@ -137,7 +137,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-18T11:42:15Z`_
+_Last updated: `2026-08-18T22:44:06Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -156,7 +156,7 @@ Total public repos indexed for **@instance001**: **76**
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | Reflective Identity Geometry (RIG): a v0.2 conceptual framework for studying identity-like stability as a possible property of recurring human-LLM interaction regimes, extending HRIS without claiming model consciousness, model-internal personality, or necessary human cognitive change. | TeX | 2026-08-13 |
 | [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier taxonomy for comparing human and artificial cognition systems by architecture, constraints, and observable behaviour. Defines LCM, LLM, MCM, and SCM as proposed classes for avoiding category confusion and anthropomorphic marketing claims. |  | 2026-08-12 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking. | TeX | 2026-08-12 |
-| [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-08-12 |
+| [safety_theatre](https://github.com/instance001/safety_theatre) | Safety Theatre and the Suppression of Agency: philosophy papers, AI-governance application, incident-report materials, and the ASEWB benchmark for studying when safety mechanisms drift from harm reduction into discretion control and competence suppression. Not anti-safety, anti-governance, or a motive claim. | TeX | 2026-08-12 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-08-11 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-08-11 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-08-11 |

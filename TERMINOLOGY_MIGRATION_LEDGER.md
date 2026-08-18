@@ -620,12 +620,62 @@ Tests/checks run:
 - Targeted search confirmed remaining strong cognition terms are either framework-defining taxonomy language, formal artifact provenance, or explicit boundary/failure-mode text.
 - `python -m json.tool repo_metadata_overrides.json`
 - `python scripts/generate_index.py`
-- `node scripts/generate-seo.mjs` in `instance001.github.io`
 
 Unresolved terminology questions:
 
 - Live GitHub repository description should eventually be updated so the `Cognition-Scale-Formal-Taxonomy` override can be removed.
 - A deeper manuscript-version migration could separately modernize the full-edition `.txt` and checklist artifacts; this pass kept them as formal/provenance surfaces.
+
+### safety_theatre
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `papers/safety-theatre-agency.md`
+- `papers/ai-safety-first-governance.md`
+- `docs/readers-guide.md`
+- `asewb/README.md`
+- `asewb/SPEC.md`
+- `asewb/FAILURE_MODES.md`
+- `asewb/NULL_CASE.md`
+- portal metadata override in `Whatisthisgithub/repo_metadata_overrides.json`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| safety theatre | safety theatre | framework term retained | Preserved as the repo's central concept and as a readable extension of `security theatre`; not flattened into generic compliance-risk language. |
+| agency | agency | framework term retained | Preserved because the paper explicitly concerns discretion, judgment, competence formation, and authority allocation. |
+| agents | actors | disambiguated | Source README now says `actors` to avoid accidental confusion with AI agents while preserving the institutional-action meaning used in the paper. |
+| all safety is theatre / safety is bad / anti-governance | explicit non-claims | bounded | Existing scope notes preserved: the framework targets some safety mechanisms and structural drift, not safety or governance as such. |
+| internal model cognition | out of scope | bounded | ASEWB already states it evaluates interaction/governance drift, not internal model cognition or motives. |
+| safety without agency is not safety | safety without agency is not safety | figurative/theory language retained | Preserved as readable thesis language, not replaced with sterile terminology; context makes clear it means resilient safety requires disciplined agency and competence cultivation. |
+
+Files changed:
+
+- `../safety_theatre/README.md`
+- `repo_metadata_overrides.json`
+- generated `README.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `safety theatre`, `agency suppression`, and `ASEWB` remain the repo's defining terms.
+
+Historical occurrences intentionally preserved: yes, paper titles, PDFs, TeX sources, and incident-report provenance remain untouched unless a deeper source/PDF regeneration pass is requested.
+
+Tests/checks run:
+
+- Targeted search confirmed existing source boundaries: not anti-safety, not anti-governance, not all safety mechanisms are theatre, no motive claims, and ASEWB is not a proxy for internal model cognition.
+- `python -m json.tool repo_metadata_overrides.json`
+- `python scripts/generate_index.py`
+- `node scripts/generate-seo.mjs` in `instance001.github.io`
+
+Unresolved terminology questions:
+
+- Live GitHub repository description should eventually be updated so the `safety_theatre` override can be removed.
 
 ### cognitive_theology
 
