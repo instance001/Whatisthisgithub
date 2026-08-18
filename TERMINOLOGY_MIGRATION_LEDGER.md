@@ -463,3 +463,53 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - None for the current Chatty-Pet pass.
+
+### chatty-mini
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/USER_MANUAL.md`
+- current Dart app surfaces under `lib/`, especially `features/help` and `features/character`
+- widget tests under `test/`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| model as "brain" file | GGUF model file | canonicalized | Beginner manual now describes the imported model as the `.gguf` file rather than anthropomorphic "brain" wording. |
+| Hot Context | active context | UX retained | `Hot Context` remains an app label and filename alias; explanatory prose and glossary now map it to active context. |
+| Rolling Summary / Summary bump | rolling summary | UX retained | Preserved as visible product wording for the recap side panel. |
+| Cold Log | memory/log files and session logs | UX/compatibility retained | Preserved as an app tray/file label; docs keep it as local persistent memory/log management rather than a broader architecture claim. |
+| persona profiles / active persona | character prompt profiles / active character prompt | canonicalized with UX alias | Docs and glossaries now prefer character prompt/profile language; persona remains a familiar UX alias. |
+| Bookkeeper | support model role | UX retained | Preserved as a product role name for optional recap/memory support, not a claim about model cognition. |
+
+Files changed:
+
+- `../chatty-mini/README.md`
+- `../chatty-mini/GLOSSARY.md`
+- `../chatty-mini/docs/USER_MANUAL.md`
+- `../chatty-mini/lib/features/help/help_sheet.dart`
+- `../chatty-mini/lib/features/character/character_tray.dart`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, UI labels and filenames such as `Hot Context`, `hot_context.md`, `Cold Log`, `cold_log.md`, `Bookkeeper`, and persona/profile imports remain compatible.
+
+Historical occurrences intentionally preserved: yes, vendored upstream `llama.cpp` source under Android native code was not rewritten.
+
+Tests/checks run:
+
+- Targeted search across `README.md`, `GLOSSARY.md`, `docs/USER_MANUAL.md`, `lib/`, and `test/` confirmed remaining `Hot Context`, `Cold Log`, `Bookkeeper`, and persona terms are intentional UI labels, compatibility filenames, or aliases.
+- `flutter test`
+- `flutter analyze`
+
+Unresolved terminology questions:
+
+- A later product-label migration could rename UI labels such as `Hot Context` or `Cold Log`, but that would be a user-facing compatibility change and was intentionally out of scope here.
