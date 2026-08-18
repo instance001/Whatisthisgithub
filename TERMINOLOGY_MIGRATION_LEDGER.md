@@ -415,3 +415,51 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - A later product-label migration could rename shared `luke warm` networking UI, but that would be a behaviour/UX compatibility change and was intentionally out of scope here.
+
+### chatty-pet
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/ARCHITECTURE.md`
+- `docs/APP_IDENTITY.md`
+- `docs/ROADMAP.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Reducer owns truth | Reducer owns truth | foundational/current doctrine | Preserved as the repo's central deterministic state-governance rule. |
+| Templates define possibility | Templates define possibility | canonical/current doctrine | Preserved as a clear content-boundary rule for the toy. |
+| RD Engine doctrine spine | RD Engine doctrine / RD Engine architectural lineage | canonicalized | Source docs now use doctrine/lineage language; `spine` remains only as historical/provenance wording in the corpus glossary alias. |
+| Bubble Wand | Bubble Wand | unrelated UX item | Preserved as a toy item name, not prompt/capsule `wand` terminology. |
+| snack-minded / nap-shaped | snack-minded / nap-shaped | UX flavor | Preserved as product copy describing pet moods/items; not a technical cognition claim. |
+
+Files changed:
+
+- `../chatty-pet/README.md`
+- `../chatty-pet/GLOSSARY.md`
+- `../chatty-pet/docs/ARCHITECTURE.md`
+- `../chatty-pet/docs/APP_IDENTITY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `RD Engine doctrine spine` remains as a historical/provenance alias in the corpus glossary.
+
+Historical occurrences intentionally preserved: yes, toy item and flavor text that happen to match terms such as `wand` or `minded` remain product language.
+
+Tests/checks run:
+
+- Search confirmed no cognition-heavy, capsule/prompt, MCM, or department terminology required current-facing changes.
+- `flutter test`
+- `flutter analyze`
+
+Unresolved terminology questions:
+
+- None for the current Chatty-Pet pass.
