@@ -91,7 +91,7 @@ If you want the landing page, go back to `README.md`.
 ## chatty-edu
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
-| Chatty-EDU | chatty-edu | =/~ | **Is:** Rust/egui desktop + CLI app for schools; runs fully offline with user-supplied GGUF models as a deliberate school-trust baseline<br>**Not:** Not cloud-connected in normal use; not bundled with model weights; not telemetry-enabled; not a statement that all FMI tools reject optional cloud lanes<br>**Relation:** Matches an offline/local-first educational assistant application | chatty-edu/README.md |
+| Chatty-EDU | chatty-edu | =/~ | **Is:** Rust/egui desktop + CLI app for schools; runs fully offline with user-supplied GGUF models as a deliberate school-trust baseline<br>**Not:** Not cloud-connected in normal use; not bundled with model weights; not remote-telemetry or analytics enabled in normal use; not a statement that all FMI tools reject optional cloud lanes<br>**Relation:** Matches an offline/local-first educational assistant application | chatty-edu/README.md |
 | Teacher lock (PIN) | teacher PIN, teacher menu lock | ~/~ | **Is:** PIN-gated teacher dashboard/console (default 0000) with secret question/answer recovery; meant to be changed on first use<br>**Not:** Not a security-grade auth system; not student-facing<br>**Relation:** Analogous to admin PIN gating | chatty-edu/README.md; chatty-edu/teacher_user_manual.md |
 | Homework pack | homework_pack_*.json | =/~ | **Is:** JSON schema v1 describing assignments (id/title/subject/year/due, instructions_md, allow_games, allow_ai_premark, max_score, attachments)<br>**Not:** Not a submission; not coupled to any specific model<br>**Relation:** Equivalent to assignment manifest | chatty-edu/README.md |
 | Submission file | submission_*.json | =/~ | **Is:** JSON schema v1 capturing answers, attachments, ai_premark, hash-chained event log with final_hash for tamper-evidence<br>**Not:** Not the homework pack; not encrypted telemetry<br>**Relation:** Comparable to student submission artifact | chatty-edu/README.md; chatty-edu/teacher_user_manual.md |
@@ -112,6 +112,7 @@ If you want the landing page, go back to `README.md`.
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
 | Chatty-EDU User Release | prebuilt Chatty-EDU | ~/~ | **Is:** Prebuilt Windows binary + sample resources with BYO GGUF model; stores data locally alongside exe<br>**Not:** Not the source repo; no bundled model weights<br>**Relation:** Distribution variant | chatty-edu-user/README.md |
+| ECG window (EDU bundle) | activity cue | ~/~ | **Is:** Visible local activity cue that reads local Windows counters to show on-device work during normal offline use<br>**Not:** Not remote telemetry or analytics; not a packet sniffer; not formal network-audit evidence<br>**Relation:** Transparency signal for the offline trust boundary | chatty-edu-user/README.md; chatty-edu-user/security_privacy_statement.md |
 
 ## chatty-pet
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |

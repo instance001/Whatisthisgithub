@@ -1399,3 +1399,51 @@ Tests/checks run:
 - `python -m py_compile setup_assets.py engine/vizdoom_runner.py engine/state_adapter.py engine/action_adapter.py brains/marine_basic.py brains/imp_spicy.py brains/pinkie_rush.py`
 - `git diff --check`
 - Targeted search confirmed remaining `brain`, `believable`, `confidence`, and `agent` language is bounded game-AI/module terminology or license text.
+
+### chatty-edu-user
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `security_privacy_statement.md`
+- `student_user_manual.md`
+- `teacher_user_manual.md`
+- `it_deployment_guide.md`
+- `design_intent.md`
+- `CHANGELOG.md`
+- resource examples and model attribution notes
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| not telemetry / not telemetry-enabled | no remote telemetry or analytics in normal use | privacy wording clarified | Updated because the ECG widget reads local Windows performance counters. The trust claim now distinguishes local activity sampling from remote telemetry, analytics, or remote logging. |
+| ECG window / activity trace | local activity cue | UX/product term retained | Preserved as a visible transparency feature; source and portal now state it is not a packet sniffer or formal network-audit tool. |
+| `Chatty's thoughts` | active/current-session context | student-facing UX label retained | Preserved because the docs explain it is session-only context that clears on app close; changing the label would flatten the learner-facing interface without improving privacy. |
+| `Memory jogger` | rolling persisted local summary | student-facing UX label retained | Preserved because docs define it as a local recent-session summary stored across restarts, not a full transcript or cloud memory. |
+| Bookkeeper | local log/context support role | product role retained | Preserved because docs define it as local log search/context support behind a convenience PIN, not a hardened security boundary or separate authority. |
+| diagnostic labels / support diagnosis | educational/support workflow wording retained | bounded domain language | Preserved because source states teacher-side scores/diagnostic labels are hidden from students and the product is not for ranking, shaming, permanent profiling, discipline, or surveillance. |
+
+Files changed:
+
+- `../chatty-edu-user/README.md`
+- `../chatty-edu-user/GLOSSARY.md`
+- `../chatty-edu-user/security_privacy_statement.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Chatty's thoughts`, `Memory jogger`, `Bookkeeper`, `ECG window`, `offline-first`, and `GGUF` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, the prebuilt binary and resource example files were not modified; user-facing labels remain.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `thoughts`, `memory`, `Bookkeeper`, `diagnostic`, `telemetry`, `ECG`, `safe`, `cloud`, and `offline` language is bounded documentation, privacy wording, or retained UX terminology.
