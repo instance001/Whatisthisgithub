@@ -25,7 +25,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 15 | chatty-lora | ACTIVE | Current LoRA training lane. |
 | 16 | nanochat-llm-tweaker | ACTIVE | Current builder/dashboard lane. |
 | 17 | janet-school | ACTIVE | Current Janet rebuild; MCM language requires cautious modernization. |
-| 18 | cognition-mesh-test-chamber | ACTIVE | Current model suitability test harness; fingerprinting terms likely candidates. |
+| 18 | cognition-mesh-test-chamber | ACTIVE | Current model suitability test harness; fingerprinting retained with explicit behavioural-suitability definition. |
 | 19 | llm-defined-persistent-memory | ACTIVE | Current memory architecture docs. |
 | 20 | Symbound_Academia_Spine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; inspect before renaming. |
 | 21 | semantic-signal-alphabet | ACTIVE | Foundational/current framework. |
@@ -135,13 +135,13 @@ Terminology inventory:
 
 | Old term | Current canonical term | Classification | Decision |
 | --- | --- | --- | --- |
-| cognitive fingerprinting | behavioural suitability profiling | canonicalized | Portal guidance and generated active description now use behavioural profiling; old term retained only as glossary alias. |
+| cognitive fingerprinting | cognitive fingerprinting / behavioural suitability profiling | repo-local retained after audit | Portal summaries may use behavioural suitability profiling for technical clarity, but `cognitive fingerprinting` is not globally deprecated and remains the source repo's bounded project-facing term. |
 | constraint-metabolization / metabolise constraints | constraint promotion / promote reusable constraints | canonicalized | Portal-facing implementation language now distinguishes EF theory metaphor from software implementation description. |
 | theory spine / hypothesis spine | theory entry point / theory framework | canonicalized | Curated visitor guidance did not require metaphor. |
 | human-AI cognition | human-AI systems | canonicalized | Corpus-level statement now avoids over-claiming cognition where systems language is clearer. |
 | cognitive infrastructure | human-AI infrastructure | canonicalized | Corpus-level statement now uses systems language. |
 | RD Engine doctrine spine | RD Engine doctrine | legacy alias | Glossary keeps source wording as alias but marks "spine" as non-preferred current technical language. |
-| Cognitive fingerprinting | Behavioural suitability profiling | legacy alias | Glossary row renamed to current term and old label retained as alias/provenance. |
+| Cognitive fingerprinting | Cognitive fingerprinting / behavioural suitability profiling | repo-local retained after audit | Glossary row restored to the source repo's bounded project-facing label, with behavioural suitability profiling as its explicit technical definition. |
 | Composite cognition workflow | planner/executor/verifier or implemented role names | legacy alias | Archived ChattyFactory wording marked legacy rather than preferred current role language. |
 | Janet (MCM) | Janet deterministic modular architecture | legacy alias | MCM retained as project identity/historical term; current description uses deterministic modular architecture. |
 | Hot Memory | Active context | UX retained | Product label retained as alias and mapped to current technical stack. |
@@ -178,7 +178,7 @@ Tests/checks run:
 
 Unresolved terminology questions:
 
-- `janet-school`, `project-leviathan`, `ef-engine`, and `cognition-mesh-test-chamber` need repo-local audits before deeper identifier or README changes.
+- `project-leviathan` and `ef-engine` need repo-local audits before deeper identifier or README changes.
 - GitHub live descriptions should eventually be updated so the `repo_metadata_overrides.json` entries for `cognition-mesh-test-chamber` and `ef-engine` can be removed.
 
 ### collapse-of-the-semantic-middle
@@ -969,3 +969,52 @@ Tests/checks run:
 
 - `cargo test`
 - Targeted search confirmed remaining strong cognition/proof/personality terms are explicit non-claims, avoid-list items, framework-defining MCM language, or bounded publisher tagline language.
+
+### cognition-mesh-test-chamber
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/cognitive-fingerprint.md`
+- `docs/philosophy.md`
+- `docs/negative-lane-engine.md`
+- `docs/user-manual.md`
+- `new-direction.md`
+- selected configs, source, and tests for fingerprint/assistant-review wording
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognitive fingerprinting | cognitive fingerprinting / behavioural suitability profiling | project-facing term retained | Restored as the portal's primary repo-local label because it is the project's central readable term; source now defines it technically as observable behavioural suitability profiling. |
+| cognitive fingerprint | cognitive fingerprint / contextual deployment profile | bounded technical artifact | Preserved for JSON/report artifacts and docs because it refers to observed model-host-task behaviour, not internal cognition or a universal ranking. |
+| cognition mesh | cognition mesh | repo identity retained | Preserved as the repo name and mesh framing; the docs attach all suitability claims to model, host, operator, task, lane, and observed failures. |
+| deterministic truth / source of truth / ground truth | deterministic harness evidence | ordinary technical shorthand retained | Preserved where it distinguishes official harness artifacts from optional assistant commentary; not a metaphysical truth claim. |
+| assistant review / assistant models | assistant review / assistant models | role language retained | Preserved because assistant review is explicitly secondary and cannot replace deterministic outputs. |
+| memory | memory / historical run state | ordinary technical term retained | Preserved for model config fields, gauntlet memory pressure, and atlas/history language; no hidden personhood or human-memory claim is made. |
+| magic / lab instrument / suitability cartographer | figurative product language retained | readable non-claim language | Preserved because it makes the project legible without overstating capability. |
+
+Files changed:
+
+- `../cognition-mesh-test-chamber/README.md`
+- `../cognition-mesh-test-chamber/GLOSSARY.md`
+- `../cognition-mesh-test-chamber/docs/cognitive-fingerprint.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `cognitive fingerprinting`, `cognitive fingerprint`, `fingerprint`, and `behavioural suitability profiling` remain cross-mapped.
+
+Historical occurrences intentionally preserved: yes, the original build brief and doctrine files retain `cognitive fingerprinting` because the term is now bounded rather than globally deprecated.
+
+Tests/checks run:
+
+- Targeted search confirmed remaining `cognitive fingerprint`, `cognition mesh`, `truth`, `memory`, `assistant`, `magic`, and `agentic/autonomous` language is bounded artifact, role, UX, or ordinary technical language.
+
+General audit rule carried forward: modernization may define friendly or figurative project language instead of replacing it. Prefer replacement only when the term materially misleads about capability, state, privacy, behaviour, ontology, or evidence access.
