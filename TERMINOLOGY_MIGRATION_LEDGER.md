@@ -1495,3 +1495,42 @@ Tests/checks run:
 Worktree note:
 
 - Source repo still had pre-existing dirty files after this commit: `build-docs/README.md` and untracked `build-docs/plans/NEGATIVE_VOID_ENGINE_REBUILD_PLAN.md`. They were not staged or modified by this terminology slice.
+
+### 4roomciv
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `Relicensing-notice.txt`
+- visible references to `4room-civ-mvp.zip`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| 4-Room Civilization MVP | same project/testbed identity | project identity retained | Preserved because the README explicitly frames it as a small trial/testbed for 2-3 humans and 1-2 local LLMs, not a production social system. |
+| Helix memory | Helix memory / SQLite + FTS5 retrieval store | bounded technical term retained | Preserved because glossary defines it as `/helix` endpoint storage/search over spines, not hidden cognition, human-like memory, or cloud memory. |
+| Spine / Helix Spine v1 | structured claim/rationale record | source schema term retained | Preserved because the term is schema-level product vocabulary with explicit required fields and length bounds. |
+| Paired Room (R3) / Commons (R4) | paired session endpoint / threaded commons endpoints | UX/domain terms retained | Preserved because docs define them as API surfaces and room metaphors, not claims of autonomous society or multi-agent consciousness. |
+| auto-extract spines / SPINE_AUTOWRITE | auto-extraction/write toggle | capability wording retained | Preserved because README documents how to disable autowrites and glossary distinguishes automatic writes from manual writes/search. |
+
+Files changed:
+
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Source files changed: no
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `4roomciv`, `Helix memory`, `spine`, `Paired Room (R3)`, `Commons (R4)`, and `SPINE_AUTOWRITE` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, the zip artifact was not unpacked or edited during this audit; visible docs/glossary already provide bounded definitions.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `memory`, `shared space`, `humans`, `LLM`, `spine`, `paired room`, `commons`, `metrics`, and `autowrite` language is bounded source terminology for a small local trial.
