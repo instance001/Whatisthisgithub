@@ -1534,3 +1534,45 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `memory`, `shared space`, `humans`, `LLM`, `spine`, `paired room`, `commons`, `metrics`, and `autowrite` language is bounded source terminology for a small local trial.
+
+### governance-by-design-report-commentary
+
+Status: ACTIVE
+
+Audit scope:
+
+- `readme.md`
+- `governance-by-design-commentary.md`
+- `why-this-matters.md`
+- `image-attribution-test.md`
+- `GLOSSARY.md`
+- image attribution/provenance note
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| genuine cognitive prosthetic | high-leverage thinking tool | canonicalized | Replaced in `why-this-matters.md` because the passage is about AI utility for sophisticated users, not a claim that AI functions as a literal cognitive prosthesis. |
+| preference salience bucketing | same diagnostic term | framework term retained | Preserved because it is the core claimed pattern under test and is framed as observable preference down-weighting, not model intent or malice. |
+| meta-level litmus test / "Thoughts?" | same diagnostic setup | reproducible test term retained | Preserved because the repo clearly presents it as a simple observational test, not a broad benchmark or accusation manifesto. |
+| image attribution bias test | source attribution anchoring diagnostic | missing portal row restored | Added to corpus glossaries to match source; the test changes attribution context while holding the image constant. |
+| own preference-handling / memory mechanisms | model/system preference-handling mechanisms | self-referential diagnostic language retained | Preserved in source because it refers to product/system mechanisms under test, not subjective selfhood or consciousness. |
+
+Files changed:
+
+- `../governance-by-design-report-commentary/why-this-matters.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `preference salience bucketing`, `meta-level litmus test`, `Thoughts?`, `image attribution bias test`, `Saved Memories`, and `Custom Instructions` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, image asset/provenance and diagnostic prompt wording were left unchanged.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `preference`, `memory`, `bias`, `mechanistic`, `malice`, `diagnostic`, `reasoning`, and `own preference-handling` language is bounded commentary/diagnostic language, not a consciousness or intent claim.
