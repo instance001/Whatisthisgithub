@@ -1356,3 +1356,46 @@ Tests/checks run:
 - `python -m py_compile examples/python/ecg_window.py examples/python-tkinter/ecg_window_tk.py`
 - `git diff --check`
 - Targeted search confirmed remaining `alive`, `sign of life`, `heartbeat`, `truthful`, and `fake activity` language is bounded UX metaphor, implementation guidance, or preserved concept-note language.
+
+### chattydoom
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `brains/`
+- `engine/vizdoom_runner.py`
+- `engine/state_adapter.py`
+- `engine/action_adapter.py`
+- `config.yaml`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| brain / brains / enemy brain module | same game-AI module term | established game/modding term retained | Preserved because `brains/` is the repo API and ordinary game AI terminology; glossary now defines it as a `decide(state)` policy module, not cognition, consciousness, or autonomous agency. |
+| comparable to agent policy module | comparable to game AI policy module | narrowed relation | Changed to avoid importing broader agentic framing into a tiny VizDoom sandbox. |
+| believable behaviors | believable behaviors | ordinary game-design language retained | Preserved because it means simple enemy behaviour variety/cooldowns, not a claim of intelligence or mind. |
+| confidence | confidence score | implementation field retained | Preserved as an action-selection output value, not epistemic certainty or self-report. |
+
+Files changed:
+
+- `../chattydoom/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `ChattyDoom`, `brains`, `brain module`, `decide(state)`, `action`, and `confidence` remain intact.
+
+Historical occurrences intentionally preserved: yes, README and code references to `brains/` remain because they name the module folder/API.
+
+Tests/checks run:
+
+- `python -m py_compile setup_assets.py engine/vizdoom_runner.py engine/state_adapter.py engine/action_adapter.py brains/marine_basic.py brains/imp_spicy.py brains/pinkie_rush.py`
+- `git diff --check`
+- Targeted search confirmed remaining `brain`, `believable`, `confidence`, and `agent` language is bounded game-AI/module terminology or license text.
