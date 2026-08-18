@@ -238,6 +238,8 @@ Unresolved terminology questions:
 
 General audit rule carried forward: modernization must not accidentally narrow ontology. Cognition-neutral or cognition-broad terms should not be replaced merely because they could be read anthropomorphically; first inspect whether the local definition is human-only, artificial, hybrid, or substrate-agnostic.
 
+General UX/technical-language rule carried forward: do not replace friendly, established user-facing terminology merely because a more technically precise term exists. Change UX labels only when they materially mislead users about capability, state, privacy, or behaviour. Otherwise preserve the UX label and define its technical meaning in docs and glossaries. `Hot Memory` can remain a user-facing label mapped to active/working context; `Bookkeeper` can remain a product role mapped to memory/context support; `Memory Jogger` can remain a user-facing label mapped to a rolling persisted summary. By contrast, `brain file` should become `GGUF model file` because that metaphor obscures the actual imported object.
+
 ### chatty-cog
 
 Status: ACTIVE

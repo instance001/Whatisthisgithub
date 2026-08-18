@@ -41,6 +41,19 @@ When updating terminology, make the status clear:
 
 Do not delete historical names needed to understand older repositories. Do stop using those names as the preferred term for current architecture when a smaller technical term is clearer.
 
+## UX Language Boundary
+
+Modernization is not a mandate to replace approachable product language with engineering terminology.
+
+Preserve friendly, established user-facing labels unless they materially mislead users about capability, state, privacy, or behaviour. A UX term can remain when it helps users orient, provided the documentation maps it to the technical mechanism.
+
+Examples:
+
+- `Hot Memory` may remain as a user-facing label; document it technically as active or working context.
+- `Bookkeeper` may remain as a product role; document it as a memory/context support role.
+- `Memory Jogger` may remain as a user-facing label; document it as a rolling persisted summary.
+- `brain file` should become `GGUF model file` because the metaphor obscures the actual imported object.
+
 Modernization must not accidentally narrow ontology. Do not replace cognition-neutral or cognition-broad wording merely because it could be read anthropomorphically; first check whether the local source intends human-only endpoints, artificial endpoints, hybrid systems, or a broader substrate-agnostic category.
 
 `Hybrid cognition` is not globally deprecated. It remains valid for modern Symbound work where the intended meaning is a broader human-AI hybrid cognitive engine or mixed human/AI cognition system. Repo-local replacements, such as `audited human-LLM collaboration` in `collapse-of-the-semantic-middle`, should be used only when the source is explicitly bounded to observable human-LLM communication evidence rather than broader cognition claims.
