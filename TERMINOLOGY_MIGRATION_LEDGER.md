@@ -1307,3 +1307,52 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `consciousness`, `sentience`, `subjective experience`, `cognition`, `memory`, `spine`, `agent`, and `reasoning` language is either explicit boundary language, taxonomy-defining MCM/LCM language, or ordinary framework terminology.
+
+### ecg_window
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/zero-knowledge-user-guide.md`
+- `docs/why-use-this.md`
+- `docs/architecture.md`
+- `docs/ui-guidelines.md`
+- `docs/signal-sources.md`
+- `spec/ecg-window-contract.md`
+- `copy-paste/`
+- examples and original concept note search hits
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| ECG Window / ECG-style trace | same product term | user-facing metaphor retained | Preserved because the medical-monitor metaphor is the product identity and helps users understand activity at a glance; docs now clarify it is not medical-grade monitoring. |
+| alive / sign of life / heartbeat | active workload / fresh telemetry, with metaphor retained | UX metaphor retained and bounded | Preserved because these are ordinary, useful user-facing phrases for visible process activity; README, user guide, why-use-this, and glossary now state they do not imply biological life, cognition, or self-awareness. |
+| honest / truthful signal | same technical/UX standard | ordinary readable language retained | Preserved because the repo's core value is avoiding fake progress animation; this is not an ontology claim. |
+| fake activity | fake activity | anti-pattern retained | Preserved in failure-handling/checklist docs because it materially warns implementers not to mislead users. |
+
+Files changed:
+
+- `../ecg_window/README.md`
+- `../ecg_window/GLOSSARY.md`
+- `../ecg_window/docs/zero-knowledge-user-guide.md`
+- `../ecg_window/docs/why-use-this.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `ECG Window`, `alive`, `heartbeat`, `sign of life`, `honest`, and `truthful` remain readable UX/project language.
+
+Historical occurrences intentionally preserved: yes, `ecg_window.md` remains the original concept note and keeps the motivating phrase `Is this thing still alive?` under the new README/user-guide boundary.
+
+Tests/checks run:
+
+- `python -m py_compile examples/python/ecg_window.py examples/python-tkinter/ecg_window_tk.py`
+- `git diff --check`
+- Targeted search confirmed remaining `alive`, `sign of life`, `heartbeat`, `truthful`, and `fake activity` language is bounded UX metaphor, implementation guidance, or preserved concept-note language.
