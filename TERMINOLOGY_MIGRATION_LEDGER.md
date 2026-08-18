@@ -828,3 +828,46 @@ Tests/checks run:
 
 - `cargo test`
 - Targeted search confirmed no remaining `real LLM`, `real model`, or `split-brain` phrasing in active docs.
+
+### chatty-lora
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `USER_MANUAL.md`
+- `GLOSSARY.md`
+- `static/index.html`
+- `static/app.js`
+- `models/wan/dependencies/README.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Chatty-lora / LoRA builder | Chatty-lora / LoRA builder | product terms retained | Preserved as accurate product language for a local LoRA workflow dashboard. |
+| Helper Chat / helper lanes / local helper | Helper Chat / helper lanes / local helper | UX terms retained | Preserved because they are friendly user-facing labels for guidance routes and do not mislead about capability, privacy, or state; docs explain local versus cloud lanes. |
+| assistant persona | assistant persona | LoRA concept label retained | Preserved as a valid training-concept category; it names a possible output behavior/style target, not a claim that the app or model has personhood. |
+| app-assistant GGUF models / helper weights | app-assistant GGUF models / helper weights | technical object terms retained | Preserved because the docs explicitly map these to local GGUF model files and separate them from Builder training base models. |
+| starter personality | starter profile | bounded | README now describes `Training preset` as a starter profile rather than a personality for the run. |
+| cognitive scaffolding experiments | cognitive scaffolding experiments | broader FMI tagline retained | Preserved as organizational/research framing, not a local claim that Chatty-lora performs cognition or contains a mind. |
+| magic quality sliders / useful, not magical | magic quality sliders / useful, not magical | figurative non-claim language retained | Preserved because the wording explicitly reduces overclaim and remains approachable. |
+| proof test / proof of final LoRA quality | proof test / proof of final LoRA quality | ordinary validation language retained | Preserved because context distinguishes smoke testing from final quality claims. |
+
+Files changed:
+
+- `../chatty-lora/README.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Helper Chat`, `helper lanes`, `assistant persona`, `Concept stack`, `Wan handoff`, and `ECG Window` remain established product vocabulary.
+
+Historical occurrences intentionally preserved: yes, screenshots, release binaries, UI labels, and model-family folder names were not renamed.
+
+Tests/checks run:
+
+- `cargo test`
+- Targeted search confirmed model files/GGUF files are described as files or weights, not metaphors.
