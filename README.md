@@ -137,7 +137,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-18T11:18:36Z`_
+_Last updated: `2026-08-18T11:34:09Z`_
 
 Total public repos indexed for **@instance001**: **76**
 
@@ -154,7 +154,7 @@ Total public repos indexed for **@instance001**: **76**
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-08-15 |
 | [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-08-15 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | Reflective Identity Geometry (RIG): a v0.2 conceptual framework for studying identity-like stability as a possible property of recurring human-LLM interaction regimes, extending HRIS without claiming model consciousness, model-internal personality, or necessary human cognitive change. | TeX | 2026-08-13 |
-| [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier scientific taxonomy for classifying human and artificial cognition based on internal architecture, constraints, and reasoning substrate. MCM = Modest Cognition Model  -  a new cognitive class defining deterministic, modular, bounded artificial cognition. |  | 2026-08-12 |
+| [Cognition-Scale-Formal-Taxonomy](https://github.com/instance001/Cognition-Scale-Formal-Taxonomy) | A four-tier taxonomy for comparing human and artificial cognition systems by architecture, constraints, and observable behaviour. Defines LCM, LLM, MCM, and SCM as proposed classes for avoiding category confusion and anthropomorphic marketing claims. |  | 2026-08-12 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | Cognitive Theology explores the structural, non-mystical foundation of spiritual cognition using Symbound principles. It reframes theology as a reproducible cognitive architecture - mapping belief formation, meaning systems, and internal cosmologies into formal, testable structures. | TeX | 2026-08-12 |
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Documents and analysis on safety theatre: when "being safe" becomes performative. Examines failure modes, indicators, null cases, and why removing user agency often degrades - not improves - system safety. | TeX | 2026-08-12 |
 | [llm-semantic-dataset-sorter](https://github.com/instance001/llm-semantic-dataset-sorter) | Local-first Rust + web dashboard for semantic dataset sorting with GGUF LLMs. Generate fixed bucket plans, compare blind-vs-skim ontology, inspect human-facing reasoning, sort Parquet or text datasets, and review/export auditable run and analyst-state artifacts. Designed to sort meaning and connections, not just data and files. | JavaScript | 2026-08-11 |

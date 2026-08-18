@@ -567,3 +567,60 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - Live GitHub repository description should eventually be updated so the `reflective_identity_geometry` override can be removed.
+
+### Cognition-Scale-Formal-Taxonomy
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `cognition-scale.md`
+- `policymaker-brief.md`
+- `psychology-biologist-crossover-explainer.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+- portal metadata override in `Whatisthisgithub/repo_metadata_overrides.json`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Cognition Scale | Cognition Scale | foundational/proposed taxonomy | Preserved as the repo's named framework, but public definitions now describe it as a taxonomy for human and artificial cognition systems rather than all minds. |
+| LCM / LLM / MCM / SCM | LCM / LLM / MCM / SCM | framework terms retained | Preserved as taxonomy classes and repo identity terms; not replaced with generic wording because the repo is specifically defining this taxonomy. |
+| all kinds / four kinds of minds | human and artificial cognition systems / cognition classes | canonicalized | README and field guide now avoid implying all systems are minds. |
+| gold standard / real mind | biological reference class | canonicalized | Human cognition remains the reference class without turning the taxonomy into an anthropomorphic ranking. |
+| safe logical tool mind / deterministic cognition model | bounded deterministic reasoning tool / proposed artificial cognition class | canonicalized | MCM language now emphasizes bounded, deterministic, auditable systems without calling the class a mind or guaranteeing correctness by label alone. |
+| typed memory spine | typed memory records | canonicalized | README now uses ordinary technical wording for inspected memory artifacts. |
+| structurally safe | more inspectable when compliance requirements are met | canonicalized | Policy brief now avoids treating MCM safety as automatic and ties claims to compliance. |
+| MCM acronym supersedes all previous uses | MCM within this taxonomy and Symbound-derived materials | canonicalized | README now avoids claiming authority over unrelated external acronyms. |
+
+Files changed:
+
+- `../Cognition-Scale-Formal-Taxonomy/README.md`
+- `../Cognition-Scale-Formal-Taxonomy/GLOSSARY.md`
+- `../Cognition-Scale-Formal-Taxonomy/cognition-scale.md`
+- `../Cognition-Scale-Formal-Taxonomy/policymaker-brief.md`
+- `../Cognition-Scale-Formal-Taxonomy/psychology-biologist-crossover-explainer.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `repo_metadata_overrides.json`
+- generated `README.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, LCM/LLM/MCM/SCM remain the taxonomy's defining terms, and Janet remains the MCM example.
+
+Historical occurrences intentionally preserved: yes, fuller v0.3/v1.0 text artifacts and compliance/checklist files were not bulk rewritten; they should be treated as formal/provenance material until a deeper paper-version migration is requested.
+
+Tests/checks run:
+
+- Targeted search confirmed remaining strong cognition terms are either framework-defining taxonomy language, formal artifact provenance, or explicit boundary/failure-mode text.
+- `python -m json.tool repo_metadata_overrides.json`
+- `python scripts/generate_index.py`
+- `node scripts/generate-seo.mjs` in `instance001.github.io`
+
+Unresolved terminology questions:
+
+- Live GitHub repository description should eventually be updated so the `Cognition-Scale-Formal-Taxonomy` override can be removed.
+- A deeper manuscript-version migration could separately modernize the full-edition `.txt` and checklist artifacts; this pass kept them as formal/provenance surfaces.

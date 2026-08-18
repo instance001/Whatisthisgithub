@@ -16,5 +16,8 @@
   },
   "reflective_identity_geometry": {
     "description": "Reflective Identity Geometry (RIG): a v0.2 conceptual framework for studying identity-like stability as a possible property of recurring human-LLM interaction regimes, extending HRIS without claiming model consciousness, model-internal personality, or necessary human cognitive change."
+  },
+  "Cognition-Scale-Formal-Taxonomy": {
+    "description": "A four-tier taxonomy for comparing human and artificial cognition systems by architecture, constraints, and observable behaviour. Defines LCM, LLM, MCM, and SCM as proposed classes for avoiding category confusion and anthropomorphic marketing claims."
   }
 }
