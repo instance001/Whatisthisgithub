@@ -1447,3 +1447,51 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `thoughts`, `memory`, `Bookkeeper`, `diagnostic`, `telemetry`, `ECG`, `safe`, `cloud`, and `offline` language is bounded documentation, privacy wording, or retained UX terminology.
+
+### chatty-factory
+
+Status: ACTIVE WITH PRE-EXISTING DIRTY BUILD-DOCS WORKTREE
+
+Audit scope:
+
+- `README.md`
+- `USER_MANUAL.md`
+- `GLOSSARY.md`
+- `foreword-on-chatty-factory-agentic-coding.md`
+- current architecture and selected docs search
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| deterministic agentic coder | governed local build-and-patch factory | public description updated | Portal description now follows the current source README rather than older agentic-coder marketing language. |
+| Agentic coding / agentic coder | bounded LLM-authored method under host governance | historical/product-positioning phrase retained | Preserved in the foreword and glossary because it describes the product lane historically, but now explicitly excludes autonomous software engineering, self-learning coding, and correctness guarantees. |
+| learning student / it will learn | constraint library can accumulate failure guidance | ontology and autonomy narrowed | Reworded foreword so improvement comes from curated negative constraints and receipts, not a self-learning mind or student-like agent. |
+| LLM pilot | selected LLM under host/tool limits | metaphor removed in one source sentence | Replaced because the sentence needed concrete limits: selected model reasoning limits, dataset boundaries, and available tooling. |
+| magic box / patching by vibe | same ordinary figurative anti-claims | readable language retained | Preserved because these phrases warn users against overtrust and do not create ontology claims. |
+| negative-lane host / frozen intent / receipts / funnel / triangulation | same core architecture terms | source architecture retained | Portal glossary realigned with source so these terms remain central instead of stale positive-family wording. |
+
+Files changed:
+
+- `../chatty-factory/GLOSSARY.md`
+- `../chatty-factory/foreword-on-chatty-factory-agentic-coding.md`
+- `README.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `ChattyFactory`, `agentic coding`, `negative lane`, `frozen intent`, `receipts`, `diagnosis-aware patch surgery`, `adaptive task decomposition`, and `triangulation` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, existing build-docs, checkpoint archives, and the pre-existing uncommitted `build-docs` rebuild-plan changes were not edited.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `agentic`, `autonomous`, `learn`, `student`, `magic`, `truth`, `safe`, `diagnosis`, `proof`, and `authority` language is either bounded current architecture language, ordinary anti-overclaim prose, historical build-doc notes, or source code/license terminology.
+
+Worktree note:
+
+- Source repo still had pre-existing dirty files after this commit: `build-docs/README.md` and untracked `build-docs/plans/NEGATIVE_VOID_ENGINE_REBUILD_PLAN.md`. They were not staged or modified by this terminology slice.
