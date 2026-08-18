@@ -29,7 +29,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 19 | llm-defined-persistent-memory | ACTIVE | Current memory architecture docs; model-native and memory metaphors need boundary definitions rather than broad replacement. |
 | 20 | Symbound_Academia_Spine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; retained as project identity with explicit pipeline-metaphor boundary. |
 | 21 | semantic-signal-alphabet | ACTIVE | Foundational/current framework; model-native terminology retained with explicit generated-artifact boundary. |
-| 22 | MemorySpine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; active parser project. |
+| 22 | MemorySpine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; retained with explicit local archive/index boundary. |
 | 23 | historical-janet-school-exploratory-build | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Name and description mark historical prototype. |
 | 24 | Janet-MCM-Core | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Historical/current identity uses MCM. |
 | 25 | ecg_window | ACTIVE | Utility tool. |
@@ -1164,3 +1164,47 @@ Tests/checks run:
 - `python -m py_compile tools/generator/generate_bucket_map.py`
 - `git diff --check`
 - Targeted search confirmed remaining `brain`, `BCI`, `thought`, `mind`, `cognitive`, `model-native`, `objective truth`, `proof`, and `signal` language is either explicitly bounded, source-vocabulary data, citation text, or core framework language.
+
+### MemorySpine
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `User_Instructions.txt`
+- `memoryspine.py`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| MemorySpine / markdown spine | MemorySpine / local markdown archive and index | product identity retained | Preserved because it is the repo name and a friendly metaphor for per-conversation markdown files plus `index.md`; README and glossaries now state it is not hidden memory or interpretation. |
+| memory | memory / exported conversation archive | ordinary product term retained | Preserved because the tool handles user-provided ChatGPT export data and writes local files only under `--output`. |
+| CLI en dash | ASCII hyphen | user-facing help cleanup | Replaced one en dash in `memoryspine.py` help/docstring so Windows terminal output stays readable. |
+| Browse your spine | browse exported markdown archive | UX phrase retained | Preserved because it is clear user-facing language and does not mislead about capability. |
+| understand message structure | parse message structure | ordinary wording retained | Preserved because it describes parser compatibility, not cognitive understanding. |
+
+Files changed:
+
+- `../MemorySpine/README.md`
+- `../MemorySpine/GLOSSARY.md`
+- `../MemorySpine/memoryspine.py`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `MemorySpine`, `memoryspine`, and `spine` remain intact.
+
+Historical occurrences intentionally preserved: yes, script names, user instructions, and README product identity remain unchanged.
+
+Tests/checks run:
+
+- `python -m py_compile memoryspine.py`
+- `python memoryspine.py --help`
+- `git diff --check`
+- Targeted search confirmed remaining `spine`, `memory`, and `understand` language is bounded product/parser language, not hidden memory or cognition claims.

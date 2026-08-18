@@ -408,7 +408,7 @@ If you want the landing page, go back to `README.md`.
 ## MemorySpine
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
-| MemorySpine v0.1 | memoryspine | ~/~ | **Is:** Dependency-free script that converts ChatGPT `conversations.json` or export zip into per-conversation markdown files plus an `index.md`<br>**Not:** Not telemetry-enabled; not a summarizer/indexer; minimal foundation<br>**Relation:** Chat export to markdown tool | MemorySpine/README.md; MemorySpine/memoryspine.py |
+| MemorySpine v0.1 | memoryspine | ~/~ | **Is:** Dependency-free script that converts ChatGPT `conversations.json` or export zip into per-conversation markdown files plus an `index.md`; `spine` means a plain local archive/index metaphor<br>**Not:** Not telemetry-enabled; not a summarizer/indexer; not hidden memory; minimal foundation<br>**Relation:** Chat export to markdown tool | MemorySpine/README.md; MemorySpine/memoryspine.py |
 
 ## model-behaviour-toolkit
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
