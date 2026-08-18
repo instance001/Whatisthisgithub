@@ -922,3 +922,50 @@ Tests/checks run:
 
 - `python -m pytest` in `nanochat-master` (`156 passed, 11 skipped`)
 - Targeted search confirmed remaining `Truth-First` and figurative beginner-guide wording is bounded UX/preset language, not a truth guarantee or cognition claim.
+
+### janet-school
+
+Status: ACTIVE BUT MCM/IDENTITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/ALIGNMENT.md`
+- `docs/ANALYSIS_SCHEMA.md`
+- `docs/GUI_PLAN.md`
+- `docs/USER_MANUAL.md`
+- `docs/ABOUT.md`
+- `web/index.html`
+- `web/app.js`
+- `build-plan-fox-codex.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Janet School | Janet School | product/research identity retained | Preserved as the repo's name and research rig identity. |
+| Deterministic MCM student / Janet / MCM | Deterministic MCM student / Janet / MCM | framework terms retained | Preserved because the repo is explicitly about a deterministic MCM student under study; docs already distinguish Janet from the LLM teacher and from a general assistant persona. |
+| cognition / cognitive scaffolding | cognitive scaffolding experiments | bounded umbrella language retained | Preserved in the FMI publisher/tagline context and build-plan provenance; not a claim that this repo proves cognition or contains a mind. |
+| emergent structure candidate / boundary pressure / anomaly cluster | same provisional research language | research terms retained | Preserved because the analysis schema and alignment docs explicitly require candidate/provisional wording and human review. |
+| confirmed intelligence / known cognitive law | prohibited example language | bounded/prohibited | Preserved only as examples of language the build plan forbids; not active claims. |
+| proof / abstraction / intelligence | explicit non-claims | bounded | Source docs already say the analyzer does not prove abstraction or intelligence and that one success is never enough. |
+| teacher backend / local-llm teacher | teacher backend / local-llm teacher | architecture terms retained | Preserved because the docs clearly keep the teacher outside the MCM core and prohibit teacher answers from becoming Janet answers. |
+| memory-only / explicit memory | memory-only / explicit memory | technical terms retained | Preserved as explicit logged state and comparison controls, not hidden or anthropomorphic memory. |
+| assistant-like chat framing / personality language | avoid in GUI | bounded/prohibited | Preserved only in GUI guardrails as things to avoid; no source rewrite required. |
+
+Files changed:
+
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Janet`, `MCM`, `teacher backend`, `memory-only run`, `boundary signal`, and `emergent candidate` remain defining terms.
+
+Historical occurrences intentionally preserved: yes, build-plan doctrine and FMI tagline language were left intact because they are either bounded or explicitly prohibitive.
+
+Tests/checks run:
+
+- `cargo test`
+- Targeted search confirmed remaining strong cognition/proof/personality terms are explicit non-claims, avoid-list items, framework-defining MCM language, or bounded publisher tagline language.
