@@ -30,7 +30,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 20 | Symbound_Academia_Spine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; retained as project identity with explicit pipeline-metaphor boundary. |
 | 21 | semantic-signal-alphabet | ACTIVE | Foundational/current framework; model-native terminology retained with explicit generated-artifact boundary. |
 | 22 | MemorySpine | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Repo brand includes legacy-style "Spine"; retained with explicit local archive/index boundary. |
-| 23 | historical-janet-school-exploratory-build | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Name and description mark historical prototype. |
+| 23 | historical-janet-school-exploratory-build | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Historical prototype; preserve provenance while bounding organ/MCM/curriculum language. |
 | 24 | Janet-MCM-Core | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Historical/current identity uses MCM. |
 | 25 | ecg_window | ACTIVE | Utility tool. |
 | 26 | chattydoom | ACTIVE | Experimental/game lane. |
@@ -1208,3 +1208,56 @@ Tests/checks run:
 - `python memoryspine.py --help`
 - `git diff --check`
 - Targeted search confirmed remaining `spine`, `memory`, and `understand` language is bounded product/parser language, not hidden memory or cognition claims.
+
+### historical-janet-school-exploratory-build
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `User_Instructions.txt` equivalent operational notes in `python_commands.txt`
+- `janet.py`
+- `audit_inner_monologue.py`
+- `telemetry_engine.py`
+- `teacher_miss_gpt.py`
+- `remediate.py`
+- `organs/`
+- `reports/`
+- `telemetry_log.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Historical Janet School / Janet / MCM-v0.1 | same historical project identity | historical framework identity retained | Preserved because the README explicitly frames the repo as a historical archive of an early exploratory build, not an active product or validated assessment system. |
+| Janet organs | prompt-specialized module templates | bounded metaphor retained | `organs` remains as source/project vocabulary, but glossary relation changed from `cognitive modules` to `module templates` and now states this is not proof of model cognition. |
+| CLI en dash | ASCII hyphen | user-facing help cleanup | Replaced one en dash in `telemetry_cli.py` help text so Windows terminal output stays readable. |
+| teacher / student / school day | curriculum playback harness terms | experimental frame retained | Preserved because README states the special-education-style curriculum was a structural device for artificial model behaviour only and not a claim about real students, disability, or educational practice. |
+| inner monologue / thinking / cognitive development | historical prompt/report language | historical generated/provenance language retained | Preserved in prompt templates and run reports as part of the original exploratory apparatus; not generalized into active claims. |
+| Janet telemetry / organ health / remedial plan | heuristic telemetry / threshold-based follow-up plan | bounded technical terms retained | Preserved because glossary already marks telemetry as heuristic, not hidden introspection, and remedial plans as not clinical interventions or proof of broad competence. |
+| understand / learning / reasoning | model-output evaluation language | bounded exploratory language retained | Preserved where the README frames these as observed output patterns or questions for review, not validated cognition claims. |
+
+Files changed:
+
+- `../historical-janet-school-exploratory-build/GLOSSARY.md`
+- `../historical-janet-school-exploratory-build/telemetry_cli.py`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Janet`, `MCM-v0.1`, `organs`, `teacher`, `student`, `school day`, and `telemetry` remain intact.
+
+Historical occurrences intentionally preserved: yes, generated reports, prompt organs, telemetry logs, and historical run artifacts were left unchanged.
+
+Tests/checks run:
+
+- `python -m py_compile janet.py audit_inner_monologue.py backend_chatty20b.py backend_miss_gpt.py janet_paths.py remediate.py run_school_day.py teacher_miss_gpt.py telemetry_cli.py telemetry_engine.py`
+- `python telemetry_cli.py --help`
+- `python remediate.py --help`
+- `git diff --check`
+- Targeted search confirmed remaining `mind`, `cognitive`, `inner monologue`, `thinking`, `teacher`, `student`, `MCM`, `memory`, and `understand` terms are either historical apparatus language, README-bounded exploratory language, generated/provenance reports, or ordinary parser/telemetry wording.
