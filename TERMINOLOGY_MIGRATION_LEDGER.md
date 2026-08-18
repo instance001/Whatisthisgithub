@@ -724,3 +724,51 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - Live GitHub repository description should eventually be updated so the `cognitive_theology` override can be removed.
+
+### llm-semantic-dataset-sorter
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `why-this-matters.md`
+- `docs/00-product-plan.md`
+- `docs/05-user-manual.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| semantic sorting / semantic triangulation | semantic sorting / semantic triangulation | product/framework terms retained | Preserved because they describe the tool's observable workflow: repeated sorting pressure, bucket budgets, junk behavior, and comparison across runs. |
+| pure intrinsic ontology / own intrinsic logic | model-prior ontology / model-prior decision structure | bounded | Replaced because the old phrasing over-suggested access to model interiority; new wording keeps the experimental-control meaning. |
+| human and machine negotiated a shared understanding | human review and model output brought into an explicit shared frame | bounded | Avoids implying machine understanding while preserving the two-way review workflow. |
+| internal proximity logic / how they think | assignment rationale / rationale divergence | bounded | Keeps the useful comparison of explanations without claiming direct access to internal reasoning. |
+| cognitive fingerprinting | semantic fingerprinting | canonicalized | Renamed because the feature profiles output-level semantic behavior, not internal model cognition. |
+| worldviews / philosophical biases of the architecture itself | semantic priors / observable biases in model outputs | bounded | Preserves the interpretability idea while grounding claims in observed outputs under controlled prompts. |
+| understanding how machines understand | inspecting how machines represent and explain semantic structure | bounded | Keeps the bridge metaphor and review goal without claiming machine understanding as a mental state. |
+| truth for the run / bucket reality | reference frame / bucket frame | bounded | Keeps the locked-plan concept while avoiding truth/reality overclaim. |
+
+Files changed:
+
+- `../llm-semantic-dataset-sorter/README.md`
+- `../llm-semantic-dataset-sorter/GLOSSARY.md`
+- `../llm-semantic-dataset-sorter/why-this-matters.md`
+- `../llm-semantic-dataset-sorter/docs/00-product-plan.md`
+- `../llm-semantic-dataset-sorter/docs/05-user-manual.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `semantic sorting`, `semantic triangulation`, `junk bucket`, `bucket genesis`, and `blind_label` remain the tool's ordinary product vocabulary.
+
+Historical occurrences intentionally preserved: yes, the product name and friendly UX language remain unchanged; this pass only bounded overclaims about model interiority, cognition, and truth.
+
+Tests/checks run:
+
+- `cargo test`
+- Targeted search confirmed remaining `objective truth`, `really thinks`, and `internal cognition` language appears in explicit non-claim contexts.
