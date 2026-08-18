@@ -1,4 +1,13 @@
 {
+  "cognition-mesh-test-chamber": {
+    "description": "Contained LLM suitability and behavioural profiling harness for model-host-task meshes, with mock-safe evaluation, negative lane generation, assistant-role benchmarking, and a local dashboard."
+  },
+  "ef-engine": {
+    "description": "A barebones, inspectable Rust specimen of Entropy Folding: vault failures, triangulate recurring blockers, promote reusable constraints, and reduce future search chaos."
+  },
+  "chatty-cog": {
+    "description": "Chatty-Cog is the everyday local-first desktop assistant shell for Chatty tools: local GGUF and optional BYO cloud models, sandboxed file work, modules, Bookkeeper context support, audit history, rolling summaries, active context, and trusted peer-to-peer handoff lanes."
+  },
   "chatty-edu": {
     "description": "Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking."
   },

@@ -28,6 +28,23 @@ For current tool repos, use this stance:
 
 That means local/offline paths should be real, usable, and inspectable. It does not mean rejecting hosted tools or cloud providers when a user deliberately chooses them.
 
+## Glossary Status Rule
+
+Glossary entries should help readers translate between historical FMI wording and current technical language.
+
+When updating terminology, make the status clear:
+
+- foundational terms remain current and should be defined strongly
+- ordinary mechanisms should use ordinary technical terms
+- product labels may remain when they help users, but should map to the technical equivalent
+- legacy names should be marked as provenance, compatibility, or source wording rather than presented as equally current
+
+Do not delete historical names needed to understand older repositories. Do stop using those names as the preferred term for current architecture when a smaller technical term is clearer.
+
+Modernization must not accidentally narrow ontology. Do not replace cognition-neutral or cognition-broad wording merely because it could be read anthropomorphically; first check whether the local source intends human-only endpoints, artificial endpoints, hybrid systems, or a broader substrate-agnostic category.
+
+`Hybrid cognition` is not globally deprecated. It remains valid for modern Symbound work where the intended meaning is a broader human-AI hybrid cognitive engine or mixed human/AI cognition system. Repo-local replacements, such as `audited human-LLM collaboration` in `collapse-of-the-semantic-middle`, should be used only when the source is explicitly bounded to observable human-LLM communication evidence rather than broader cognition claims.
+
 ## Update Order
 
 When refreshing public-facing metadata:
