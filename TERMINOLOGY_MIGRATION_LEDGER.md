@@ -66,6 +66,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 56 | chatty-lab | WORKSPACE REFERENCE (NON-GIT) | Flutter educational management game; playful game/satire terminology preserved with game-state boundaries. |
 | 57 | chatty-mini-build-folder | WORKSPACE REFERENCE (NON-GIT) | Flutter/Android Chatty-mini build workspace; brain-file wording, model/memory/cloud-lane terms bounded. |
 | 58 | chatty-pet-mobile | WORKSPACE REFERENCE (UNBORN GIT ROOT) | Flutter mobile pet terrarium; truth/spine/child-safe/future-AI narration terms bounded without flattening store-facing language. |
+| 59 | Chattyv1.1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Local Ollama/PyInstaller desktop release; capsule authority, memory, and offline wording bounded. |
 
 ## Repository Records
 
@@ -2149,6 +2150,59 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### Chattyv1.1
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `Chattyv1.1.zip`
+- packaged `Chattyv1.1/Capsules/Symbound.txt`
+- packaged `Chattyv1.1/dist/Capsules/Symbound.txt`
+- packaged `Chattyv1.1/Memory.json`
+- packaged `Chattyv1.1/dist/memory.json`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| fully offline AI assistant | local Ollama-backed assistant | capability/dependency bounded | Reworded because the release uses a local Ollama HTTP endpoint and does not ship model weights. It is local and remote-SaaS-free, but still depends on Ollama and the configured local model. |
+| capsule authority overrides training defaults / critical system override | prompt capsule with runtime boundary | authority overclaim removed | Replaced override language with a boundary that the capsule guides tone and operating constraints but does not override actual runtime, model, privacy, or safety limits. |
+| do not act like an assistant / partner in structure | assistant with partner-like tone | UX boundary clarified | Preserved the warm partner-style language while avoiding confusion about assistant role, agency, or capability. |
+| memory / log persistence | local `memory.json` conversation log | memory term retained and bounded | Preserved `memory` as the shipped filename and UX term, but defined it as prompt-context conversation-log persistence, not hidden model memory, vector retrieval, cloud sync, or model self-learning. |
+| can read and write logs | can append local conversation log | capability bounded | Packaged seed memory now clarifies local `memory.json` persistence and does not imply broad filesystem access. |
+| locally compiled `.exe` | PyInstaller `.exe` release package | technical fact retained and softened | Preserved the release packaging description while removing hard contradiction/override framing and adding the Ollama/local-model dependency boundary. |
+
+Files changed:
+
+- `../Chattyv1.1/README.md`
+- `../Chattyv1.1/GLOSSARY.md`
+- `../Chattyv1.1/Chattyv1.1.zip`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Chatty`, `Symbound.txt`, `capsule`, `memory.json`, `config.json`, local `.exe`, Ollama endpoint, and partner-style tone remain intact with technical boundaries.
+
+Historical/generated occurrences intentionally preserved: yes, binary `dist/chatty.exe`, PyInstaller build internals, and empty packaged `dist/memory.json` were not rewritten. The ZIP was rebuilt only to update packaged text/capsule/seed-memory entries.
+
+Tests/checks run:
+
+- ZIP listing confirmed expected packaged paths remained present.
+- Extracted packaged capsule confirmed override phrases were removed and runtime/memory boundaries were present.
+- Extracted packaged `Memory.json` parsed as JSON after seed-memory edits.
+- Targeted search confirmed `CRITICAL SYSTEM OVERRIDE`, `Capsule authority`, `Do not act like an assistant`, `Do not say otherwise`, broad `fully offline`, and broad `read and write logs` language no longer remains in authored source docs or the patched capsule.
+- `git diff --check`
+
+Worktree note:
+
+- Source repo commit: `86401fd` (`Bound Chatty v1.1 capsule and memory terminology`).
 
 ### cognitive_reactor_stress_tests
 
