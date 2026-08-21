@@ -77,6 +77,13 @@ If you want the landing page, go back to `README.md`.
 | Janet Watcher | janet_watch.ps1 | =/~ | **Is:** Log monitor that halts runs on NaNs, loss explosions, unusual gradients during training<br>**Not:** Not part of model architecture; not an evaluator of task performance<br>**Relation:** Analogous to a watchdog/health monitor | AiBiogenesis_and_AiGenesisMapping/README.md |
 | Graduation tests | graduation.yaml, graduation_test.jsonl | =/~ | **Is:** Evaluation artifacts listed in manifest to determine stage promotion and release readiness<br>**Not:** Not training data; not optional when declaring a release<br>**Relation:** Comparable to gated promotion tests in curricula | AiBiogenesis_and_AiGenesisMapping/release_manifest.txt |
 
+## api-key-lanes
+| Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
+| --- | --- | --- | --- | --- |
+| API-key lane | local/cloud lane, cloud lane, helper lane | ~/~ | **Is:** UX and implementation-planning route for optional provider-backed model calls inside local-first tools<br>**Not:** Not a claim of hybrid cognition, autonomous agency, hidden model learning, or cloud dependence<br>**Relation:** Comparable to provider-backed model routing / bring-your-own-key integration | api-key-lanes/README.md; api-key-lanes/TOOL_TEMPLATE.md |
+| Host-owned persistence | host-managed prefs, host-owned settings | ~/~ | **Is:** Application-owned settings surface and persistence path for provider entries, API keys, model names, verification state, and lane mappings<br>**Not:** Not automatically encrypted or secure; encryption, OS keychain storage, masking, or plain-text storage must be documented explicitly<br>**Relation:** Application configuration management | api-key-lanes/README.md; api-key-lanes/TOOL_TEMPLATE.md |
+| User sovereignty over model choice | local first, cloud optional, no silent provider lock-in | ~/~ | **Is:** Product principle requiring explicit model/provider choice, offline-first behavior, editable provider entries, and clear failure messaging<br>**Not:** Not a perfect privacy guarantee, legal ownership guarantee, or safety guarantee beyond concrete documented behavior<br>**Relation:** User-controlled provider selection | api-key-lanes/README.md |
+
 ## chatty-art
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |

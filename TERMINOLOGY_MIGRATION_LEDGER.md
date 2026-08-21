@@ -59,6 +59,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 49 | cognitive_reactor_stress_tests | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | CRP and latent-geometry language requires careful hypothesis labels. |
 | 50 | Chattymobile_v1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Seed release with Symbound/capsule vocabulary. |
 | 51 | AiBiogenesis_and_AiGenesisMapping | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Older Symbound Embryo POC framing. |
+| 52 | api-key-lanes | WORKSPACE REFERENCE (NON-GIT) | Shared API-key lane planning bundle; not an independent git repository. |
 
 ## Repository Records
 
@@ -1734,6 +1735,54 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### api-key-lanes
+
+Status: WORKSPACE REFERENCE (NON-GIT)
+
+Audit scope:
+
+- `README.md`
+- `TOOL_TEMPLATE.md`
+- `chatty-cog.md`
+- `chatty-lora.md`
+- `chatty-art.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| API-key lane / local-cloud lane / hybrid local-cloud | API-key lane / local-cloud lane / hybrid local-cloud | UX and implementation terms retained | Preserved as friendly planning language for provider-backed routing inside local-first tools. Source now states these terms do not claim hybrid cognition, autonomous agency, hidden model learning, or cloud dependence. |
+| host-owned / host-managed prefs | host-owned persistence with explicit storage guarantees | technical boundary added | Kept because it names the application-owned settings surface, but docs now require encryption, OS keychain storage, masking, or plain-text storage to be named explicitly when relevant. |
+| user sovereignty | user sovereignty over model choice | product principle retained and bounded | Preserved as established user-facing/product language for explicit model choice, offline-first behavior, and no silent provider lock-in. Bounded against perfect privacy, legal ownership, or safety guarantees. |
+| agent/orchestrator | agent/orchestrator workflow-routing lane | ontology boundary added | Retained in the ChattyCog/template lane list but explicitly defined as workflow routing, not autonomous agency, personhood, consciousness, or hidden self-direction. |
+| Safety / Sovereignty Notes | Safety / Sovereignty Notes | ordinary section label retained | Kept because the section lists concrete offline/cloud/failure/provider-choice requirements. Added data-leaving-machine prompts so safety/privacy language is grounded in observable behavior. |
+
+Files changed:
+
+- `../api-key-lanes/README.md`
+- `../api-key-lanes/TOOL_TEMPLATE.md`
+- `../api-key-lanes/chatty-cog.md`
+- `../api-key-lanes/chatty-lora.md`
+- `../api-key-lanes/chatty-art.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `API-key lane`, `local/cloud lane`, `hybrid local/cloud`, `host-owned`, `host-managed`, `user sovereignty`, `agent/orchestrator`, and `Safety / Sovereignty Notes` remain available with tighter definitions.
+
+Historical occurrences intentionally preserved: not applicable; this folder is a current planning reference, not a historical archive.
+
+Tests/checks run:
+
+- Targeted search confirmed `agent/orchestrator`, key-storage wording, cloud data-boundary wording, and UX terminology boundary additions.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- No source commit was possible because `api-key-lanes` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
