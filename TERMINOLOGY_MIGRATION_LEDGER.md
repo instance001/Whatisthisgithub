@@ -1848,3 +1848,53 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### australian-ai-fair-go
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `FAIR_GO_CHARTER.md`
+- `ONE_PAGE_BRIEF.md`
+- `POLICY/README.md`
+- `CASE_STUDIES/README.md`
+- `EVIDENCE/claims-to-evidence.md`
+- `EVIDENCE/repository-index.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Australian AI Fair-Go / Fair-Go | Australian AI Fair-Go | policy identity retained | Preserved as plainspoken Australian policy framing. It names a proportionate policy/evidence lane, not a technical claim. |
+| sovereignty / broad national capability sovereignty | broad national capability sovereignty | policy term retained and bounded | Preserved because the repo defines hosting, institutional, and broad national capability sovereignty. Evidence docs already state national-scale outcomes and adoption are not proven. |
+| hybrid AI options / local-cloud hybrid choice | local/cloud architecture choice | architecture term retained and bounded | Preserved because `hybrid` refers to deliberate local/cloud escalation and architecture choice in this policy repo, not `hybrid cognition`. |
+| cognitive prosthetic | user-side assistive workflow framing | evidence term retained and bounded | Preserved for cited Chatty-Cog evidence; source now states it is not model cognition, consciousness, sentience, or personhood. |
+| cognitive fingerprint | behavioural suitability artifact | evidence term retained and bounded | Preserved for cited Cognition Mesh Test Chamber evidence; source now states it is not evidence of internal model cognition or a claim that models have minds. |
+| The person remains the primary agent | human authority | policy rights/control language retained | Preserved because the term concerns human legal/practical authority over AI-supported workflows, not AI-agent ontology. |
+| Bookkeeper / memory | support role / local state surfaces | UX/evidence labels retained | Preserved because they refer to cited product surfaces already bounded in their source repo audits. |
+
+Files changed:
+
+- `../australian-ai-fair-go/README.md`
+- `../australian-ai-fair-go/EVIDENCE/repository-index.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Australian AI Fair-Go`, `Fair-Go`, `sovereignty`, `hybrid`, `human authority`, `cognitive prosthetic`, `cognitive fingerprint`, `Bookkeeper`, and `memory` remain where used.
+
+Historical/generated occurrences intentionally preserved: yes, official-context links and evidence receipt URLs remain unchanged; they were not re-verified in this terminology slice.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `hybrid`, `cognitive prosthetic`, `cognitive fingerprint`, `sovereignty`, `primary agent`, `policy proposal`, `Bookkeeper`, and `memory` language is bounded policy/evidence terminology, UX/source evidence language, or explicit overclaim guardrail text.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.

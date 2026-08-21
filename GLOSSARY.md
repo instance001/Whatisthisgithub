@@ -573,6 +573,14 @@ If you want the landing page, go back to `README.md`.
 | Multi-step sequencing trust | yes please, in that order | ~/~ | **Is:** Default assumption that if the AI offers ordered next steps, that order is meaningful unless local knowledge justifies overriding it<br>**Not:** Not blind obedience; not required when options are independent or uncertain<br>**Relation:** Ordered-step default | ai-teaming-framework/README.md |
 | Specific gratitude | concrete feedback | ~/~ | **Is:** Concrete feedback like "that helped because X" used to reinforce useful output patterns in follow-up responses<br>**Not:** Not generic politeness; not emotional manipulation<br>**Relation:** Follow-up pattern marking | ai-teaming-framework/README.md |
 
+## australian-ai-fair-go
+| Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
+| --- | --- | --- | --- | --- |
+| Australian AI Fair-Go | AI Fair-Go | =/~ | **Is:** Practical policy and evidence repo arguing for fit-for-purpose AI, model choice, local/cloud architecture choice, proportionate governance, and grassroots Australian AI capability<br>**Not:** Not anti-regulation; not anti-business; not a demand for unbounded autonomous agents; not a claim that local or open systems carry no risk<br>**Relation:** Australian AI policy/evidence lane | australian-ai-fair-go/README.md; australian-ai-fair-go/FAIR_GO_CHARTER.md |
+| Broad national capability sovereignty | grassroots AI capability sovereignty | ~/~ | **Is:** Policy concept that national AI capacity includes independent builders, regional communities, disabled users, teachers, students, open-source maintainers, sole traders and small businesses<br>**Not:** Not a claim of national adoption; not rejection of hosting or institutional sovereignty<br>**Relation:** Third sovereignty layer | australian-ai-fair-go/README.md; australian-ai-fair-go/ONE_PAGE_BRIEF.md |
+| Local/cloud hybrid choice | hybrid AI options | ~/~ | **Is:** Deliberate architecture choice between local, cloud, commercial, open and hybrid systems according to task, population, capability and risk<br>**Not:** Not a `hybrid cognition` claim; not automatic escalation to frontier cloud models<br>**Relation:** Fit-for-purpose architecture principle | australian-ai-fair-go/README.md; australian-ai-fair-go/EVIDENCE/claims-to-evidence.md |
+| Cognitive prosthetic / cognitive fingerprint evidence | assistive workflow / behavioural suitability artifact | ~/~ | **Is:** Evidence-index terms for user-side assistive workflow framing and model-host-task suitability artifacts in cited FMI repos<br>**Not:** Not model consciousness, sentience, personhood, internal cognition, or shared human cognition<br>**Relation:** Bounded evidence terminology | australian-ai-fair-go/README.md; australian-ai-fair-go/EVIDENCE/repository-index.md |
+
 ## chatty-cog
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
