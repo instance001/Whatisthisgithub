@@ -62,6 +62,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 52 | api-key-lanes | WORKSPACE REFERENCE (NON-GIT) | Shared API-key lane planning bundle; not an independent git repository. |
 | 53 | Chatty_Ai_V1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Early zipped local Ollama assistant; memory/capsule behavior needed exact boundary. |
 | 54 | chatty-factory-rebuild | WORKSPACE REFERENCE (NON-GIT) | Rust governed factory-loop crate; learning/authority/factory terms need explicit technical boundaries. |
+| 55 | chatty-host | WORKSPACE REFERENCE (NON-GIT) | Local-first show-running host; co-host/Bookkeeper/Remember/memory UX terms preserved with technical boundaries. |
 
 ## Repository Records
 
@@ -1879,6 +1880,59 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - No source commit was possible because `chatty-factory-rebuild` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
+
+### chatty-host
+
+Status: WORKSPACE REFERENCE (NON-GIT)
+
+Audit scope:
+
+- `README.md`
+- `CHATTY_HOST_PLAN.md`
+- `docs/ARCHITECTURE.md`
+- `docs/OPERATOR_CONSOLE_SPEC.md`
+- `docs/USER_MANUAL.md`
+- `src/`
+- `tests/`
+- bundled `runtime/` and `models/` excluded from terminology edits
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| AI co-host / genuine co-host / co-host | AI co-host / Main AI response-drafting lane | UX label retained and bounded | Preserved because it is the product's operator-facing metaphor and does not inherently mislead when documented. Source docs now state it is not a sentient participant, autonomous operator, person, or canonical truth source. |
+| Bookkeeper | Bookkeeper memory worker/search path | UX/product role retained | Preserved under the UX/technical-language boundary. Defined as a non-speaking memory worker, not the public co-host, person, or independent agent. |
+| Remember | deterministic retrieval / evidence-backed recall control | friendly UX label retained | Preserved because it is an established, understandable operator control. Bounded as deterministic search returning evidence-bearing hits and receipts, not unsupported recollection or hidden model memory. |
+| memory / relationship memory / cold log | cold-log records, retrieved packets, review-only memory proposals | technical boundary added | Preserved where it names local retrieval records and relationship-continuity UX. Clarified that proposals are not appended automatically and memory is not hidden model memory. |
+| capsule / character capsule | prompt/persona text | UX label retained and documented | Preserved because it is friendly and established. Defined as saved prompt/persona text, not code, fine-tuning, policy enforcement, or canonical show state. |
+| AI-native show-running host | local-first AI-assisted show-running host | product positioning retained and bounded | Left intact in source prose; glossary defines concrete behavior as local deterministic show state, operator review, model lanes, and exports rather than autonomous production authority. |
+
+Files changed:
+
+- `../chatty-host/README.md`
+- `../chatty-host/CHATTY_HOST_PLAN.md`
+- `../chatty-host/docs/ARCHITECTURE.md`
+- `../chatty-host/docs/OPERATOR_CONSOLE_SPEC.md`
+- `../chatty-host/docs/USER_MANUAL.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `AI co-host`, `genuine co-host`, `co-host`, `Main AI`, `Bookkeeper`, `Remember`, `memory`, `relationship memory`, `cold log`, `capsule`, and `character capsule` remain intact with precise definitions.
+
+Historical/generated occurrences intentionally preserved: yes, bundled `runtime/`, `models/`, generated build output, and test/example text were not rewritten. The source remains a local-first show product with personality.
+
+Tests/checks run:
+
+- `cargo test` in `chatty-host` passed: library/bin test harnesses, character capsules, cockpit settings, exports, generic core, memory/Remember, model runtime, operator runtime, post-show, show state, and doc-tests.
+- Targeted search excluding `target/`, `runtime/`, and `models/` confirmed the added terminology boundaries and remaining co-host/Bookkeeper/Remember/memory language is product UX, architecture terminology, test text, or explicitly bounded.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- No source commit was possible because `chatty-host` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
