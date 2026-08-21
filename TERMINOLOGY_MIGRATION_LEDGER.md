@@ -2050,3 +2050,56 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and remained clean; no source commit was needed.
+
+### entropy-folding-cross-domain-signal-atlas
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `docs/00_how_to_read_this_atlas.md`
+- `docs/01_signal_criteria_and_rankings.md`
+- `docs/02_mechanism_traces.md`
+- `docs/03_supporting_correspondences.md`
+- `docs/04_tool_derived_candidate_signals.md`
+- `docs/05_background_and_provenance.md`
+- `docs/06_exclusions_and_tenuous_links.md`
+- `docs/08_uncertainties_and_cautions.md`
+- `docs/99_tooling_appendix.md`
+- `atlas/mechanism-trace/chattycog-memory-host-exoskeleton.md`
+- `GLOSSARY.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| signals / correspondences / mechanism traces | candidate signals / supporting correspondences / candidate mechanism traces | evidence-ranking language retained and bounded | Preserved because the atlas already treats entries as provisional evidence-map objects, not proof or independent external validation by default. |
+| cognitive prosthetic / exoskeleton / host-body / tri-helix memory | same architecture metaphors | user-side augmentation language retained and bounded | Preserved in the ChattyCog trace because it names assistive workflow structure, host surfaces, memory tiers, and context-routing layers. Source and glossary now state it is not model consciousness, personhood, biological cognition, literal embodiment, or independent external proof. |
+| proof / evidence / hard-evidence claims | proof excluded; evidence ranked by source type | evidence-strength boundary retained | Preserved because source already separates direct textual source material, tool-derived candidate signals, background/provenance, and exclusions. |
+| cognitive topology / Cognitive Crowbar / ApeTest | tooling and candidate-signal language | tooling language retained and bounded | Preserved because tooling docs already state these are not proof of the hypothesis and not cognition or sentience validators. |
+| hybrid / human-AI workflow traces | cross-substrate or workflow signal framing | broad Symbound framing retained and bounded | Preserved where the atlas records human, AI, and hybrid workflow traces as provisional signals or open questions, not established equivalence. |
+
+Files changed:
+
+- `../entropy-folding-cross-domain-signal-atlas/atlas/mechanism-trace/chattycog-memory-host-exoskeleton.md`
+- `../entropy-folding-cross-domain-signal-atlas/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Entropy Folding Cross-Domain Signal Atlas`, `mechanism trace`, `supporting correspondence`, `tool-derived candidate signal`, `cognitive prosthetic`, `exoskeleton`, `host-body`, `tri-helix memory`, `Cognitive Crowbar`, and `ApeTest` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, source-map/provenance entries and existing atlas cards remain in place; no evidence tier was promoted during this terminology slice.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `signal`, `evidence`, `proof`, `cognitive`, `prosthetic`, `exoskeleton`, `memory`, `hybrid`, and `sentience/personhood` language is bounded evidence-ranking, tooling, architecture-metaphor, non-claim, or provenance language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
