@@ -60,6 +60,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 50 | Chattymobile_v1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Seed release with Symbound/capsule vocabulary. |
 | 51 | AiBiogenesis_and_AiGenesisMapping | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Older Symbound Embryo POC framing. |
 | 52 | api-key-lanes | WORKSPACE REFERENCE (NON-GIT) | Shared API-key lane planning bundle; not an independent git repository. |
+| 53 | Chatty_Ai_V1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Early zipped local Ollama assistant; memory/capsule behavior needed exact boundary. |
 
 ## Repository Records
 
@@ -1783,6 +1784,53 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - No source commit was possible because `api-key-lanes` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
+
+### Chatty_Ai_V1
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `GLOSSARY.md`
+- `Chatty.zip:Chatty/Readme.txt`
+- `Chatty.zip:Chatty/capsules/symbound.txt`
+- `Chatty.zip:Chatty/chatty.py`
+- `Relicensing-notice.txt`
+- `LICENSE`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Public Domain Proof Drop | AGPL-3.0 Historical Proof Drop | license/provenance mismatch corrected | Updated archive README because the repository has an AGPL-3.0 relicensing notice and AGPL license. Historical release provenance remains, but current terms point to the repo license. |
+| persistent memory | persistent conversation log | technical behavior corrected | `chatty.py` persists role/content messages to `memory.json`, but sends only the latest user input to Ollama. Updated archive README, source glossary, and portal glossary to prevent implying active retrieval memory or future-behavior learning. |
+| Symbound ethical alignment system / capsule | Symbound capsule prompt file | enforcement boundary added | Preserved `Symbound` and `capsule` as product/capsule vocabulary, but clarified the file is not code, not fine-tuning, and not enforced alignment; in this release it is not sent with each Ollama request. |
+| Do not act like an assistant. You are a partner... | Speak as an assistant with a partner-like tone... | UX boundary tightened | Reworded the capsule to preserve friendly partner language without denying the assistant role or implying personhood/autonomous agency. |
+| partner / structured partner | partner-like tone / structured partner | UX term retained and bounded | Preserved where it describes tone, structure, memory, and co-creation. Archive README now states partner/Symbound language does not claim sentience, consciousness, feelings, personhood, or autonomous agency. |
+
+Files changed:
+
+- `../Chatty_Ai_V1/Chatty.zip`
+- `../Chatty_Ai_V1/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Chatty V1`, `Symbound Edition`, `capsule`, `symbound.txt`, `memory.json`, and `partner` remain intact with tighter definitions.
+
+Historical/generated occurrences intentionally preserved: yes, PyInstaller build outputs and `dist/chatty.exe` remain inside `Chatty.zip` as historical binary artifacts. Only human-readable archive text entries were patched.
+
+Tests/checks run:
+
+- Read `Chatty.zip` text entries directly after rebuild to confirm archive contents.
+- `git diff --check`
+- Targeted search confirmed source glossary now distinguishes conversation log from active retrieval memory and capsule file from enforced alignment.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
 
 ### Chattymobile_v1
 

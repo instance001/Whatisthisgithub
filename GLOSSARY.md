@@ -84,6 +84,14 @@ If you want the landing page, go back to `README.md`.
 | Host-owned persistence | host-managed prefs, host-owned settings | ~/~ | **Is:** Application-owned settings surface and persistence path for provider entries, API keys, model names, verification state, and lane mappings<br>**Not:** Not automatically encrypted or secure; encryption, OS keychain storage, masking, or plain-text storage must be documented explicitly<br>**Relation:** Application configuration management | api-key-lanes/README.md; api-key-lanes/TOOL_TEMPLATE.md |
 | User sovereignty over model choice | local first, cloud optional, no silent provider lock-in | ~/~ | **Is:** Product principle requiring explicit model/provider choice, offline-first behavior, editable provider entries, and clear failure messaging<br>**Not:** Not a perfect privacy guarantee, legal ownership guarantee, or safety guarantee beyond concrete documented behavior<br>**Relation:** User-controlled provider selection | api-key-lanes/README.md |
 
+## Chatty_Ai_V1
+| Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
+| --- | --- | --- | --- | --- |
+| Chatty V1 (Symbound Edition) | Chatty v1 | =/~ | **Is:** Early local Ollama-based desktop assistant using a configurable model and Symbound capsule file; writes role-based chat history to `memory.json`<br>**Not:** Not network-hosted; no autonomous data collection; current script does not replay saved memory into each Ollama prompt<br>**Relation:** Early local assistant prototype | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py; Chatty_Ai_V1/Chatty.zip:Chatty/Readme.txt |
+| Capsule (Chatty V1) | symbound.txt | =/~ | **Is:** System prompt capsule read from `capsules/` and inserted into `memory.json` if no memory file content exists<br>**Not:** Not code; not fine-tuning; not enforced alignment; not sent with each Ollama request by this release's `chatty.py`<br>**Relation:** Prompt/capsule configuration file | Chatty_Ai_V1/Chatty.zip:Chatty/capsules/symbound.txt; Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
+| Memory store (Chatty V1) | memory.json | =/~ | **Is:** JSON list of role/content messages persisted between runs<br>**Not:** Not vector memory; not encrypted; not active retrieval memory in this release; not evidence that the host changes future behavior from accumulated failures<br>**Relation:** Persistent conversation log | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
+| Config (Chatty V1) | config.json | =/~ | **Is:** Runtime config holding model name and capsule filename; auto-created with defaults (`model=mistral`)<br>**Not:** Not a credentials store; no remote endpoints besides local Ollama<br>**Relation:** Runtime configuration file | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
+
 ## chatty-art
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
@@ -223,14 +231,6 @@ If you want the landing page, go back to `README.md`.
 | Memory log (Chatty v1.1) | memory.json | =/~ | **Is:** JSON list capturing conversation turns and boot log; trimmed to last ~2 exchanges when building prompt<br>**Not:** Not vector/embedding memory; not encrypted<br>**Relation:** Session persistence | Chattyv1.1/Chattyv1.1.zip:Chattyv1.1/Chatty.py |
 | Local generation endpoint | http://localhost:11434/api/generate | =/= | **Is:** HTTP endpoint used for text generation with selected model<br>**Not:** Not remote SaaS; requires local Ollama<br>**Relation:** Ollama API | Chattyv1.1/Chattyv1.1.zip:Chattyv1.1/Chatty.py |
 | Config (Chatty v1.1) | config.json | =/~ | **Is:** Contains `model` and capsule path; auto-created if missing with defaults<br>**Not:** Not a credentials store; no API keys required<br>**Relation:** Runtime config | Chattyv1.1/Chattyv1.1.zip:Chattyv1.1/Chatty.py |
-
-## Chatty_Ai_V1
-| Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
-| --- | --- | --- | --- | --- |
-| Chatty V1 (Symbound Edition) | Chatty v1 | =/~ | **Is:** Local Ollama-based assistant using configurable model and Symbound capsule; stores role-based chat history in `memory.json` and injects capsule when memory empty<br>**Not:** Not network-hosted; no autonomous data collection<br>**Relation:** Early desktop assistant | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
-| Capsule (Chatty V1) | symbound.txt | =/~ | **Is:** Prompt file read from `capsules/` and inserted into memory if none exists<br>**Not:** Not code; not enforced beyond prompt conditioning<br>**Relation:** System prompt capsule | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
-| Memory store (Chatty V1) | memory.json | =/~ | **Is:** JSON list of role/content messages persisted between runs<br>**Not:** Not vector store; not encrypted<br>**Relation:** Conversation log | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
-| Config (Chatty V1) | config.json | =/~ | **Is:** Holds model name and capsule filename; auto-created with defaults (model=mistral)<br>**Not:** Not a credentials store; no remote endpoints besides local Ollama<br>**Relation:** Runtime config | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
 
 ## Cognition-Scale-Formal-Taxonomy
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
