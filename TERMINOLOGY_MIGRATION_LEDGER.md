@@ -1685,6 +1685,52 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### dual-ai-cognition-spine-prototype
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `HOW_TO_FORK_BIGGER[1].md`
+- `GLOSSARY.md`
+- packaged zip as provenance only
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Dual-AI Spine Prototype / cognition spine | cooperative reasoning spine / cognition spine as architecture metaphor | project identity retained and bounded | Preserved `spine`, `braid`, and `cognition spine` because they are repo identity and historical Symbound architecture language. Added explicit boundaries against autonomous agents, consciousness, personhood, model feelings, and human-equivalent cognition. |
+| mini-brains / like neurons | model workers / coordinated pipeline | brain/biological metaphor replaced where it obscured the actual object | Reworded because these phrases described ordinary model workers and could imply artificial minds rather than orchestration roles. |
+| agents | config label for model workers | UX/schema term retained and documented | Preserved `agents` inside the sample JSON because it is a familiar orchestration config key; added a boundary note that it does not mean autonomous or self-directed systems. |
+| model fatigue | resource contention | anthropomorphic metaphor replaced | Reworded fork-guide heading because the operational issue is latency/load/resource contention, not fatigue. |
+| stay kind to your models | stay kind to hardware/context/readers | anthropomorphic encouragement replaced | Preserved the care-protocol tone while shifting the object from model feelings to practical operator responsibility. |
+
+Files changed:
+
+- `../dual-ai-cognition-spine-prototype/README.md`
+- `../dual-ai-cognition-spine-prototype/HOW_TO_FORK_BIGGER[1].md`
+- `../dual-ai-cognition-spine-prototype/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Dual-AI Spine Prototype`, `cognition spine`, `spine`, `braid`, `Analyst A`, `Thinker B`, `Summarizer/Chunker`, and `agents` remain intact where useful.
+
+Historical/generated occurrences intentionally preserved: yes, `everybot_verified[1].zip` was not unpacked or rewritten.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `agents`, `cognition`, `spine`, `collaborate`, `feelings`, `personhood`, and `AGI` language is bounded architecture metaphor, config label, or non-claim language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### Frisian_Cadence_PID_Control_Loop
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
