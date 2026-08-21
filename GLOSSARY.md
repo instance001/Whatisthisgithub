@@ -504,10 +504,10 @@ If you want the landing page, go back to `README.md`.
 ## Symbound-UAE-GVS
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
-| Universal Analogy Enforcement (UAE) | UAE engine | ~/~ | **Is:** Engine that profiles concepts/systems and forces cross-domain analogy search<br>**Not:** Not mere similarity search; structured enforcement<br>**Relation:** Structural profiling layer | Symbound-UAE-GVS/README.md |
+| Universal Analogy Enforcement (UAE) | UAE engine | ~/~ | **Is:** Engine that profiles concepts/systems and requires cross-domain analogy search<br>**Not:** Not mere similarity search; not autonomous discovery agent; structured enforcement<br>**Relation:** Structural profiling layer | Symbound-UAE-GVS/README.md |
 | Global Vector Sweep (GVS) | GVS | =/~ | **Is:** Cross-domain, cross-scale sweep generating analogies mapped via Conceptual Translation Layer<br>**Not:** Not patent search; not semantic embedding alone<br>**Relation:** Analogy sweep | Symbound-UAE-GVS/README.md |
 | Conceptual Translation Layer (CTL) | CTL | =/~ | **Is:** Layer converting local ideas into global application maps from UAE/GVS outputs<br>**Not:** Not machine translation of languages; conceptual mapping<br>**Relation:** Translation layer | Symbound-UAE-GVS/README.md |
-| Commons doctrine (“If the machine finds it, humanity owns it.”) | public prior art doctrine | ~/~ | **Is:** Legal addendum treating all UAE/GVS outputs as integral system artifacts, AGPL-licensed, unpatentable public prior art<br>**Not:** Not optional; not proprietary licensing<br>**Relation:** Licensing rule | Symbound-UAE-GVS/README.md; LICENSE_ADDENDUM_SYMBOUND_COMMONS.txt |
+| Commons doctrine (“If the machine finds it, humanity owns it.”) | public prior art doctrine | ~/~ | **Is:** Legal addendum treating UAE/GVS outputs as integral system artifacts intended for AGPL commons publication and prior-art use<br>**Not:** Not legal advice; not a guarantee of enforceability in every jurisdiction; not proprietary licensing<br>**Relation:** Commons licensing posture | Symbound-UAE-GVS/README.md; LICENSE_ADDENDUM_SYMBOUND_COMMONS.txt |
 
 ## Symbound_Academia_Spine
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |

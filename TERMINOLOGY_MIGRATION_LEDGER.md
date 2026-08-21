@@ -1685,6 +1685,65 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### Symbound-UAE-GVS
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `PUBLIC_SUMMARY.md`
+- `RESEARCHER_EDITION.md`
+- `GITHUB_README.md`
+- `ONE_PARAGRAPH.txt`
+- `DOCTRINE_ENTRY.txt`
+- `ARCHIVE_DESCRIPTION.txt`
+- `LICENSE_ADDENDUM_SYMBOUND_COMMONS.txt`
+- `GLOSSARY.md`
+- generated/archive artifacts as provenance only
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| UAE/GVS engine / machine | bounded reasoning and commons-publication framework | software/process metaphor retained and bounded | Preserved `engine` and the Digital Agora identity while clarifying the system is not an autonomous discovery agent, legal oracle, or safety guarantee. |
+| forces cross-domain search | requires cross-domain search | technical phrasing softened | Reworded to avoid coercive overtones while preserving the protocol requirement. |
+| safe idea-expansion / safe vectors | safety-oriented / bounded vectors | safety guarantee bounded | Reworded where `safe` could be read as guaranteed behavior. Safety remains a project design goal and filtering posture. |
+| all outputs automatically unpatentable / no enclosure possible | intended commons publication and enclosure resistance | legal-effect overclaim bounded | Reworded legal and summary docs to state license intent/project doctrine rather than guaranteed enforceability, patent invalidity, or jurisdiction-independent legal effect. |
+| If the machine finds it, humanity owns it | commons doctrine | civic doctrine retained | Preserved as the repo's memorable doctrine because it names the project philosophy; bounded nearby as license intent, not legal advice. |
+| full implication space / all places the idea touches | broad implication space / places the idea may touch | capability scope bounded | Reworded public copy to avoid totality claims while preserving the user-facing idea-expansion promise. |
+
+Files changed:
+
+- `../Symbound-UAE-GVS/README.md`
+- `../Symbound-UAE-GVS/PUBLIC_SUMMARY.md`
+- `../Symbound-UAE-GVS/RESEARCHER_EDITION.md`
+- `../Symbound-UAE-GVS/GITHUB_README.md`
+- `../Symbound-UAE-GVS/ONE_PARAGRAPH.txt`
+- `../Symbound-UAE-GVS/DOCTRINE_ENTRY.txt`
+- `../Symbound-UAE-GVS/ARCHIVE_DESCRIPTION.txt`
+- `../Symbound-UAE-GVS/LICENSE_ADDENDUM_SYMBOUND_COMMONS.txt`
+- `../Symbound-UAE-GVS/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Symbound UAE/GVS`, `Universal Analogy Enforcement`, `UAE`, `Global Vector Sweep`, `GVS`, `Conceptual Translation Layer`, `CTL`, `Digital Agora`, and `If the machine finds it, humanity owns it` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, `Symbound_UAE_GVS_Whitepaper_v1.0.pdf` and `Symbound-UAE-GVS_REPO_V0.1.zip` were not rewritten; they remain generated/historical artifacts and should be read through the updated source boundary docs.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `safe`, `commons`, `prior art`, `humanity owns`, `determinism`, `autonomous`, and legal-effect language is bounded doctrine, non-claim, or license-intent language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### symbound-lab-notes-negative-space
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
