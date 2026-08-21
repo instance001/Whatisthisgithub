@@ -92,6 +92,14 @@ If you want the landing page, go back to `README.md`.
 | Memory store (Chatty V1) | memory.json | = | ~ | Persistent conversation log | JSON list of role/content messages persisted between runs | Not vector memory; not encrypted; not active retrieval memory in this release; not evidence that the host changes future behavior from accumulated failures | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
 | Config (Chatty V1) | config.json | = | ~ | Runtime configuration file | Runtime config holding model name and capsule filename; auto-created with defaults (`model=mistral`) | Not a credentials store; no remote endpoints besides local Ollama | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
 
+## chatty-factory-rebuild
+| Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Governed factory loop | factory loop, factory, rebuild | ~ | ~ | Governed workflow/execution pipeline | Rust library pipeline that freezes operator-confirmed intent, gates external method proposals, executes bounded work orders, verifies against intent, and records artifact or evidenced failure | Not an autonomous builder, self-directed agent, general product generator, or recommendation engine | chatty-factory-rebuild/README.md; chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md |
+| External LLM method proposal | external method proposal | ~ | ~ | Candidate plan/proposal input | Externally supplied positive method proposal that may suggest steps, commands, or hooks for a host-bounded attempt | Not success authority; acceptance criteria come only from operator-confirmed intent | chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md; chatty-factory-rebuild/src/lib.rs |
+| Operator authority | external operator assertion, intent freeze | ~ | ~ | Authorization/intent-confirmation receipt | External confirmation over intent and capability spend, with receipts binding confirmation context and statement | Not cryptographic human identity proof; not caller-supplied arbitrary authority | chatty-factory-rebuild/README.md; chatty-factory-rebuild/src/lib.rs |
+| Evidenced retry learning | learned boundaries, scoped learning candidate | ~ | ~ | Failure-derived constraint promotion workflow | Journal-backed failure evidence that can produce scoped constraint candidates and, after explicit promotion, change future admissibility | Not hidden model self-learning, model memory, unreviewed doctrine, or automatic blocking rule creation | chatty-factory-rebuild/README.md; chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md; chatty-factory-rebuild/src/lib.rs |
+
 ## chatty-art
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |

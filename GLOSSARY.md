@@ -92,6 +92,14 @@ If you want the landing page, go back to `README.md`.
 | Memory store (Chatty V1) | memory.json | =/~ | **Is:** JSON list of role/content messages persisted between runs<br>**Not:** Not vector memory; not encrypted; not active retrieval memory in this release; not evidence that the host changes future behavior from accumulated failures<br>**Relation:** Persistent conversation log | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
 | Config (Chatty V1) | config.json | =/~ | **Is:** Runtime config holding model name and capsule filename; auto-created with defaults (`model=mistral`)<br>**Not:** Not a credentials store; no remote endpoints besides local Ollama<br>**Relation:** Runtime configuration file | Chatty_Ai_V1/Chatty.zip:Chatty/chatty.py |
 
+## chatty-factory-rebuild
+| Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
+| --- | --- | --- | --- | --- |
+| Governed factory loop | factory loop, factory, rebuild | ~/~ | **Is:** Rust library pipeline that freezes operator-confirmed intent, gates external method proposals, executes bounded work orders, verifies against intent, and records artifact or evidenced failure<br>**Not:** Not an autonomous builder, self-directed agent, general product generator, or recommendation engine<br>**Relation:** Governed workflow/execution pipeline | chatty-factory-rebuild/README.md; chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md |
+| External LLM method proposal | external method proposal | ~/~ | **Is:** Externally supplied positive method proposal that may suggest steps, commands, or hooks for a host-bounded attempt<br>**Not:** Not success authority; acceptance criteria come only from operator-confirmed intent<br>**Relation:** Candidate plan/proposal input | chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md; chatty-factory-rebuild/src/lib.rs |
+| Operator authority | external operator assertion, intent freeze | ~/~ | **Is:** External confirmation over intent and capability spend, with receipts binding confirmation context and statement<br>**Not:** Not cryptographic human identity proof; not caller-supplied arbitrary authority<br>**Relation:** Authorization/intent-confirmation receipt | chatty-factory-rebuild/README.md; chatty-factory-rebuild/src/lib.rs |
+| Evidenced retry learning | learned boundaries, scoped learning candidate | ~/~ | **Is:** Journal-backed failure evidence that can produce scoped constraint candidates and, after explicit promotion, change future admissibility<br>**Not:** Not hidden model self-learning, model memory, unreviewed doctrine, or automatic blocking rule creation<br>**Relation:** Failure-derived constraint promotion workflow | chatty-factory-rebuild/README.md; chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md; chatty-factory-rebuild/src/lib.rs |
+
 ## chatty-art
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |

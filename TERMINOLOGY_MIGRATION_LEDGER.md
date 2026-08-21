@@ -61,6 +61,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 51 | AiBiogenesis_and_AiGenesisMapping | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Older Symbound Embryo POC framing. |
 | 52 | api-key-lanes | WORKSPACE REFERENCE (NON-GIT) | Shared API-key lane planning bundle; not an independent git repository. |
 | 53 | Chatty_Ai_V1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Early zipped local Ollama assistant; memory/capsule behavior needed exact boundary. |
+| 54 | chatty-factory-rebuild | WORKSPACE REFERENCE (NON-GIT) | Rust governed factory-loop crate; learning/authority/factory terms need explicit technical boundaries. |
 
 ## Repository Records
 
@@ -1831,6 +1832,53 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### chatty-factory-rebuild
+
+Status: WORKSPACE REFERENCE (NON-GIT)
+
+Audit scope:
+
+- `README.md`
+- `IMPLEMENTATION_CHARTER.md`
+- `Cargo.toml`
+- `src/lib.rs`
+- `tests/ui/`
+- build output excluded from terminology search
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| factory loop / factory / rebuild | governed factory loop | implementation metaphor retained and bounded | Preserved because it names the crate's artifact-production workflow. Source docs now state it is not an autonomous builder, self-directed agent, general product generator, or recommendation engine. |
+| learning / learned boundaries / evidenced retry learning | evidenced retry learning | operational-learning term preserved | Preserved under the corpus rule that `system learns`/learning language is valid where saved failure evidence changes future host behavior. Here learning means journal-backed failures, scoped candidates, explicit promotion, and future admissibility effects; not hidden model self-learning, model memory, or unreviewed doctrine. |
+| User = intent and authority | operator authority / external confirmation | authority term retained and bounded | Preserved as the architecture split. Source docs and code clarify this is external operator confirmation and capability control, not cryptographic human identity proof. |
+| LLM = externally supplied positive method proposal | external LLM method proposal | role term retained | Preserved because it accurately scopes the LLM to proposal generation. Ledger/glossary note that the LLM does not define success; acceptance criteria come from operator-confirmed intent. |
+| rescue | EF-engine rescue loop / evidenced retry loop | theory/workflow term retained | Preserved because the charter defines rescue as failure -> vault -> different attempt -> comparison -> triangulation -> candidate -> reviewed promotion. Bounded against fallback substitution and broad autonomous building. |
+
+Files changed:
+
+- `../chatty-factory-rebuild/README.md`
+- `../chatty-factory-rebuild/IMPLEMENTATION_CHARTER.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `factory loop`, `factory`, `rebuild`, `learning`, `learned boundaries`, `evidenced retry learning`, `operator`, `authority`, `external operator assertion`, and `rescue` remain intact with precise boundaries.
+
+Historical/generated occurrences intentionally preserved: yes, `target/` build output and trybuild generated surfaces were excluded from terminology edits. Existing compile-fail fixtures that mention forged `cryptographically verified human identity` remain intentional negative tests.
+
+Tests/checks run:
+
+- `cargo test` in `chatty-factory-rebuild` passed: 42 unit/trybuild tests plus doc-tests.
+- Targeted source search excluding `target/` and `wip/` confirmed remaining learning/authority/rescue language is explicit operational terminology, negative-test text, or bounded source vocabulary.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- No source commit was possible because `chatty-factory-rebuild` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
