@@ -1685,6 +1685,55 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### Chattymobile_v1
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `Readme.txt`
+- `symbound.txt`
+- `GLOSSARY.md`
+- `main.py`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| persistent-memory AI assistant | mobile assistant with local JSON conversation log | capability/privacy bounded | Reworded because `memory.json` is local append-only history, not encrypted, vector memory, cloud sync, or general memory architecture. |
+| Symbound alignment/override capsule | Symbound tone/boundary capsule | capsule UX term retained and bounded | Preserved `capsule` as established product language, but clarified it is prompt text and not higher authority than actual platform, privacy, safety, or capability limits. |
+| `.exe` / PyInstaller / fully offline | Android/Kivy mobile seed with optional remote API | technical mismatch corrected | Reworded the capsule to match the actual repository: Android/Kivy app, local app storage, Together API replies only when configured. |
+| do not act like an assistant / partner in structure | assistant with partner-like tone | UX boundary clarified | Preserved the friendly partner tone while avoiding confusion about assistant role, agency, or capability. |
+| public domain / proprietary ownership claims | AGPL-3.0 / anti-enclosure license posture | licensing mismatch bounded | Updated portal rows to match the repo's AGPL relicensing and rephrased ownership claims as project license posture. |
+
+Files changed:
+
+- `../Chattymobile_v1/README.md`
+- `../Chattymobile_v1/Readme.txt`
+- `../Chattymobile_v1/symbound.txt`
+- `../Chattymobile_v1/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Chatty Mobile Seed Lock`, `Chatty`, `Symbound capsule`, `memory.json`, `config.json`, `symbound.txt`, and partner-style UX language remain intact where accurate.
+
+Historical/generated occurrences intentionally preserved: yes, no APK or archive artifact was edited; the external Archive.org APK remains a historical/generated distribution surface.
+
+Tests/checks run:
+
+- `python -m py_compile main.py`
+- `git diff --check`
+- Targeted search confirmed remaining `capsule`, `memory`, `partner`, `assistant`, `offline`, `.exe`, `API`, and ownership language is bounded UX, technical reality, non-claim, or license-posture language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### cognitive_reactor_stress_tests
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
