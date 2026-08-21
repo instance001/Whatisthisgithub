@@ -1685,6 +1685,56 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### Frisian_Cadence_PID_Control_Loop
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.txt`
+- `Frisian_Cadence_Context_and_Application_v0.1.txt`
+- `Frisian_Cadence_PID_Control_Loop_Text_v0.2.txt`
+- `Frisian_Cadence_Quantitative_Appendix_v0.2.txt`
+- `GLOSSARY.md`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Frisian Cadence PID Control Loop | soft PID-like prompting/pacing metaphor | project identity retained and bounded | Preserved the PID/cadence identity because it names the research method, while adding that it is not a literal implemented feedback controller, clinical intervention, autonomous system, or safety guarantee. |
+| bidirectional regulation / calms the human | bidirectional pacing / steadies the human workflow | clinical/physiological overclaim bounded | Reworded to avoid claiming human nervous-system or therapeutic regulation. |
+| education & therapy | education & accessibility | clinical scope narrowed | Reworded because the repo does not provide clinical evidence or treatment protocol. |
+| multi-agent colonies / phase lock | multi-process or multi-instance workflow / phase-alignment cue | autonomous/agency framing bounded | Preserved the Susan synchroniser concept as workflow orchestration language, not autonomous agent control. |
+| safe long runs / safe slowdown | bounded long runs / bounded slowdown | safety guarantee bounded | Reworded `safe` where it could imply guaranteed safety rather than lower-risk pacing. |
+| CCR quantifies/collapses contradictions | CCR estimates/may compress contradictions | evidence-strength bounded | Reworded to avoid causal proof or semantic accuracy guarantees; retained FPI/CCR as exploratory metrics. |
+
+Files changed:
+
+- `../Frisian_Cadence_PID_Control_Loop/README.txt`
+- `../Frisian_Cadence_PID_Control_Loop/Frisian_Cadence_Context_and_Application_v0.1.txt`
+- `../Frisian_Cadence_PID_Control_Loop/Frisian_Cadence_PID_Control_Loop_Text_v0.2.txt`
+- `../Frisian_Cadence_PID_Control_Loop/Frisian_Cadence_Quantitative_Appendix_v0.2.txt`
+- `../Frisian_Cadence_PID_Control_Loop/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Frisian Cadence`, `PID Control Loop`, `FPI`, `CCR`, cadence families, and `Susan` remain intact where useful.
+
+Historical/generated occurrences intentionally preserved: no generated artifacts were present.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `PID`, `control`, `regulation`, `phase`, `safety`, `clinical`, `proof`, and metric language is bounded metaphor, non-claim, or exploratory measurement language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
