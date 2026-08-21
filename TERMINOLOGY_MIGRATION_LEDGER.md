@@ -1801,3 +1801,50 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### ai-teaming-framework
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `ai-teaming-framework.md`
+- `GLOSSARY.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| AI Teaming / teaming | human-AI workflow pattern | collaboration term retained and bounded | Preserved because the repo intentionally teaches collaboration mechanics, not prompt-copying. Source and corpus glossaries now state that teaming is not a claim that AI thinks, feels, cares, has personhood, or shares human cognition. |
+| partner / working partner | collaborative interaction signal | UX/collaboration language retained | Preserved because the guide explicitly says the specific word is not the mechanism; the collaborative intent and structural signal are what matter. |
+| cognitive prosthetic / hybrid cognition | user-side capability extension / human-AI workflow output | broad Symbound framing retained and bounded | Preserved because modern Symbound retains broader human-AI hybrid cognitive-engine language where intended. Here it describes the human-AI workflow and user-side capability extension, not model consciousness or shared human cognition. |
+| The AI's inherent goals / baked-in objectives / wants | the AI's default tendencies | over-agentive wording softened | Source guide now describes helpful-fast and always-answer patterns as practical default tendencies shaped by training, reinforcement learning, and product design. |
+| The AI has internalised how real projects work | the AI has learned many patterns from real project work | hidden-cognition wording softened | Reworded to describe learned project-text patterns and structural dependencies without implying human-like internalization or understanding. |
+| permanent transfer | cross-situation transfer | overclaim softened | Reworded because the principles are durable but not a guarantee of permanent effectiveness across all future models or contexts. |
+| specific gratitude / good team / vending machine | concrete feedback and interaction-pattern signals | friendly readable language retained | Preserved because these terms are ordinary explanatory language and the guide explicitly rejects emotional manipulation, magic phrases, and AI personhood. |
+
+Files changed:
+
+- `../ai-teaming-framework/README.md`
+- `../ai-teaming-framework/ai-teaming-framework.md`
+- `../ai-teaming-framework/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `AI Teaming Framework`, `AI teaming`, `teaming`, `partner`, `hybrid cognition`, `cognitive prosthetic`, `specific gratitude`, `natural checkpoints`, and `multi-step sequencing trust` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, friendly examples such as `hey partner`, `good team`, and `vending machine` remain because they are explanatory interaction-signal examples, not ontology claims.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `teaming`, `partner`, `cognitive prosthetic`, `hybrid cognition`, `thinks`, `feels`, `cares`, `trust`, and `magic` language is bounded collaboration framing, explicit non-claim text, or ordinary readable guidance.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
