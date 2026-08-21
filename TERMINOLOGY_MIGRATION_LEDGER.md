@@ -2155,3 +2155,62 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### perpetual_cognition_reactor
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `abstract.md`
+- `Infinite_Entropy_Fuel_Law_v1.md`
+- `EFVT_Integration_Perpetual_Cognition_Reactor_v1.md`
+- `PCR_Boundary_Conditions_and_Safety_Architecture_v1.md`
+- `Perpetual_Cognition_Reactor_OnePage_v1.md`
+- `PCR_Limitations_Edge_Cases_and_Failure_Modes_v1.md`
+- `ethical_and_safety_framework.md`
+- `GLOSSARY.md`
+- raw lab notes as provenance only
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| unlimited cognitive throughput / unbounded throughput | bounded high-throughput cognition | capacity overclaim bounded | Reworded in README and portal summary because substrate limits matter for humans and machines. The high-throughput theory remains, but not as unlimited capacity. |
+| infinite cognitive fuel / inexhaustible substrate / unlimited input fuel | ongoing entropy feedstock | thermodynamic/energetic metaphor bounded | Preserved as `Infinite Entropy Fuel Law` identity and theory-internal metaphor, but source now states it is not perpetual motion, free energy, inexhaustible biological/computational capacity, or guaranteed indefinite operation. |
+| provably stable / ensures / operate indefinitely | conditionally stable inside the model | safety guarantee bounded | Reworded in the boundary architecture because safety/stability claims depend on substrate, gating, and operating conditions. |
+| universal cognition theory / complete theory / indefinite expansion | proposed general cognition theory / candidate architecture | evidence strength narrowed | Reworded in EFVT integration so broad cross-substrate scope remains as theory ambition, not proven equivalence or completed science. |
+| minds can run on chaos / perpetual engine of insight | cognitive systems can use chaos as thinking fuel | lay metaphor retained and bounded | Preserved the public one-page personality while adding a boundary note that fuel/engine/perpetual/mind are metaphor language, not consciousness, personhood, free energy, or unlimited capacity. |
+| human + artificial cognition / hybrid human-AI teams | human, artificial, and hybrid cognitive systems | broad Symbound framing retained and bounded | Preserved because this repo intentionally uses broader Symbound cross-substrate cognition language. It is not globally deprecated and is bounded here against consciousness/personhood and unlimited-capacity claims. |
+| PCR raw lab notes | provenance notes | historical/provenance retained | Raw notes were not edited; README now says stronger raw-note claims are provenance and should be read through limitations, boundary, and safety documents. |
+
+Files changed:
+
+- `../perpetual_cognition_reactor/README.md`
+- `../perpetual_cognition_reactor/abstract.md`
+- `../perpetual_cognition_reactor/Infinite_Entropy_Fuel_Law_v1.md`
+- `../perpetual_cognition_reactor/EFVT_Integration_Perpetual_Cognition_Reactor_v1.md`
+- `../perpetual_cognition_reactor/PCR_Boundary_Conditions_and_Safety_Architecture_v1.md`
+- `../perpetual_cognition_reactor/Perpetual_Cognition_Reactor_OnePage_v1.md`
+- `../perpetual_cognition_reactor/GLOSSARY.md`
+- `README.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Perpetual Cognition Reactor`, `PCR`, `REFE`, `HEF`, `EFE`, `Infinite Entropy Fuel Law`, `Symbound Foldchain`, `reactor`, `fuel`, `perpetual`, `cognition`, and human-AI/hybrid language remain intact where used.
+
+Historical/generated occurrences intentionally preserved: yes, `PCR_Raw_Lab_Notes.md` and the release zip were not edited during this pass; they remain provenance and should be read through the modern boundary documents.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `infinite`, `unlimited`, `unbounded`, `perpetual`, `safe`, `stable`, `cognition`, `human-AI`, `hybrid`, `consciousness`, `personhood`, and `free energy` language is bounded theory identity, metaphor, non-claim, raw provenance, or explicit limitation/safety language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
