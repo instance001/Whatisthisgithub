@@ -1685,6 +1685,56 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### AiBiogenesis_and_AiGenesisMapping
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `Symbound_Upbringing_Charter.md`
+- `release_manifest.txt`
+- `GLOSSARY.md`
+- integrity reports as historical/generated verification output
+- packaged zip as historical/generated release surface
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| AI Biogenesis / Symbound Embryo | curriculum-stage training metaphor | project identity retained and bounded | Preserved because these are repo identity and established Symbound terms. Added boundaries that they do not imply AI life, sentience, consciousness, personhood, childhood, biological development, or autonomous agency. |
+| Symbound Upbringing / nursery / kindergarten / lifelong | staged curriculum framework | friendly developmental UX retained and documented | Preserved as approachable curriculum language; bounded against AI childhood, moral patienthood, and biological claims. |
+| hobby-safe envelope | bounded-hobby envelope | safety guarantee bounded | Reworded where `safe` could sound guaranteed. Operational safety controls remain as concrete CPU/batch/context/auto-halt/temperature limits. |
+| hidden resentment dynamics | hidden adversarial dynamics | anthropomorphic failure language replaced | Reworded because the intended behavior is adversarial failure under punitive training, not model emotion. |
+| trusted cognition | trustworthy cognitive behavior patterns | ontology scope bounded | Preserved cognition-broad training language while clarifying the target is observable behavior, not consciousness/personhood. |
+| cognitive prosthetic | cognitive prosthetic | user-side augmentation term preserved | Remaining occurrences in integrity reports are historical/provenance references and align with the corpus rule to preserve cognitive prosthetic where it names user-side augmentation. |
+
+Files changed:
+
+- `../AiBiogenesis_and_AiGenesisMapping/README.md`
+- `../AiBiogenesis_and_AiGenesisMapping/Symbound_Upbringing_Charter.md`
+- `../AiBiogenesis_and_AiGenesisMapping/release_manifest.txt`
+- `../AiBiogenesis_and_AiGenesisMapping/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `AI Biogenesis`, `Symbound Embryo`, `Symbound Upbringing`, `Trench model`, `Bowl model`, `nursery`, `kindergarten`, `lifelong`, `MCM`, `Janet Watcher`, and `cognitive prosthetic` remain intact where useful.
+
+Historical/generated occurrences intentionally preserved: yes, `symbound_embryo_poc_RELEASE.zip`, `integrity_report.md`, and `integrity_report.json` were not rewritten; they remain release/provenance artifacts and should be read through the updated boundary notes.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `hobby-safe`, `safe`, `cognitive prosthetic`, `emergent intelligence`, `advanced cognition`, and developmental language is bounded source terminology, historical/generated report text, preserved user-side augmentation language, or explicit non-claim.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### Chattymobile_v1
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
