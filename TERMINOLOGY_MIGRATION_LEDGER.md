@@ -67,6 +67,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 57 | chatty-mini-build-folder | WORKSPACE REFERENCE (NON-GIT) | Flutter/Android Chatty-mini build workspace; brain-file wording, model/memory/cloud-lane terms bounded. |
 | 58 | chatty-pet-mobile | WORKSPACE REFERENCE (UNBORN GIT ROOT) | Flutter mobile pet terrarium; truth/spine/child-safe/future-AI narration terms bounded without flattening store-facing language. |
 | 59 | Chattyv1.1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Local Ollama/PyInstaller desktop release; capsule authority, memory, and offline wording bounded. |
+| 60 | chattyfactory | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Rust ChattyFactory v0.3; cognitive prosthetic, memory jogger, truth, and safe-rule terms preserved with technical boundaries. |
 
 ## Repository Records
 
@@ -2203,6 +2204,58 @@ Tests/checks run:
 Worktree note:
 
 - Source repo commit: `86401fd` (`Bound Chatty v1.1 capsule and memory terminology`).
+
+### chattyfactory
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `USER_MANUAL.md`
+- `RELIABILITY.md`
+- `manifest.json`
+- `bookshelf/`
+- `config/prompts/`
+- `chattyfactory_core/`
+- `chattyfactory_gui/`
+- bundled runtime binaries excluded from terminology edits
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognitive prosthetic | cognitive prosthetic / project factory | mission phrase retained | Preserved because this is a user-side reasoning-support/tool mission phrase, not a claim of mind, personhood, medical device status, autonomous agency, model selfhood, or model-owned reasoning. |
+| memory jogger / cold memory / Bookshelf | local references, summaries, and context handoff surfaces | UX/reference labels retained | Preserved as friendly established product/reference labels. Source docs now define them as local reference/context artifacts, not hidden model memory, cloud sync, vector memory, or model self-learning. |
+| Overseer / Builder / Foreman / Worker | model role lanes and workflow stages | role labels retained and bounded | Preserved because these are useful internal workflow labels. Source docs now state they are not independent agents with unlimited autonomy or authority. |
+| source of truth / ground truth / truth / snapshot | canonical project artifacts and deterministic scans | artifact-authority shorthand retained | Preserved because the repo uses these terms for `Plan.md`, BuildSpec, and project snapshots. Source docs now state these are not metaphysical claims about truth or reality. |
+| safe / safety net / safe rules | bounded validation and recovery behavior | safety term bounded | Preserved where it names path/action validation, sanitizer rules, and recovery behavior. Source docs now state this is not an AI safety certification, security guarantee, or proof generated code is correct. |
+| read your mind | ordinary figurative expectation-setting | figurative language retained | Preserved as plain user guidance saying small local models should not be expected to infer perfect intent. It is not a mind-reading claim. |
+
+Files changed:
+
+- `../chattyfactory/README.md`
+- `../chattyfactory/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `cognitive prosthetic`, `memory jogger`, `cold memory`, `Bookshelf`, `Overseer`, `Builder`, `Foreman`, `Worker`, `source of truth`, `ground truth`, `safe rules`, and `safety net` remain intact with technical boundaries.
+
+Historical/generated occurrences intentionally preserved: yes, runtime binaries, generated/runtime output roots, and code-internal `safe_*` identifiers were not rewritten.
+
+Tests/checks run:
+
+- Targeted search excluding runtime/model/target output confirmed remaining `cognitive prosthetic`, `memory jogger`, `cold memory`, `truth`, `safe`, `Overseer`, `Builder`, and `read your mind` language is bounded, ordinary UX/product language, or implementation terminology.
+- `cargo test` passed: 31 core tests, 47 GUI tests, and doc-tests.
+- `git diff --check`
+
+Worktree note:
+
+- Source repo commit: `fbf2ad0` (`Bound ChattyFactory terminology`).
 
 ### cognitive_reactor_stress_tests
 
