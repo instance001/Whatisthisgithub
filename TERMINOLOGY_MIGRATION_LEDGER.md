@@ -1997,3 +1997,56 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### entropy-folding-eureka-cascade-hypothesis
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `docs/00_reader_guide.md`
+- `docs/01_hypothesis_summary.md`
+- `docs/02_claims_and_nonclaims.md`
+- `docs/03_key_terms_and_minimal_glossary.md`
+- `docs/04_model_structure.md`
+- `docs/05_falsifiability_and_weakening_conditions.md`
+- `docs/06_formalism_and_math_notes.md`
+- `docs/07_methods_and_tools.md`
+- `docs/08_open_uncertainties.md`
+- `docs/09_source_map.md`
+- `docs/99_provenance_and_editorial_rules.md`
+- `sources/source-index.md`
+- `GLOSSARY.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Entropy Folding / entropy folding | Entropy Folding | framework hypothesis term retained and bounded | Preserved because this repo is explicitly the hypothesis-definition workspace. Source already states the repo is not a proof bundle, not a theory-extension sandbox, and not a place to strengthen source claims. |
+| Eureka Cascade | eureka cascade | downstream descriptive label retained | Preserved because source already treats eureka cascade as downstream unless a tighter relation to entropy folding is explicitly sourced. |
+| cognition / cognitive topology / cognitive tools | cognition-topology and tooling vocabulary | broad theoretical/tooling language retained and bounded | Preserved because the repo explicitly separates methods/tools from proof and states no sentience, agency, or personhood claim. |
+| proof / evidence / formalism | operationalizable hypothesis and proxy evidence | evidence-strength boundaries already present | No source edit required; docs already say tools are not proof, formalism should not be used as proof by itself, and capacity measures are proxies rather than ground-truth access. |
+| human, AI, and hybrid systems | cross-substrate ambition | open uncertainty retained | Preserved because source already records cross-substrate generalization as an ambition/uncertainty, not established equivalence. This aligns with the standing rule that hybrid cognition is not globally deprecated. |
+
+Files changed:
+
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Source files changed: no
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Entropy Folding`, `Eureka Cascade`, `vault`, `entropy`, `capacity`, `scale`, `attractor`, `intuition`, `cognitive topology`, and cross-substrate/hybrid framing remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, source-map entries and provenance references remain unchanged; this pass did not reclassify source strength or move materials between hypothesis and atlas repos.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `entropy`, `eureka`, `cognition`, `cognitive topology`, `proof`, `real`, `sentience`, `personhood`, `hybrid`, and `cross-substrate` language is bounded hypothesis, methods/tooling, non-claim, provenance, or open-uncertainty language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and remained clean; no source commit was needed.
