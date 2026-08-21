@@ -1629,3 +1629,56 @@ Tests/checks run:
 Worktree note:
 
 - Source repo still had pre-existing untracked files after this commit: `IMAGINATION_TRANSFORM_ATLAS_AND_LEARNING_LAW_PROBES.md`, `LEVIATHAN_BLIND_STAGE_REASONING_AND_CONTROLLED_NOVELTY_CALIBRATION.md`, `LEVIATHAN_COGNITIVE_GEARS_AND_TUNING_FORK_CALIBRATION.md`, `LEVIATHAN_CONNECTIVE_TISSUE_AND_MICRO_GOVERNANCE.md`, `LEVIATHAN_NEGATIVE_SPACE_FARMING_AND_PUB_TEST.md`, and `MEMORY_WORLDVIEW_AND_BOOPER_HYPOTHESIS.md`. They were not staged or modified by this terminology slice.
+
+### rd-engine
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/00_core_idea.md`
+- `docs/01_drop_in_guide.md`
+- `docs/02_use_cases.md`
+- `src/engine.rs`
+- `src/save.rs`
+- `examples/minimal_host.rs`
+- `examples/project_memory_host.rs`
+- `tests/generic_core.rs`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| truth / canonical truth / lasting truth / truth source | reducer-governed canonical state | ordinary technical shorthand retained and bounded | Preserved because this repo uses `truth` as a deterministic state-management term: the reducer-approved saved state a host treats as authoritative for continuity. Source docs and corpus glossaries now state it is not factual certainty, model knowledge, consciousness, metaphysical truth, or model-owned knowledge. |
+| memory / project memory | memory / project memory | user-facing/domain example retained | Preserved because it names a common host use case and example schema, not a claim of model memory, mind, or hidden introspection. |
+| understand in one sitting | understand in one sitting | ordinary readable language retained | Preserved as normal reader-facing language. It is not anthropomorphic or ontological terminology in context. |
+| boring truth source / boring mutation boundary | boring truth source / boring mutation boundary | readable engineering language retained | Preserved because the phrase intentionally makes the deterministic mechanism plain and approachable without making a metaphysical claim. |
+| semantic-signal-alphabet | semantic-signal-alphabet | proper repository name retained | Preserved as a link/example to adjacent work, not local semantic-ontology terminology. |
+
+Files changed:
+
+- `../rd-engine/README.md`
+- `../rd-engine/GLOSSARY.md`
+- `../rd-engine/docs/00_core_idea.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `RD Engine`, `buckets`, `reducers`, `actions`, `events`, `canonical state`, `project memory`, and `truth` shorthand remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, examples and tests keep `MemoryReducer`, `ProjectMemoryReducer`, and example bucket/action names because they are domain examples and public API-adjacent sample code.
+
+Tests/checks run:
+
+- `cargo test`
+- `git diff --check`
+- Targeted search confirmed remaining `truth`, `memory`, `understand`, `semantic`, and related language is bounded deterministic-state terminology, ordinary reader-facing language, or proper repository/example naming.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
