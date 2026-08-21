@@ -242,6 +242,8 @@ General UX/technical-language rule carried forward: do not replace friendly, est
 
 General figurative-language rule carried forward: do not replace ordinary, well-understood figurative language merely because a more clinical phrase exists. `gold standard` is acceptable when it means reference benchmark/class and is not making a metaphysical claim. Distinguish dangerous ontology claims such as `real mind`, `all minds`, and `structurally safe` from ordinary readable language such as `gold standard`, `tool`, `reference point`, and `working model`. Prefer precision, but not at the cost of needless sterility.
 
+General cognitive-prosthetic and operational-learning rule carried forward: `cognitive prosthetic` is not globally deprecated. Preserve it where it names user-side augmentation, accessibility, reasoning extension, or broader Symbound human-AI workflow meaning, with an explicit non-consciousness/personhood boundary where needed. Likewise, `system learns` may be retained where accumulated failure evidence changes future host behavior through explicit saved state or constraints; do not use it for hidden model self-learning or personhood claims.
+
 ### chatty-cog
 
 Status: ACTIVE
@@ -1553,7 +1555,7 @@ Terminology inventory:
 
 | Old term | Current canonical term | Classification | Decision |
 | --- | --- | --- | --- |
-| genuine cognitive prosthetic | high-leverage thinking tool | canonicalized | Replaced in `why-this-matters.md` because the passage is about AI utility for sophisticated users, not a claim that AI functions as a literal cognitive prosthesis. |
+| genuine cognitive prosthetic | genuine cognitive prosthetic | restored and bounded | Restored in `why-this-matters.md` because the passage is about AI as user-side reasoning augmentation for sophisticated users. Source and glossary now define it as a cognitive prosthetic in the assistive workflow sense, not model consciousness, personhood, autonomous cognition, or shared human cognition. |
 | preference salience bucketing | same diagnostic term | framework term retained | Preserved because it is the core claimed pattern under test and is framed as observable preference down-weighting, not model intent or malice. |
 | meta-level litmus test / "Thoughts?" | same diagnostic setup | reproducible test term retained | Preserved because the repo clearly presents it as a simple observational test, not a broad benchmark or accusation manifesto. |
 | image attribution bias test | source attribution anchoring diagnostic | missing portal row restored | Added to corpus glossaries to match source; the test changes attribution context while holding the image constant. |
@@ -1773,6 +1775,7 @@ Terminology inventory:
 | Eureka Cascade | accelerated routing effect | framework term retained and bounded | Preserved because it names the observed compounding constraint effect. Source and corpus docs now state it is not sudden insight, consciousness, guaranteed global correctness, or magic. |
 | truthful failure / truthful stuckness / truthful progress | honest failure/stuckness reporting | ordinary technical shorthand retained | Preserved because the term describes not pretending success when a route cannot validly proceed; not a metaphysical truth claim. |
 | negative knowledge / negative memory / routing intelligence | reusable failure constraints / routing evidence | implementation language retained and bounded | Preserved because it describes stored failure evidence and constraint effects. It is not model cognition, sentience, or hidden learning. |
+| system learns | system learns / operational learning | retained and bounded | Restored as accurate operational shorthand where accumulated failure evidence is persisted as host-state constraints that change future routing behavior. This is not model self-training, hidden cognitive growth, consciousness, or personhood. |
 | local-first agent orchestration | local-first orchestration | product/use-case phrase retained | Preserved as a broad workflow use case; this repo is still explicitly not a general agent framework or planner by itself. |
 
 Files changed:
