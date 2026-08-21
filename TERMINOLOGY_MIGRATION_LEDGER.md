@@ -64,6 +64,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 54 | chatty-factory-rebuild | WORKSPACE REFERENCE (NON-GIT) | Rust governed factory-loop crate; learning/authority/factory terms need explicit technical boundaries. |
 | 55 | chatty-host | WORKSPACE REFERENCE (NON-GIT) | Local-first show-running host; co-host/Bookkeeper/Remember/memory UX terms preserved with technical boundaries. |
 | 56 | chatty-lab | WORKSPACE REFERENCE (NON-GIT) | Flutter educational management game; playful game/satire terminology preserved with game-state boundaries. |
+| 57 | chatty-mini-build-folder | WORKSPACE REFERENCE (NON-GIT) | Flutter/Android Chatty-mini build workspace; brain-file wording, model/memory/cloud-lane terms bounded. |
 
 ## Repository Records
 
@@ -1989,6 +1990,60 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - No source commit was possible because `chatty-lab` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
+
+### chatty-mini-build-folder
+
+Status: WORKSPACE REFERENCE (NON-GIT)
+
+Audit scope:
+
+- `README.md`
+- `docs/product-spec.md`
+- `docs/cockpit-mini-protocol.md`
+- `app/README.md`
+- `app/docs/USER_MANUAL.md`
+- `app/lib/`
+- Android native cloud-key bridge
+- generated Flutter build output, `.dart_tool`, Gradle caches, and vendored `llama.cpp` sources excluded from terminology edits
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| brain file | GGUF model file | canonicalized | Replaced because the metaphor obscured the actual object being imported. The app imports a GGUF model file into private app storage; it is not a brain, person, or executable runtime. |
+| Hot Context / Rolling Summary / Cold Log | same UX labels with technical definitions | UX retained | Preserved as friendly product labels. Source docs now define them as local context/log files and prompt inputs, not hidden model memory, cloud sync, or model self-learning. |
+| Bookkeeper / Main AI | role-specific model lanes | UX retained | Preserved as familiar role labels for model assignment and summarization support. They do not mean people, autonomous agents, or independent authority. |
+| capsule / memory | prompt/context artifacts and local logs | UX retained and bounded | Preserved where they describe app-scoped files and prompt surfaces. Docs now warn against reading them as hidden model memory, personhood, autonomy, or automatic learning. |
+| safe / safer / High Risk model-health language | device-fit guidance | safety term bounded | Preserved where it describes lower device-load risk or small-phone model fit. It is not a real-world AI safety guarantee, model quality score, or content policy certification. |
+| cloud model entry / Android Keystore API keys | explicit provider entry and encrypted local credential storage | implementation-backed product term | Preserved because the app uses explicit cloud provider entries and a native AndroidKeyStore AES/GCM bridge for stored API-key payloads. Cloud lanes are opt-in and not automatic fallback. |
+
+Files changed:
+
+- `../chatty-mini-build-folder/README.md`
+- `../chatty-mini-build-folder/docs/product-spec.md`
+- `../chatty-mini-build-folder/docs/cockpit-mini-protocol.md`
+- `../chatty-mini-build-folder/app/README.md`
+- `../chatty-mini-build-folder/app/docs/USER_MANUAL.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Hot Context`, `Rolling Summary`, `Cold Log`, `Bookkeeper`, `Main AI`, `capsule`, `memory`, and cloud-provider role labels remain intact with technical boundaries.
+
+Historical/generated occurrences intentionally preserved: yes, Flutter build output, native build caches, generated dependency metadata, and vendored `llama.cpp` sources were excluded.
+
+Tests/checks run:
+
+- Targeted search excluding build/vendor output confirmed `brain file` was removed from authored docs and remaining memory/model/cloud wording is bounded or implementation-backed.
+- `flutter test` passed: 7 tests.
+- `flutter analyze` passed with no issues.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- No source commit was possible because `chatty-mini-build-folder` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
