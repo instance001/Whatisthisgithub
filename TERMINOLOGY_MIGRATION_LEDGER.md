@@ -1901,3 +1901,50 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### relational-curriculum-geometry
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `Relational-Curriculum-Geometry-Hypothesis.md`
+- `Relational-Curriculum-Geometry-Primer.md`
+- `experiment_001.md`
+- `GLOSSARY.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| learns / learning / learned pathways | learns / learning / learned pathways | ML-training language retained and bounded | Preserved because this repository is explicitly about training data order, fine-tuning, transfer, and measurable learning outcomes. Source now states these terms are not consciousness, personhood, biological cognition, or direct access to hidden internals. |
+| cognitive landscape / internal handles / latent-space urban planning | same hypothesis metaphors | cognition-broad hypothesis language retained and bounded | Preserved because the terms communicate the latent-organization hypothesis and do not by themselves assert model personhood or sentience. The glossary now maps them to routing, transfer, uncertainty handling, and relation use. |
+| Better rooms, roads, walls, doors, and limbs | same spatial metaphor | ordinary readable metaphor retained | Preserved under the figurative-language rule because it names curriculum structure and relational arrangement without making a literal simulator or body claim. |
+| Team member, not whole team | bounded collaborator target | collaboration framing retained | Preserved because it describes role discipline and responsibility separation among user, model, host, tools, reviewers, and authorities; it is not a claim of autonomous agency. |
+
+Files changed:
+
+- `../relational-curriculum-geometry/README.md`
+- `../relational-curriculum-geometry/Relational-Curriculum-Geometry-Hypothesis.md`
+- `../relational-curriculum-geometry/Relational-Curriculum-Geometry-Primer.md`
+- `../relational-curriculum-geometry/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Relational Curriculum Geometry`, `RCG`, `learns`, `cognitive landscape`, `internal handles`, `Team member, not whole team`, and `Better rooms, roads, walls, doors, and limbs` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, `experiment_001.md` remains unchanged because its learning/safety/role-language is already bounded by the repo-level hypothesis context.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `learn`, `reason`, `cognitive landscape`, `internal handles`, `safety`, `team member`, and spatial metaphor language is bounded ML-training hypothesis language, role-discipline framing, or ordinary readable metaphor.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
