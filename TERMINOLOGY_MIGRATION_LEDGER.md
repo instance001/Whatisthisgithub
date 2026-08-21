@@ -1685,6 +1685,67 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### cognitive_reactor_stress_tests
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `suite_overview.md`
+- `test_protocol.md`
+- `cognitive_shear_threshold.md`
+- `topological_fingerprint_map.md`
+- `cpr_severity_scale.md`
+- `cognitive_reactor_benchmark.md`
+- `universal_shear_ladder.md`
+- `unified_cognitive_runtime.md`
+- remaining papers as historical/provisional theory surface for later deep audit
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognitive reactor / CRP | CRP-style interaction profile | theory identity retained and bounded | Preserved because it is the repo identity and hypothesis frame. Added boundaries that it is not user mind-reading, deterministic user classification, intelligence ranking, personality test, clinical label, or surveillance category. |
+| latent geometry shear / identity surface / manifold | observable shear-pattern candidates / stance instability | hidden-state overclaim bounded | Retained as provisional interpretability language for observable transcript behavior and run metadata, not direct hidden-state access, consciousness, personhood, model feelings, or literal latent-space observation. |
+| universal / all architectures / every model | sampled architectures / architecture-comparative | evidence-strength bounded | Reworded core papers to avoid universal architecture coverage claims while keeping cross-model comparison as the research ambition. |
+| model minds / model selfhood / alive / nervous system | observable reasoning behavior / control plane | ontology overclaim bounded | Reworded model-personhood or biological-system claims where they implied inner experience; retained cognition-broad architecture language where bounded. |
+| CRPS user severity / fingerprint types | consented interaction-pattern scoring | user-profiling risk bounded | Reworded CRPS and fingerprint language to require consent, privacy, replication, and non-diagnostic interpretation. |
+| safe AGI / mandatory / guarantee | proposed high-autonomy monitoring / safety-oriented | safety guarantee bounded | Reworded safety and runtime claims as proposed architecture and monitoring, not guarantee or settled law. |
+
+Files changed:
+
+- `../cognitive_reactor_stress_tests/README.md`
+- `../cognitive_reactor_stress_tests/GLOSSARY.md`
+- `../cognitive_reactor_stress_tests/suite_overview.md`
+- `../cognitive_reactor_stress_tests/test_protocol.md`
+- `../cognitive_reactor_stress_tests/cognitive_shear_threshold.md`
+- `../cognitive_reactor_stress_tests/topological_fingerprint_map.md`
+- `../cognitive_reactor_stress_tests/cpr_severity_scale.md`
+- `../cognitive_reactor_stress_tests/cognitive_reactor_benchmark.md`
+- `../cognitive_reactor_stress_tests/universal_shear_ladder.md`
+- `../cognitive_reactor_stress_tests/unified_cognitive_runtime.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `CRP`, `Cognitive Reactor Profile`, `latent geometry`, `shear`, `identity surface`, `CST-90`, `CRPS`, `CRB-25`, `USL`, `UCR`, and `RGCW` remain intact where useful.
+
+Historical/generated occurrences intentionally preserved: yes, the repo contains many theory papers and duplicate/variant docs. This slice modernized the front door and highest-risk core papers; remaining occurrences are treated as provisional/historical theory language to be read through the updated boundary notes.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `universal`, `mind`, `proof`, `diagnostic`, `autonomous`, `conscious`, `personhood`, `feelings`, and related language is either explicit boundary text, provisional research language, or deliberately preserved human cognition language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### dual-ai-cognition-spine-prototype
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
