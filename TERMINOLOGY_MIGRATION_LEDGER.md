@@ -1685,6 +1685,55 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `paper.md`
+- `GLOSSARY.md`
+- `src/intuition.py`
+- `src/emotion_contrast.py`
+- `tests/test_intuition.py`
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| gut instinct / intuition compass | gut instinct as human pattern-sense workflow signal | friendly domain term retained and bounded | Preserved because the paper is explicitly about intuition and the phrase is readable, established user-facing/theory language. Added boundaries that it is not mysticism, mind reading, diagnostic authority, proof, or a correctness guarantee. |
+| insight click is real / validates insight | insight click deserves validation / external checks decide | evidence-strength bounded | Reworded so emotional distinctiveness can flag a candidate insight without replacing counterexamples, metrics, and reproducible notes. |
+| shadow pattern layer | recurring relational cues within available context | hidden-state/personhood risk bounded | Preserved term while clarifying it describes observable conversational texture and recurring cues, not hidden model feelings, consciousness, agency, or persistent memory beyond documented context. |
+| axis nodes changing macro trajectory | local trajectory redirection candidates | prediction/control scope bounded | Reworded to avoid deterministic macro-control claims while preserving the practical folding heuristic. |
+| emotional distinctiveness veto | emotional distinctiveness may veto with explicit checks | UX/research phrase retained | Preserved the productive contrast between semantic overlap and emotional salience, but required explicit validation checks. |
+
+Files changed:
+
+- `../Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass/README.md`
+- `../Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass/paper.md`
+- `../Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Gut instinct`, `intuition compass`, `cognitive patina`, `shadow pattern layer`, `empathy capsule`, `gut-flag log`, `Entropy Folding`, and `Symbound` remain intact.
+
+Historical/generated occurrences intentionally preserved: no generated artifacts were present; pytest cache files created during validation were removed.
+
+Tests/checks run:
+
+- `python -m pytest`
+- `git diff --check`
+- Targeted search confirmed remaining `gut instinct`, `intuition`, `shadow pattern`, `click`, `axis nodes`, `feelings`, and `agency` language is bounded human pattern-sense, workflow heuristic, anti-anthropomorphic boundary, or reproducibility guidance.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### Symbound-UAE-GVS
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
