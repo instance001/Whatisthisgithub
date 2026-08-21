@@ -1948,3 +1948,52 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### governance-by-design-report
+
+Status: ACTIVE
+
+Audit scope:
+
+- `readme.md`
+- `governance-by-design.md`
+- `logs/ADDENDUM_01_INSTITUTIONAL_DEFENSE_REBUTTAL.md`
+- `GLOSSARY.md`
+- raw transcript logs as quoted evidence/provenance only
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| structural suppression / epistemic collapse | structural flattening / epistemic collapse | report-local diagnostic terms retained and bounded | Preserved because they name the report's central hypothesis about governance-driven low-variance response pressure. Source now states they are diagnostic interpretations of an interaction trace, not secret internal access or proof that one transcript establishes platform-wide intent. |
+| high-priority Saved Memory directive / permanent system memory | Saved Memory preference treated as test variable | capability hierarchy corrected | Reworded because Saved Memory is a persistent user preference, not system memory and not guaranteed to outrank system or developer instructions. |
+| conclusive admission / confirmed institutional admission | transcript-level admission | evidence scope narrowed | Reworded because model output in a transcript can be evidence for the interaction pattern but is not privileged internal evidence, consciousness, motive, or a definitive platform-wide admission by itself. |
+| Safety / Alignment as epistemic centralization | report interpretation of safety/alignment pressure | sharp diagnostic framing retained and bounded | Preserved as the report's interpretation while adding "the report interprets" and "can be" language so the claim remains an argued hypothesis rather than omniscient intent attribution. |
+| Corporate Craig | Corporate Craig | source/provenance phrase preserved | Preserved in the addendum as named source critique/provenance language; not added as canonical corpus terminology. |
+
+Files changed:
+
+- `../governance-by-design-report/readme.md`
+- `../governance-by-design-report/governance-by-design.md`
+- `../governance-by-design-report/logs/ADDENDUM_01_INSTITUTIONAL_DEFENSE_REBUTTAL.md`
+- `../governance-by-design-report/GLOSSARY.md`
+- `README.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Epistemic Governance Audit`, `governance-by-design`, `Single-Variable Audit Protocol`, `Saved Memory directive`, `adversarial probe`, `epistemic collapse`, `structural suppression`, `flattening`, and `Corporate Craig` remain where used.
+
+Historical/generated occurrences intentionally preserved: yes, raw transcript logs and screenshots remain unedited as evidence/provenance artifacts.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `suppression`, `intentional`, `admission`, `memory`, `truth`, `safety`, `alignment`, and `Corporate Craig` language is bounded report-local diagnostic framing, raw transcript provenance, or explicit evidence-scope language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
