@@ -65,6 +65,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 55 | chatty-host | WORKSPACE REFERENCE (NON-GIT) | Local-first show-running host; co-host/Bookkeeper/Remember/memory UX terms preserved with technical boundaries. |
 | 56 | chatty-lab | WORKSPACE REFERENCE (NON-GIT) | Flutter educational management game; playful game/satire terminology preserved with game-state boundaries. |
 | 57 | chatty-mini-build-folder | WORKSPACE REFERENCE (NON-GIT) | Flutter/Android Chatty-mini build workspace; brain-file wording, model/memory/cloud-lane terms bounded. |
+| 58 | chatty-pet-mobile | WORKSPACE REFERENCE (UNBORN GIT ROOT) | Flutter mobile pet terrarium; truth/spine/child-safe/future-AI narration terms bounded without flattening store-facing language. |
 
 ## Repository Records
 
@@ -2044,6 +2045,61 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - No source commit was possible because `chatty-mini-build-folder` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
+
+### chatty-pet-mobile
+
+Status: WORKSPACE REFERENCE (UNBORN GIT ROOT)
+
+Audit scope:
+
+- `README.md`
+- `docs/ARCHITECTURE.md`
+- `docs/APP_IDENTITY.md`
+- `docs/PRIVACY_POLICY.md`
+- `docs/PLAY_STORE_METADATA.md`
+- `docs/REDUCER_SPEC.md`
+- `docs/ROADMAP.md`
+- `lib/`
+- generated Flutter build output, Gradle caches, and platform scaffolding excluded from terminology edits
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| reducer owns truth / UI renders truth | canonical game state / reducer-confirmed state | game architecture term retained and bounded | Preserved because it is the core deterministic state-governance rule. Source docs now state `truth` means canonical game state only, not an ontological or reality claim. |
+| RD Engine doctrine spine / reducer-owned spine | reducer/event design backbone | design metaphor retained and bounded | Preserved as lineage/design shorthand while clarifying that `spine` is not a cognition, agency, or autonomous-host claim. |
+| child-safe / parent-safe / safe defaults / honest child-safe surfaces | bounded child/family-oriented release goals | UX/store language retained and bounded | Preserved because these are ordinary store/product terms. Docs now define them as design and review goals, not legal certifications, age ratings, medical/safety claims, or guarantees for every family context. |
+| living pet | playful deterministic pet character | figurative store language retained | Preserved because it is ordinary readable product copy for a pet toy. Store metadata now clarifies it is figurative language, not a claim of sentience. |
+| future AI narration | decorative narration over confirmed events | future lane bounded | Preserved as roadmap language. Docs now state AI narration may decorate reducer-confirmed events but cannot create canonical game state. |
+| hidden widget-only memory | structured UI selection state | technical boundary retained | Preserved because the reducer spec correctly contrasts structured state with widget-local-only state, not model memory or hidden cognitive memory. |
+
+Files changed:
+
+- `../chatty-pet-mobile/README.md`
+- `../chatty-pet-mobile/docs/ARCHITECTURE.md`
+- `../chatty-pet-mobile/docs/APP_IDENTITY.md`
+- `../chatty-pet-mobile/docs/PRIVACY_POLICY.md`
+- `../chatty-pet-mobile/docs/PLAY_STORE_METADATA.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Chatty Pet`, `reducer owns truth`, `UI renders truth`, `RD Engine`, `spine`, `child-safe`, `parent-safe`, `safe defaults`, `living pet`, and future `AI narration` language remain intact with explicit boundaries.
+
+Historical/generated occurrences intentionally preserved: yes, `chatty-pet-start.md` and `chatty-pet-end-goal.md` were treated as project work-order/roadmap provenance and not rewritten; platform scaffolding and generated output were excluded.
+
+Tests/checks run:
+
+- Targeted search excluding build/cache output confirmed `truth`, `spine`, `child-safe`, `parent-safe`, `living pet`, and future AI narration language is bounded, provenance, ordinary UX/store language, or deterministic app architecture.
+- `flutter test` passed: 34 tests.
+- `flutter analyze` passed with no issues.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- The source folder is a git root, but `main` has no commits and all app files are untracked. No source commit was made because committing only modernization files would create a misleading partial first commit, while committing the entire app would exceed the terminology slice. The edited source docs remain in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
