@@ -1576,3 +1576,56 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `preference`, `memory`, `bias`, `mechanistic`, `malice`, `diagnostic`, `reasoning`, and `own preference-handling` language is bounded commentary/diagnostic language, not a consciousness or intent claim.
+
+### project-leviathan
+
+Status: ACTIVE WITH PRE-EXISTING UNTRACKED THEORY DOCS
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `RELEASE.md`
+- `RELATIONAL_PERMUTATION_ENGINE.md`
+- `DUAL_COLD_MEMORY_AND_DEEP_RECALL.md`
+- `SEMANTIC_ASSIMILATION_AND_WHY_LIBRARY.md`
+- `SEMANTIC_OBJECT_COMPILER.md`
+- `ASSUMPTION_FREEZE_AND_WORLDVIEW_BRANCHING.md`
+- `COGNITIVE_ECONOMY_GOVERNOR.md`
+- `HOST_TO_MODEL_RELATIONAL_ABSTRACTION_BRIDGE.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognition / memory / worldview / metacognition / reasoning | host-side architecture terms | cognition-broad framework language retained and bounded | Preserved because the repository is explicitly a host-side architecture specification; README and glossaries now state these are not claims of model consciousness, sentience, personhood, subjective experience, or self-owned truth. |
+| Cognitive Economy Governor | Reasoning Budget Governor / Cognitive Economy Governor | compatibility alias retained | Source name remains because it is a core document title; portal glossary already keeps the current technical alias while preserving the historical/source name. |
+| human-equivalent internal voice | engineering analogue of the human internal voice | anthropomorphic wording softened | Reworded in the governor doc to preserve the useful analogy while avoiding a literal human-equivalence claim. |
+| human-like deep-memory shape / human-like recall | engineering analogy for retrieval architecture | readable analogy retained | Preserved because `DUAL_COLD_MEMORY_AND_DEEP_RECALL.md` explicitly says it is not a literal neuroscience claim. |
+| understanding / intelligent / truth | operational understanding / host-owned truth boundaries | bounded framework language retained | Preserved where source explicitly says understanding is operational, the model does not own truth, and components are not truth engines. |
+| Host-to-Model Relational Abstraction Bridge / model-internalised abstraction | curriculum/evaluation bridge | experimental hypothesis retained | Preserved because the bridge doc frames internalisation as a testable training hypothesis and keeps host verification/audit layers in place. |
+
+Files changed:
+
+- `../project-leviathan/README.md`
+- `../project-leviathan/GLOSSARY.md`
+- `../project-leviathan/COGNITIVE_ECONOMY_GOVERNOR.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Project Leviathan`, `Cognitive Economy Governor`, `Reasoning Budget Governor`, `Dual Cold Memory`, `Deep Recall`, `Why Library`, `Semantic Object Compiler`, `Assumption Freeze`, `Worldview Branching`, and `Host-to-Model Relational Abstraction Bridge` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, document titles and theory vocabulary remain; pre-existing untracked theory docs were not staged or edited.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `human-like`, `cognition`, `memory`, `worldview`, `metacognition`, `truth`, `understanding`, `model-internalised`, and `semantic` language is bounded host-architecture, engineering analogy, or explicitly operational/testable hypothesis language.
+
+Worktree note:
+
+- Source repo still had pre-existing untracked files after this commit: `IMAGINATION_TRANSFORM_ATLAS_AND_LEARNING_LAW_PROBES.md`, `LEVIATHAN_BLIND_STAGE_REASONING_AND_CONTROLLED_NOVELTY_CALIBRATION.md`, `LEVIATHAN_COGNITIVE_GEARS_AND_TUNING_FORK_CALIBRATION.md`, `LEVIATHAN_CONNECTIVE_TISSUE_AND_MICRO_GOVERNANCE.md`, `LEVIATHAN_NEGATIVE_SPACE_FARMING_AND_PUB_TEST.md`, and `MEMORY_WORLDVIEW_AND_BOOPER_HYPOTHESIS.md`. They were not staged or modified by this terminology slice.
