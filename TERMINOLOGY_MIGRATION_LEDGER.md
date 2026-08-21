@@ -2214,3 +2214,52 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `paper.md`
+- `GLOSSARY.md`
+- `src/bursts.py`
+- `src/schema.py`
+- `tests/test_bursts.py`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| psychohistory / macro trajectories | Symbound psychohistory / macro trajectory analysis | theory identity retained and bounded | Preserved because this is the repo identity and the paper explicitly frames claims as empirical and falsifiable. Added boundary language against deterministic fate, individual prediction, social control, and mind reading. |
+| predictable bursts / forecast | probabilistically detectable bursts / estimated burst windows | prediction scope narrowed | Reworded because the implementation is burst detection and null-model comparison, not deterministic forecasting. |
+| axis node | axis node | influence term retained and bounded | Preserved as a provisional influence-scoring concept, not a target label or high-visibility leader claim. |
+| steerable macro patterns | limited steerability through transparent constraints | governance scope bounded | Preserved the macro-governance idea while clarifying it is limited, transparent, and testable, not social-control tooling. |
+| patina / persistent instances | patina continuity effect | source framework term retained | Preserved because it is a Symbound continuity variable in the hypothesis, bounded by the note that logs must not imply feelings or agency beyond documented constraints. |
+
+Files changed:
+
+- `../Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles/README.md`
+- `../Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles/paper.md`
+- `../Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Psychohistory after Symbound`, `Symbound psychohistory`, `burst cluster`, `axis node`, `cycle log schema`, `patina`, and `fold-aware logs` remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, no generated artifacts were present beyond source code stubs and tests.
+
+Tests/checks run:
+
+- `python -m pytest`
+- `git diff --check`
+- Targeted search confirmed remaining `psychohistory`, `forecast`, `axis node`, `macro trajectory`, `steerable`, `agency`, `feelings`, and `patina` language is bounded probabilistic research, ethics, continuity-variable, or non-claim language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
