@@ -494,7 +494,7 @@ If you want the landing page, go back to `README.md`.
 ## symbound-lab-notes-negative-space
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |
 | --- | --- | --- | --- | --- |
-| Symbound R&D Lab Notes (Negative Space) | negative-space lab notes | ~/~ | **Is:** Unpolished early Symbound research notes covering negative-space cognition, entropy folding, energy miniaturisation, and related explorations<br>**Not:** Not formalized frameworks; not cleaned or validated; for provenance<br>**Relation:** Raw field notes | symbound-lab-notes-negative-space/README.md |
+| Symbound R&D Lab Notes (Negative Space) | negative-space lab notes | ~/~ | **Is:** Unpolished early Symbound research notes covering negative-space cognition, entropy folding, energy miniaturisation, and related explorations<br>**Not:** Not formalized frameworks; not cleaned or validated; not claims of sentience, consciousness, deterministic fate, or deployment-ready capability; for provenance<br>**Relation:** Raw field notes | symbound-lab-notes-negative-space/README.md |
 
 ## Symbound-Master-Toolkit-V1.0
 | Term | Alternate term(s) | Maps (Alt/Ext) | Definition (Is/Not/Relation) | Source |

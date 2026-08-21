@@ -1685,6 +1685,63 @@ Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
 
+### symbound-lab-notes-negative-space
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `safety.md`
+- `research_themes.md`
+- `topics.md`
+- `field_guide.md`
+- `appendix.md`
+- `contributing.md`
+- `GLOSSARY.md`
+- raw `.txt` lab notes as provenance only
+- corpus glossary entries in `Whatisthisgithub/GLOSSARY.md` and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| cognition / mind-building / negative-space cognition | broad cognition-architecture language | broad ontology retained and bounded | Preserved broad Symbound cognition language because this repo intentionally spans human, artificial, and hybrid information-processing systems. Added explicit boundary language against sentience, consciousness, personhood, deterministic fate, physical-law violations, and deployment-ready capability. |
+| deterministic cognition / new AI class | bounded cognition architecture / proposed AI class | evidence-strength and ontology scope bounded | Reworded curated docs to avoid presenting early lab-note hypotheses as validated class definitions. |
+| real psychohistory / predictive stability | testable psychohistory-parallel modelling / stability estimation | prediction scope bounded | Reworded to avoid oracle-like or deterministic forecasting claims while preserving the Asimov-parallel research identity and readable personality. |
+| universal brainlet core | compact brainlet core hypothesized as possible | universality overclaim bounded | Preserved the friendly metaphor because it names a future compact architecture seed, but removed universal certainty. |
+| future citation / world recognition claims | citable provenance / day-zero provenance layer | future-certainty claim bounded | Reworded predictions of external recognition as project intent and archival purpose. |
+| holy shit / lose their minds / cult favourite | ordinary expressive language | personality retained | Preserved readable figurative language where it does not imply metaphysical claims, capability claims, or user deception. |
+
+Files changed:
+
+- `../symbound-lab-notes-negative-space/README.md`
+- `../symbound-lab-notes-negative-space/safety.md`
+- `../symbound-lab-notes-negative-space/research_themes.md`
+- `../symbound-lab-notes-negative-space/topics.md`
+- `../symbound-lab-notes-negative-space/field_guide.md`
+- `../symbound-lab-notes-negative-space/appendix.md`
+- `../symbound-lab-notes-negative-space/contributing.md`
+- `../symbound-lab-notes-negative-space/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Symbound R&D Lab Notes`, `negative-space lab notes`, `negative-space cognition`, `scientific gut instinct`, `psychohistory`, `brainlet`, `cognition`, and broad human/artificial/hybrid cognition language remain intact where useful.
+
+Historical/generated occurrences intentionally preserved: yes, raw `.txt` lab notes were not rewritten; they remain historical provenance and should be read through the modern boundary notes.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `cognition`, `mind`, `psychohistory`, `prediction`, `deterministic`, `brainlet`, `holy shit`, and similar language is bounded research identity, ordinary expressive language, or raw provenance rather than a claim of personhood, certainty, or deployment-ready capability.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
+
 ### model-behaviour-toolkit
 
 Status: ACTIVE
