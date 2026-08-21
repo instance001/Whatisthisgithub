@@ -1743,3 +1743,61 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### ef-engine
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `docs/00_core_idea.md`
+- `docs/01_drop_in_guide.md`
+- `docs/02_use_cases.md`
+- `ENTROPY_FOLDING_FAILURE_VAULT_TRIANGULATION_LOOP.md`
+- `EUREKA_CASCADE_EFFECT.md`
+- `src/engine.rs`
+- `src/save.rs`
+- `examples/minimal_failure_host.rs`
+- `examples/cascade_demo.rs`
+- `tests/generic_core.rs`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| Entropy Folding / entropy / folding | search-disorder to routing-structure framework | framework metaphor retained and bounded | Preserved because it is the repo's named implementation lane and theory vocabulary. Source docs now state it is local search-routing language, not a thermodynamic, biological, cognitive, sentience, or magical-insight claim. |
+| Constraint Metabolization / metabolize_constraint | constraint promotion / `metabolize_constraint` API | compatibility API and framework metaphor retained | Public API and examples remain stable. Docs now define metabolization as promoting evidenced failure into reusable constraints, not biology or cognition. |
+| Eureka Cascade | accelerated routing effect | framework term retained and bounded | Preserved because it names the observed compounding constraint effect. Source and corpus docs now state it is not sudden insight, consciousness, guaranteed global correctness, or magic. |
+| truthful failure / truthful stuckness / truthful progress | honest failure/stuckness reporting | ordinary technical shorthand retained | Preserved because the term describes not pretending success when a route cannot validly proceed; not a metaphysical truth claim. |
+| negative knowledge / negative memory / routing intelligence | reusable failure constraints / routing evidence | implementation language retained and bounded | Preserved because it describes stored failure evidence and constraint effects. It is not model cognition, sentience, or hidden learning. |
+| local-first agent orchestration | local-first orchestration | product/use-case phrase retained | Preserved as a broad workflow use case; this repo is still explicitly not a general agent framework or planner by itself. |
+
+Files changed:
+
+- `../ef-engine/README.md`
+- `../ef-engine/GLOSSARY.md`
+- `../ef-engine/docs/00_core_idea.md`
+- `../ef-engine/ENTROPY_FOLDING_FAILURE_VAULT_TRIANGULATION_LOOP.md`
+- `../ef-engine/EUREKA_CASCADE_EFFECT.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `EF Engine`, `Entropy Folding`, `Failure Vault`, `Triangulation`, `Metabolization`, `Eureka Cascade`, `metabolize_constraint`, and related code/example identifiers remain intact.
+
+Historical/generated occurrences intentionally preserved: yes, public API names, example output strings, generated JSON examples, and theory-document titles remain unchanged.
+
+Tests/checks run:
+
+- `cargo test`
+- `git diff --check`
+- Targeted search confirmed remaining `entropy`, `folding`, `metabolization`, `Eureka`, `truth`, `agent`, `intelligence`, and related language is bounded local search-routing terminology, stable API/example language, or ordinary technical shorthand.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
