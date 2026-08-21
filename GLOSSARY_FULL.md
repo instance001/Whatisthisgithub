@@ -110,6 +110,15 @@ If you want the landing page, go back to `README.md`.
 | Capsule (Chatty Host) | co-host capsule, character capsule | ~ | ~ | Prompt/persona configuration | Saved character/persona prompt text for the co-host lane | Not code, fine-tuning, policy enforcement, or canonical show state | chatty-host/README.md; chatty-host/docs/USER_MANUAL.md; chatty-host/src/character_capsules/mod.rs |
 | Cold Log / Memory proposals | cold_log.jsonl, review-only memory proposals | ~ | ~ | Local retrieval log and review queue | Append-only retrieval records and post-show proposal files that require review before being appended to Bookkeeper memory | Not hidden model memory; proposals are not appended automatically | chatty-host/docs/ARCHITECTURE.md; chatty-host/docs/USER_MANUAL.md; chatty-host/src/memory/mod.rs; chatty-host/src/post_show.rs |
 
+## chatty-lab
+| Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Chatty-Lab | chatty_lab | = | ~ | Educational simulation / management game | Standalone Flutter educational management game teaching broad AI workflow concepts through fictional customer jobs, reducer-owned state, and playful narration | Not a real AI toolchain, safety simulator, marketplace, or implementation of FMI tools inside the game | chatty-lab/README.md; chatty-lab/docs/ARCHITECTURE.md |
+| Reducer-owned truth | host owns truth, structured state stores truth | ~ | ~ | Deterministic game-state authority | Game architecture rule that reducer-confirmed structured state is canonical for gameplay, rewards, unlocks, and outcomes | Not a metaphysical claim about truth or reality; narration cannot override mechanics | chatty-lab/README.md; chatty-lab/docs/ARCHITECTURE.md; chatty-lab/docs/REDUCER_SPEC.md |
+| Safe profile/tag | Careful and Safe, safe behavior | ~ | ~ | Gameplay configuration stance | In-game conservative/dependable setting profile or tag used for scoring fictional jobs | Not a real-world AI safety certification, deployment guarantee, or policy assurance | chatty-lab/README.md; chatty-lab/docs/CONTENT_PLAN.md; chatty-lab/lib/content/game_content.dart |
+| StitchMind Workbench | stitchmind_workbench | = | ∅ | Internal fictional tool label | Fictional marketplace tool name inside the game content | Not a claim about minds, sentience, consciousness, personhood, or cognitive endpoints | chatty-lab/README.md; chatty-lab/docs/CONTENT_PLAN.md; chatty-lab/lib/content/game_content.dart |
+| Mirror Universe | mirror-universe continuity | ~ | ~ | Shared fictional continuity and satire guide | Satirical game-world continuity/tone packet where truth, memory, reality, timelines, and continuity are fictionalized as productized systems | Not metaphysical claims, surveillance memory, actual reality control, or AI consciousness | chatty-lab/docs/MIRROR_UNIVERSE_CANON.md; chatty-lab/docs/MIRROR_UNIVERSE_REFERENCE.md |
+
 ## chatty-art
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |

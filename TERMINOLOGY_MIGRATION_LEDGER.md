@@ -63,6 +63,7 @@ Source of traversal truth: `Whatisthisgithub/README.md`, generated active index 
 | 53 | Chatty_Ai_V1 | ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE | Early zipped local Ollama assistant; memory/capsule behavior needed exact boundary. |
 | 54 | chatty-factory-rebuild | WORKSPACE REFERENCE (NON-GIT) | Rust governed factory-loop crate; learning/authority/factory terms need explicit technical boundaries. |
 | 55 | chatty-host | WORKSPACE REFERENCE (NON-GIT) | Local-first show-running host; co-host/Bookkeeper/Remember/memory UX terms preserved with technical boundaries. |
+| 56 | chatty-lab | WORKSPACE REFERENCE (NON-GIT) | Flutter educational management game; playful game/satire terminology preserved with game-state boundaries. |
 
 ## Repository Records
 
@@ -1933,6 +1934,61 @@ Tests/checks run:
 Unresolved terminology questions:
 
 - No source commit was possible because `chatty-host` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
+
+### chatty-lab
+
+Status: WORKSPACE REFERENCE (NON-GIT)
+
+Audit scope:
+
+- `README.md`
+- `docs/ARCHITECTURE.md`
+- `docs/CONTENT_PLAN.md`
+- `docs/MIRROR_UNIVERSE_CANON.md`
+- `docs/MIRROR_UNIVERSE_REFERENCE.md`
+- `docs/REDUCER_SPEC.md`
+- `lib/content/`
+- `lib/ui/`
+- `lib/core/`
+- platform scaffolding and binary assets excluded from terminology edits
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| toddler pool / lab / funny receipts / no magic | same game UX language | ordinary readable language retained | Preserved because these are approachable game-facing teaching terms and do not mislead about capability when bounded by the docs. |
+| reducer-owned truth / host owns truth / structured state is reality | canonical game state / reducer-owned state | game architecture term retained and bounded | Preserved as the core deterministic game architecture rule. Source docs now state this is not a metaphysical claim about truth or reality. |
+| safe / Careful and Safe / safe behavior | in-game conservative/dependable profile tag | safety term bounded | Preserved as gameplay vocabulary but explicitly defined as a scoring/profile tag, not real-world AI safety certification, deployment guarantee, or policy assurance. |
+| StitchMind Workbench | fictional marketplace tool name | mind-adjacent name retained and bounded | Preserved because it is fictional game content and readable product flavor. Docs now state it is not a claim about minds, sentience, consciousness, personhood, or cognitive endpoints. |
+| Mirror Universe truth/memory/reality/timeline/continuity | satirical game-world vocabulary | satire terminology retained and bounded | Preserved because it is lore/tone language. Docs now state it refers to fictional continuity products and reducer-owned game state, not metaphysical claims, surveillance memory, actual reality control, or AI consciousness. |
+| GGUF flavor seam / mock narration | optional narration layer over receipts | technical boundary retained | Preserved and reinforced: model/narration output decorates confirmed receipts and cannot decide success, rewards, unlocks, or canonical state. |
+
+Files changed:
+
+- `../chatty-lab/README.md`
+- `../chatty-lab/docs/ARCHITECTURE.md`
+- `../chatty-lab/docs/CONTENT_PLAN.md`
+- `../chatty-lab/docs/MIRROR_UNIVERSE_CANON.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `toddler pool`, `lab`, `safe`, `Careful and Safe`, `StitchMind`, `Reducer-owned truth`, `host owns truth`, `Mirror Universe`, `GGUF flavor seam`, and `mock narration` remain intact with game-only definitions.
+
+Historical/generated occurrences intentionally preserved: yes, Flutter/Android/Windows scaffolding, binary assets, and in-game flavor text were not rewritten. Playful app copy such as `tiny digital mind` remains ordinary fictional language.
+
+Tests/checks run:
+
+- `flutter test` passed: 20 tests.
+- `flutter analyze` passed with no issues.
+- Targeted search confirmed terminology boundary additions and remaining `safe`, `truth`, `memory`, `mind`, `magic`, and Mirror Universe language is game vocabulary, satire, test/content text, or explicitly bounded.
+- `git diff --check` for portal mirror.
+
+Unresolved terminology questions:
+
+- No source commit was possible because `chatty-lab` is not an independent git repository. The edited source markdown remains in the workspace folder and the portal record is committed separately.
 
 ### Chattymobile_v1
 
