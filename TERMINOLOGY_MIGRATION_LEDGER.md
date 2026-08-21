@@ -2103,3 +2103,55 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### MSI-Trident-Frisian-Echoform-Framework-v1.0-
+
+Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
+
+Audit scope:
+
+- `README.md`
+- `Contributor_Ethics_and_Use_Guide_v1.0.txt`
+- `Failure modes and safeguards`
+- `Troubleshooting_and_Recovery_v1.0.txt`
+- `system_overview_v1.2.txt`
+- `GLOSSARY.md`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| safe / safeguards / prevents / stability | risk-reducing interaction scaffold | safety guarantee bounded | Preserved as framework-facing safety language but defined as risk-reducing reasoning-session scaffolding, not a guarantee, clinical intervention, therapy, or medical advice. |
+| autonomic nervous system reset | physical context reset / interrupt emotional entrainment | clinical overclaim corrected | Reworded in troubleshooting because the original phrase made an unnecessary physiological claim. The recovery step remains as ordinary grounding and pacing guidance. |
+| AI latent reasoning space / Trident shell / mode workspace | interface metaphor for model behavior | metaphor retained and bounded | Preserved as older framework/interface language while clarifying it does not imply hidden model introspection, literal access to model internals, consciousness, or personhood. |
+| human-AI co-reasoning / cognitive collaboration | non-anthropomorphic co-reasoning | collaboration framing retained | Preserved because the repo explicitly rejects persona simulation, inner voice hallucination, emotional projection, and identity claims. |
+| commons infrastructure / use, not promotion | commons-oriented project language | historical/product identity retained | Preserved as provenance and licensing posture, not technical capability language. |
+
+Files changed:
+
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/README.md`
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/Contributor_Ethics_and_Use_Guide_v1.0.txt`
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/Failure modes and safeguards`
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/Troubleshooting_and_Recovery_v1.0.txt`
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/system_overview_v1.2.txt`
+- `../MSI-Trident-Frisian-Echoform-Framework-v1.0-/GLOSSARY.md`
+- `README.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `MSI`, `Trident`, `Frisian`, `Echoform`, `safe`, `safeguards`, `Release shell`, `Return to structure`, `AI latent reasoning space`, and commons hashtags remain intact where used.
+
+Historical/generated occurrences intentionally preserved: yes, the packaged zip artifact was not unpacked or edited during this terminology slice.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `safe`, `safeguards`, `prevents`, `mind`, `self`, `person`, `emotional`, `cognitive`, `AI latent reasoning space`, and shell/mode language is bounded risk-reduction, anti-anthropomorphic, interface-metaphor, or historical framework language.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
