@@ -1682,3 +1682,64 @@ Tests/checks run:
 Worktree note:
 
 - Source repo was clean before this terminology slice and clean after commit.
+
+### model-behaviour-toolkit
+
+Status: ACTIVE
+
+Audit scope:
+
+- `README.md`
+- `GLOSSARY.md`
+- `CONTRIBUTING.md`
+- `docs/user-manual.md`
+- `docs/principles/non-anthropomorphic-collaboration.md`
+- `docs/theory/context-continuity.md`
+- `docs/legacy-inventory.md`
+- `docs/how-to-add-a-module.md`
+- `docs/deprecation-policy.md`
+- `modules/`
+- `bundles/`
+- `compact/`
+- `presets/`
+- `examples/`
+- `troubleshooting/`
+- `evaluation/`
+- corpus README/glossary entries in `Whatisthisgithub/README.md`, `Whatisthisgithub/GLOSSARY.md`, and `Whatisthisgithub/GLOSSARY_FULL.md`
+
+Terminology inventory:
+
+| Old term | Current canonical term | Classification | Decision |
+| --- | --- | --- | --- |
+| prompt/toolkit archives | Model Behaviour Toolkit | repo identity retained | Preserved as the current provider-neutral toolkit for prompt and interaction scaffolds. The repo already distinguishes modern active modules from legacy GPT-era archives. |
+| capsules / wands / catalyst / patina / instance | baseline / recovery / handoff / review / continuity | legacy terminology retired in active modules | Preserved only in legacy inventory, replacement notes, and negative examples. Active guidance continues to prefer plain module names. |
+| fake memory / hidden memory / continuity theater | explicit state / handoff / visible context | current technical boundary | Preserved and bounded: continuity comes from supplied state, artifacts, summaries, and handoffs, not claimed hidden recall. |
+| anthropomorphic theater / persona cult / simulated personhood | boundary-aware collaboration | negative boundary retained | Preserved because it marks what the toolkit avoids: false personhood, claimed feelings, dependency, awakening, or hidden agency. |
+| human and encouraging / warmth / friendly labels | natural user-facing tone | UX language retained and bounded | Preserved because these are ordinary UX/style terms. Source docs now explicitly state friendly labels and natural tone are acceptable when they do not mislead about capability, state, privacy, behaviour, memory, or personhood. |
+| cognitive patina / behavioural spine | context continuity through externalized state | archival theory rewritten | Preserved only as legacy concepts being translated; current theory says durable continuity comes from saved artifacts, reusable modules, and precise handoffs. |
+| cognitive-rebind-engine / soul-reanchor / oracle-persona | negative naming examples | intentionally preserved examples | Preserved as bad-example names in contributor docs to teach what not to add; not active recommended terminology. |
+
+Files changed:
+
+- `../model-behaviour-toolkit/README.md`
+- `../model-behaviour-toolkit/CONTRIBUTING.md`
+- `../model-behaviour-toolkit/docs/how-to-add-a-module.md`
+- `../model-behaviour-toolkit/GLOSSARY.md`
+- `GLOSSARY.md`
+- `GLOSSARY_FULL.md`
+- `TERMINOLOGY_MIGRATION_LEDGER.md`
+
+Identifiers changed: no
+
+Compatibility alias retained: yes, `Model Behaviour Toolkit`, `prompt`, `module`, `bundle`, `preset`, `example`, `session`, `drift`, `handoff`, `memory`, and archival terms such as `capsule` and `wand` remain where needed for provenance or user comprehension.
+
+Historical/generated occurrences intentionally preserved: yes, legacy repo names, source-file names, and negative examples remain in audit and contributor docs.
+
+Tests/checks run:
+
+- `git diff --check`
+- Targeted search confirmed remaining `consciousness`, `sentience`, `personhood`, `fake memory`, `hidden memory`, `human and encouraging`, `cognitive patina`, `behavioural spine`, and legacy naming hits are bounded active guidance, archival translation, ordinary UX language, or explicit negative examples.
+
+Worktree note:
+
+- Source repo was clean before this terminology slice and clean after commit.
