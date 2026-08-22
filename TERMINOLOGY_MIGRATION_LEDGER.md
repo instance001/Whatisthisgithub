@@ -2289,6 +2289,14 @@ Status: SKIPPED — provenance/reference only
 | `Symbound-Master-Toolkit-V1.0` | SKIPPED — provenance/reference only | Archived public toolkit; portal description now bounds non-current-product/non-model-hack/non-persistent-memory status. | none | `python scripts/generate_index.py`; `git diff --check` |
 | `Trident_abstract_simulation_wand_V1` | SKIPPED — provenance/reference only | Archived abstract-simulation prompt experiment; portal description now bounds non-sentience/non-output-correction/non-policy-bypass status. | none | `python scripts/generate_index.py`; `git diff --check` |
 
+### Final anti-flattening preservation sweep
+
+Status: COMPLETE
+
+| Classification | Key terminology decision | Source commit | Validation |
+| --- | --- | --- | --- |
+| Current portal/glossary surfaces and migration-touched source docs | No further replacements made. Preserved bounded readable/product/theory language including `one mind to another`, `gold standard`, `cognitive prosthetic`, `hybrid cognition`, `Hot Memory`, `Memory Jogger`, `Bookkeeper`, `cold memory`, and `system learns`; confirmed `brain file` remains represented only as an alias for `GGUF model file`. | none | Targeted `rg` sweep over portal/glossaries and migration-touched source docs; no new over-flattening fix required. |
+
 ### cognitive_reactor_stress_tests
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE
