@@ -237,13 +237,14 @@ Tests/checks run:
 
 - Search across `README.md` and `observations/` confirmed `hybrid cognition` is absent from editable Markdown and the Semantic reachability definition uses `one mind to another`.
 - DOCX XML extraction confirmed the Semantic reachability definition uses `one mind to another`; a separate ordinary `one person` occurrence remains elsewhere in the paper.
-- PDF page 5 rendered with Poppler after a targeted visual overlay; visual inspection confirmed the visible PDF definition line now reads `one mind to another`.
-- Full PDF Poppler render confirmed 11 pages present and nonblank; contact-sheet visual scan showed the document remained coherent after the PDF rewrite.
-- PDF extraction remains a mismatch because the PDF was visually patched without a DOCX-to-PDF converter; the visible PDF is not a fully modernized canonical artifact.
+- Earlier PDF page 5 visual overlay was superseded by source-derived regeneration in `collapse-of-the-semantic-middle` commit `51159a9`.
+- Regenerated PDF text-layer extraction now returns `one mind to another` exactly once, `one person to another` zero times, and no overlay artifacts such as `oonnee` / `mpeirnsdo`.
+- Full regenerated PDF render produced 10 nonblank pages; contact-sheet visual scan showed the document remained coherent after regeneration.
+- DOCX-to-PDF conversion via Word/LibreOffice was unavailable in the local environment, so the PDF was rebuilt from the corrected DOCX content with ReportLab and validated against all DOCX paragraph/table-cell text.
 
 Unresolved terminology questions:
 
-- Regenerate `collapse_of_the_semantic_middle_v0_3.pdf` from the corrected DOCX/source in an environment with LibreOffice, Word, or another proper exporter so the hidden/extracted PDF text layer matches the visible page text.
+- None for the Semantic reachability PDF hidden-text mismatch; resolved by `collapse-of-the-semantic-middle` commit `51159a9`.
 
 General audit rule carried forward: modernization must not accidentally narrow ontology. Cognition-neutral or cognition-broad terms should not be replaced merely because they could be read anthropomorphically; first inspect whether the local definition is human-only, artificial, hybrid, or substrate-agnostic.
 
