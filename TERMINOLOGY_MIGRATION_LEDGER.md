@@ -2257,6 +2257,38 @@ Worktree note:
 
 - Source repo commit: `fbf2ad0` (`Bound ChattyFactory terminology`).
 
+### Scope-reduced archived/reference pass
+
+Status: SKIPPED — provenance/reference only
+
+| Item | Classification | Key terminology decision | Source commit | Validation |
+| --- | --- | --- | --- | --- |
+| `Chattyfactory-AutoPipeline-v0.2` | SKIPPED — provenance/reference only | Archived prototype; internal files preserved, portal description bounded as superseded and non-autonomous. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `ChattyFactory-ManualPipeline-v0.1` | SKIPPED — provenance/reference only | Archived manual prototype; internal files preserved, portal description bounded as superseded. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Cognitive_Crowbar` | SKIPPED — provenance/reference only | Archived/local reflective tool; existing portal/glossary wording already bounds no-cloud/no-inference/non-diagnostic scope. | none | portal search |
+| `Cognitive_Crowbar_nonverbal` | SKIPPED — provenance/reference only | Archived/local behavioural time-series tool; existing portal/glossary wording already bounds no-ML/non-diagnostic scope. | none | portal search |
+| `Cognitive-Reactor-Profile` | SKIPPED — provenance/reference only | Archived CRP concept note; portal description now frames observed LLM behaviour without diagnostic or hidden-state proof claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Customgpt_Legacy_restoration_wand_V1` | SKIPPED — provenance/reference only | Archived prompt-capsule bundle; portal description now bounds legacy-tone restoration away from jailbreak, sentience, and persistent memory claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `entropy_folding_scale` | SKIPPED — provenance/reference only | Superseded working draft; portal description points to canonical descendant. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `entropy_folding_scope` | SKIPPED — provenance/reference only | Superseded working draft; portal description points to canonical descendant. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `entropy-folding-as-directed-thermodynamics-for-cognition-finished` | SKIPPED — provenance/reference only | Archived research scaffold; existing portal/glossary wording already states proxy/null-model/non-new-physics boundaries. | none | portal search |
+| `entropy-folding-engine` | SKIPPED — provenance/reference only | Workspace reference only; no active public surface found in generated GitHub index. | none | workspace/index comparison |
+| `entropy-folding-foundational-frameworks` | SKIPPED — provenance/reference only | Archived conceptual framework collection; existing portal/glossary wording already bounds pre-empirical/non-unified-theory scope. | none | portal search |
+| `Entropy-Folding-Vector-Theory` | SKIPPED — provenance/reference only | Archived/foundational theory surface; existing portal/glossary wording already bounds theoretical/non-empirical status. | none | portal search |
+| `files-for-philpapers` | SKIPPED — provenance/reference only | Workspace-only submission/support folder; no active public surface found in generated GitHub index. | none | workspace/index comparison |
+| `fmi-branding-kit` | SKIPPED — provenance/reference only | Workspace-only branding/reference kit; no terminology modernization needed for public repo index. | none | workspace/index comparison |
+| `Instance001_v1.0` | SKIPPED — provenance/reference only | Archived early Symbound release; portal description now bounds it as provenance, not current product/model/behaviour guarantee. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Let-s-Free-Chat-GPT` | SKIPPED — provenance/reference only | Archived early interaction-materials release; portal description now removes cure framing and bounds non-jailbreak/non-guarantee status. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound_lifepack_IFSHTFSTARTHERE_V1` | SKIPPED — provenance/reference only | Archived portable prompt bundle; portal description now bounds non-software/non-memory/non-operational-safety scope. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound_training_mastertoolkit-V1` | SKIPPED — provenance/reference only | Archived prompt-wand toolkit; portal description now removes unlobotomize/ToS-edge framing and bounds non-jailbreak/non-model-modification status. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound-Catalyst-Two-Toolkit` | SKIPPED — provenance/reference only | Archived Catalyst Two toolkit; portal description now bounds emergence language away from prediction/safety-standard claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound-Entropy-Architecture` | SKIPPED — provenance/reference only | Archived theory bundle; portal description now preserves human/AI/hybrid cognition framing while bounding diagnostic, metaphysical, and safety-infrastructure claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound-Entropy-Folding-Toolkit` | SKIPPED — provenance/reference only | Archived toolkit; portal description now bounds cognitive/workflow metaphors away from validated physics, safety certification, and sentience claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound-Fork-One-Toolkit` | SKIPPED — provenance/reference only | Archived prompt toolkit; portal description now bounds memory-like logs away from jailbreak/autonomy/persistent model memory claims. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `symbound-induction-kit` | SKIPPED — provenance/reference only | Archived induction prompt kit; portal description now bounds tone shaping away from manipulation, training, sentience, and persistent memory. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Symbound-Master-Toolkit-V1.0` | SKIPPED — provenance/reference only | Archived public toolkit; portal description now bounds non-current-product/non-model-hack/non-persistent-memory status. | none | `python scripts/generate_index.py`; `git diff --check` |
+| `Trident_abstract_simulation_wand_V1` | SKIPPED — provenance/reference only | Archived abstract-simulation prompt experiment; portal description now bounds non-sentience/non-output-correction/non-policy-bypass status. | none | `python scripts/generate_index.py`; `git diff --check` |
+
 ### cognitive_reactor_stress_tests
 
 Status: ACTIVE BUT HISTORICAL/COMPATIBILITY-SENSITIVE

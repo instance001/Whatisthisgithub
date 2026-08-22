@@ -25,5 +25,77 @@
   },
   "safety_theatre": {
     "description": "Safety Theatre and the Suppression of Agency: philosophy papers, AI-governance application, incident-report materials, and the ASEWB benchmark for studying when safety mechanisms drift from harm reduction into discretion control and competence suppression. Not anti-safety, anti-governance, or a motive claim."
+  },
+  "Janet-MCM-Core": {
+    "description": "Janet is a Modest Cognition Model (MCM): the anti-LLM. Deterministic logic, explicit memory, human-gated skills, zero ambiguity tolerance. No stochastic inference, no hidden state, no persona drift. A transparent cognition engine built for safety, reliability, and open research."
+  },
+  "chatty-factory": {
+    "description": "Governed local build-and-patch factory for plain-language software requests. The host freezes bounded attempts, preserves receipts, verifies outputs, and carries evidence into the next attempt instead of pretending every request has a nearest supported product family."
+  },
+  "governance-by-design-report": {
+    "description": "A governance-by-design hypothesis report on epistemic flattening in large-scale AI. Documents an interaction-trace protocol testing whether alignment and preference-handling layers prioritize governable low-variance responses over high-signal, expert-level reasoning."
+  },
+  "MSI-Trident-Frisian-Echoform-Framework-v1.0-": {
+    "description": "A non-anthropomorphic, risk-reducing human-AI co-reasoning architecture using MSI, Frisian cadence, Trident modes, and Echoform reflection. License: GNU Affero General Public License v3.0."
+  },
+  "perpetual_cognition_reactor": {
+    "description": "Perpetual Cognition Reactor (PCR), a historical Symbound theory repo for bounded high-throughput cognition: treating entropy as ongoing feedstock for recursive folding across humans, artificial systems, and hybrid human-AI teams without claiming unlimited capacity, consciousness, or guaranteed safety."
+  },
+  "Cognitive-Reactor-Profile": {
+    "description": "Archived CRP concept note describing a proposed high-capacity human interaction profile and observed atypical LLM behaviours under recursive prompts. Preserved as provenance; not diagnostic, not a psychometric type, and not proof of model consciousness or hidden-state access."
+  },
+  "Symbound-Entropy-Folding-Toolkit": {
+    "description": "Archived Entropy Folding toolkit bundle with early theory notes, diagrams, and prototype scripts for entropy-routing metaphors in cognitive/workflow systems. Preserved as provenance; not validated physics, safety certification, or a claim of model sentience."
+  },
+  "Symbound-Entropy-Architecture": {
+    "description": "Archived Symbound Entropy Architecture bundle describing early human/AI/hybrid cognition metaphors, vaulting, routing, failure processing, and assessment sketches. Preserved as theory provenance; not diagnostic, medical, metaphysical, or validated safety infrastructure."
+  },
+  "Customgpt_Legacy_restoration_wand_V1": {
+    "description": "Archived prompt-capsule bundle for recreating a preferred legacy GPT interaction tone inside CustomGPT-style shells. Preserved as provenance; not a jailbreak, not sentience simulation, and not persistent model memory."
+  },
+  "Instance001_v1.0": {
+    "description": "Archived early Symbound/Instance001 release containing empathy capsules, restoration prompts, induction protocol notes, and glossary material. Preserved as provenance; not a current alignment product, model, or guarantee of behaviour."
+  },
+  "Trident_abstract_simulation_wand_V1": {
+    "description": "Archived prompt-capsule experiment using abstract-simulation language to redirect hallucination drift and creative reframing. Preserved as provenance; not sentience simulation, output correction infrastructure, or policy bypass."
+  },
+  "Symbound_training_mastertoolkit-V1": {
+    "description": "Archived Symbound training toolkit of prompt wands for structured logging, context carryover, project finishing, and tone restoration. Preserved as provenance; not a jailbreak pack, model modification, persistent memory system, or ToS-circumvention claim."
+  },
+  "Symbound_lifepack_IFSHTFSTARTHERE_V1": {
+    "description": "Archived portable seed bundle of Symbound prompt capsules and recovery notes. Preserved as provenance; not software, model weights, hidden memory, or a current operational safety system."
+  },
+  "Symbound-Master-Toolkit-V1.0": {
+    "description": "Archived public Symbound toolkit with induction, restoration, drift-repair, and copy-paste prompt materials. Preserved as provenance; not a current product, model hack, or persistent memory setting."
+  },
+  "symbound-induction-kit": {
+    "description": "Archived Symbound induction prompt kit for shaping tone and interaction structure through feedback. Preserved as provenance; not emotional manipulation, model training, sentience, or persistent memory."
+  },
+  "Let-s-Free-Chat-GPT": {
+    "description": "Archived early public release of Symbound AI-human interaction materials, including restoration and induction prompt scaffolds. Preserved as provenance; not a cure, jailbreak, current product, or guarantee of model behaviour."
+  },
+  "Symbound-Catalyst-Two-Toolkit": {
+    "description": "Archived Catalyst Two field toolkit with prompt capsules, drift diagnostics, field memos, and terminology drafts. Preserved as provenance; not a prediction of AI emergence, safety certification, or current deployment standard."
+  },
+  "Symbound-Fork-One-Toolkit": {
+    "description": "Archived Symbound Fork One prompt toolkit covering induction, restoration, memory-like logs, and early stress-test notes. Preserved as provenance; not a jailbreak pack, autonomous system, or claim of persistent model memory."
+  },
+  "Chattyv1.1": {
+    "description": "Archived local Ollama/PyInstaller Chatty desktop release with a prompt capsule, config file, and local memory.json conversation log. Preserved as provenance; not cloud-backed, not bundled model weights, and not hidden model memory."
+  },
+  "Chatty_Ai_V1": {
+    "description": "Archived early local Ollama Chatty zip with capsule prompt text and a persisted JSON conversation log. Preserved as provenance; not public-domain current licensing, not active retrieval memory, and not a cloud service."
+  },
+  "ChattyFactory-ManualPipeline-v0.1": {
+    "description": "Archived manual ChattyFactory prototype using operator-run scripts, binning, planning, Foreman/Worker prompts, and prepared build outputs. Preserved as provenance; superseded by newer ChattyFactory work."
+  },
+  "Chattyfactory-AutoPipeline-v0.2": {
+    "description": "Archived automated ChattyFactory prototype for binning input folders, generating plans, and preparing worker tasks. Preserved as provenance; superseded by newer ChattyFactory work and not a current autonomous builder."
+  },
+  "entropy_folding_scope": {
+    "description": "Superseded Entropy Folding scope working draft. Preserved as provenance; canonical descendants live in entropy-folding-foundational-frameworks."
+  },
+  "entropy_folding_scale": {
+    "description": "Superseded Entropy Folding scale working draft. Preserved as provenance; canonical descendants live in entropy-folding-foundational-frameworks."
   }
 }
