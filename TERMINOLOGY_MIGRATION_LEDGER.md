@@ -2863,6 +2863,7 @@ Files changed:
 
 - `../relational-curriculum-geometry/README.md`
 - `../relational-curriculum-geometry/Relational-Curriculum-Geometry-Hypothesis.md`
+- `../relational-curriculum-geometry/Relational-Curriculum-Geometry-Hypothesis.pdf`
 - `../relational-curriculum-geometry/Relational-Curriculum-Geometry-Primer.md`
 - `../relational-curriculum-geometry/GLOSSARY.md`
 - `GLOSSARY.md`
@@ -2879,10 +2880,11 @@ Tests/checks run:
 
 - `git diff --check`
 - Targeted search confirmed remaining `learn`, `reason`, `cognitive landscape`, `internal handles`, `safety`, `team member`, and spatial metaphor language is bounded ML-training hypothesis language, role-discipline framing, or ordinary readable metaphor.
+- PDF artifact added in source commit `8dd9f80`; text-layer extraction confirmed the title, terminology boundary, `latent-space urban planning`, and `Better rooms, roads, walls, doors, and limbs` are present with no overlay artifacts; pypdfium2 render produced 12 nonblank pages and contact-sheet visual scan passed.
 
 Worktree note:
 
-- Source repo was clean before this terminology slice and clean after commit.
+- Source repo was clean before this terminology slice and clean after commits `5da8143` and `8dd9f80`.
 
 ### governance-by-design-report
 
