@@ -1963,7 +1963,7 @@ Terminology inventory:
 | toddler pool / lab / funny receipts / no magic | same game UX language | ordinary readable language retained | Preserved because these are approachable game-facing teaching terms and do not mislead about capability when bounded by the docs. |
 | reducer-owned truth / host owns truth / structured state is reality | canonical game state / reducer-owned state | game architecture term retained and bounded | Preserved as the core deterministic game architecture rule. Source docs now state this is not a metaphysical claim about truth or reality. |
 | safe / Careful and Safe / safe behavior | in-game conservative/dependable profile tag | safety term bounded | Preserved as gameplay vocabulary but explicitly defined as a scoring/profile tag, not real-world AI safety certification, deployment guarantee, or policy assurance. |
-| StitchMind Workbench | fictional marketplace tool name | mind-adjacent name retained and bounded | Preserved because it is fictional game content and readable product flavor. Docs now state it is not a claim about minds, sentience, consciousness, personhood, or cognitive endpoints. |
+| StitchMind Workbench | fictional marketplace tool name | mind-adjacent name retained and bounded | Preserved because it is fictional game content and readable product flavor. Docs now state it is not a claim about literal minds, sentience, consciousness, or personhood. |
 | Mirror Universe truth/memory/reality/timeline/continuity | satirical game-world vocabulary | satire terminology retained and bounded | Preserved because it is lore/tone language. Docs now state it refers to fictional continuity products and reducer-owned game state, not metaphysical claims, surveillance memory, actual reality control, or AI consciousness. |
 | GGUF flavor seam / mock narration | optional narration layer over receipts | technical boundary retained | Preserved and reinforced: model/narration output decorates confirmed receipts and cannot decide success, rewards, unlocks, or canonical state. |
 
@@ -2295,7 +2295,7 @@ Status: COMPLETE
 
 | Classification | Key terminology decision | Source commit | Validation |
 | --- | --- | --- | --- |
-| Current portal/glossary surfaces and migration-touched source docs | No further replacements made. Preserved bounded readable/product/theory language including `one mind to another`, `gold standard`, `cognitive prosthetic`, `hybrid cognition`, `Hot Memory`, `Memory Jogger`, `Bookkeeper`, `cold memory`, and `system learns`; confirmed `brain file` remains represented only as an alias for `GGUF model file`. | none | Targeted `rg` sweep over portal/glossaries and migration-touched source docs; no new over-flattening fix required. |
+| Current portal/glossary surfaces and migration-touched source docs | Preserved bounded readable/product/theory language including `one mind to another`, `gold standard`, `cognitive prosthetic`, `hybrid cognition`, `Hot Memory`, `Memory Jogger`, `Bookkeeper`, `cold memory`, and `system learns`; softened Chatty-Lab `cognitive endpoints` boundary wording to `literal minds, sentience, consciousness, or personhood`; confirmed `brain file` remains represented only as an alias for `GGUF model file`. | none | Targeted `rg` sweep over portal/glossaries and migration-touched source docs; portal `git diff --check`. |
 
 ### cognitive_reactor_stress_tests
 
