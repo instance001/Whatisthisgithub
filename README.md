@@ -137,7 +137,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-08-26T03:50:35Z`_
+_Last updated: `2026-08-27T13:42:41Z`_
 
 Total public repos indexed for **@instance001**: **77**
 
@@ -145,10 +145,10 @@ Total public repos indexed for **@instance001**: **77**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-26 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-26 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-08-26 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-08-25 |
 | [chatty-factory-rebuild](https://github.com/instance001/chatty-factory-rebuild) | Chasing down a white whale... | Rust | 2026-08-25 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-08-25 |
 | [relational-curriculum-geometry](https://github.com/instance001/relational-curriculum-geometry) | Testing whether LLMs learn better from structured curriculum geometry: data ordered by domain, complexity, relation, boundary cases, uncertainty, role discipline, and multithread reasoning instead of random bulk exposure. |  | 2026-08-22 |
 | [ecg_window](https://github.com/instance001/ecg_window) | A tiny, honest activity monitor for long-running local jobs. Shows users the machine is alive and working. Drop-in for any stack. AGPLv3  -  the window stays honest, what's behind it is your business. |  | 2026-08-22 |
 | [chatty-pet](https://github.com/instance001/chatty-pet) | Local-first Flutter pet care toy by Fractal Media Infrastructure. No ads, no in-app purchases, no account required. | Dart | 2026-08-22 |
