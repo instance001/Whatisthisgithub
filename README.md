@@ -137,7 +137,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-09-04T07:40:23Z`_
+_Last updated: `2026-09-05T07:22:05Z`_
 
 Total public repos indexed for **@instance001**: **69**
 
@@ -145,8 +145,8 @@ Total public repos indexed for **@instance001**: **69**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-04 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-03 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-05 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-04 |
 | [chatty-factory-rebuild](https://github.com/instance001/chatty-factory-rebuild) | Chasing down a white whale... | Rust | 2026-08-28 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking. | Python | 2026-08-28 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-08-28 |
