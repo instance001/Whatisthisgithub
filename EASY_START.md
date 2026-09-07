@@ -47,6 +47,7 @@ In the current tool repos, local-first means the local path is real and not a fa
 | --- | --- | --- | --- |
 | The overall corpus at a glance | `README.md` in `Whatisthisgithub` | `EASY_START.md`, `ABOUT_FRACTAL_MEDIA_INFRASTRUCTURE` | Best high-level orientation before choosing a lane. |
 | The public FMI website, app support, or store-facing surfaces | `instance001.github.io` | `app-support.html`, `google-play.html`, `projects.html` | Best first stop for the public organization surface, GitHub Pages site, support links, and Google Play release pages. |
+| Public FMI preprints | `fmi-research-papers` | The linked topic repositories in each paper | Best first stop for the outward-facing, clearly marked not-peer-reviewed preprint corpus across the research lanes. |
 | Current host-side memory / reasoning architecture | `project-leviathan` | `ef-engine`, `rd-engine`, `llm-defined-persistent-memory`, `semantic-signal-alphabet` | Best first stop for the newest document-only architecture bundle around evidence-first memory, relational comparison, assumption freeze, and earned abstraction. |
 | Everyday local AI desktop assistant | `chatty-cog` | `chatty-edu`, `chatty-art`, `chatty-factory` | `chatty-cog` is the current general local assistant shell and the clearest "daily-use" surface. |
 | Small-phone Android local GGUF chat | `chatty-mini` | `chatty-cog`, `llm-defined-persistent-memory`, `project-leviathan` | Best first stop if you want the compact mobile chat app with imported GGUF models, local storage, personas, and sandbox files. |
@@ -56,7 +57,7 @@ In the current tool repos, local-first means the local path is real and not a fa
 | Local-first mobile pet / care toy | `chatty-pet` | `rd-engine`, `chatty-quest` | Best first stop if you want a small local-first consumer app showing the newer reducer-governed UI/game-loop doctrine in a lighter mobile form. |
 | Local LoRA training / dataset curation | `chatty-lora` | `chatty-art` | Start here if the goal is training, dataset cleanup, or Wan/Musubi plan prep, with helper lanes that can stay local or use BYO cloud providers by choice. |
 | Local LLM build suite: tweaking, quantizing, training | `nanochat-llm-tweaker` | `chatty-lora`, `chatty-cog` | Best first stop if you want a guided local suite for corpus prep, tokenizer work, base-model training, quantization, checkpoint testing, and related builder workflows. |
-| Plain-language software generation / patching | `chatty-factory` | `chatty-cog`, archived `chattyfactory` | Current project-factory surface; use this, not the older similarly named archive, for present-day direction. |
+| Local agentic software building / patching | `chatty-factory-rebuild` | `chatty-factory`, `chatty-cog` | Start with the newer active build-system implementation. `chatty-factory` remains the related governed workflow and architecture surface; the older `chattyfactory` repo is archived. |
 | How to work better with AI in general | `ai-teaming-framework` | `model-behaviour-toolkit` | `ai-teaming-framework` is the clearest beginner-to-advanced interaction guide. |
 | Provider-neutral prompting / drift recovery / better sessions | `model-behaviour-toolkit` | `ai-teaming-framework`, `chatty-cog` | Best modernized prompt-and-behaviour toolkit in the corpus. |
 | Honest tiny activity monitor for local jobs | `ecg_window` | `chatty-art`, `chatty-lora`, `chatty-cog` | Small, self-contained, practical utility repo. |
@@ -73,6 +74,7 @@ In the current tool repos, local-first means the local path is real and not a fa
 | Deterministic modular architecture / formerly MCM implementation | `Janet-MCM-Core` | `historical-janet-school-exploratory-build` | `Janet-MCM-Core` is the cleaner conceptual anchor; the school build is historical exploratory machinery. |
 | Current Janet-school cognition / training-ground implementation lane | `janet-school` | `Janet-MCM-Core`, `historical-janet-school-exploratory-build` | Start here if you want the newer school-facing Janet implementation surface, with the core and historical exploratory repo as context. |
 | Curriculum-shape research for smaller LLMs | `relational-curriculum-geometry` | `janet-school`, `cognition-mesh-test-chamber` | Best first stop if you want the early hypothesis lane testing whether ordering, grouping, boundary cases, and relational placement in training data change how small models learn and transfer. |
+| Comparative religious authority and correction structures | `cognitive_theology` | `fmi-research-papers` | A bounded structural-analysis archive on authority distribution, canon formation, variation management, and institutional coherence; it does not make theological claims or value judgments. |
 | Human-side profiling / strain effects on LLMs | `Cognitive-Reactor-Profile` | `cognitive_reactor_stress_tests` | Profile defines the construct; stress tests probe it. |
 | Foundational entropy-folding theory | `entropy-folding-eureka-cascade-hypothesis` | `entropy-folding-cross-domain-signal-atlas`, `entropy-folding-foundational-frameworks` | Best current hypothesis-first entry point for this theory cluster. |
 | Evidence / provenance / signal mapping for that theory | `entropy-folding-cross-domain-signal-atlas` | `entropy-folding-eureka-cascade-hypothesis` | Use this if you want the signal map rather than the hypothesis entry point first. |
@@ -87,6 +89,7 @@ In the current tool repos, local-first means the local path is real and not a fa
 If you do not want to wander through the full repo history, these are the strongest current entry points:
 
 - `instance001.github.io`
+- `fmi-research-papers`
 - `project-leviathan`
 - `chatty-cog`
 - `chatty-mini`
@@ -94,6 +97,7 @@ If you do not want to wander through the full repo history, these are the strong
 - `chatty-lora`
 - `nanochat-llm-tweaker`
 - `chatty-factory`
+- `chatty-factory-rebuild`
 - `chatty-quest`
 - `chatty-pet`
 - `ef-engine`
@@ -117,6 +121,8 @@ Pick one of these routes:
 
 - Public / app-support route:
   `instance001.github.io` -> `google-play.html` -> `app-support.html`
+- Public research route:
+  `fmi-research-papers` -> one paper in your area -> its linked topic repository
 - Local tools route:
   `chatty-cog` -> `chatty-mini` -> `chatty-pet` -> `chatty-art`
 - AI interaction route:
@@ -169,25 +175,27 @@ If you want a balanced overview without getting lost:
 1. `Whatisthisgithub/README.md`
 2. `Whatisthisgithub/GLOSSARY.md`
 3. `instance001.github.io`
-4. `ai-teaming-framework`
-5. `model-behaviour-toolkit`
-6. `chatty-cog`
-7. `chatty-mini`
-8. `chatty-art`
-9. `chatty-lora`
-10. `nanochat-llm-tweaker`
-11. `chatty-factory`
-12. `chatty-pet`
-13. `project-leviathan`
-14. `ef-engine`
-15. `rd-engine`
-16. `llm-semantic-dataset-sorter`
-17. `cognition-mesh-test-chamber`
-18. `semantic-signal-alphabet`
-19. `llm-defined-persistent-memory`
-20. `janet-school`
-21. `relational-curriculum-geometry`
-22. `entropy-folding-eureka-cascade-hypothesis`
+4. `fmi-research-papers`
+5. `ai-teaming-framework`
+6. `model-behaviour-toolkit`
+7. `chatty-cog`
+8. `chatty-mini`
+9. `chatty-art`
+10. `chatty-lora`
+11. `nanochat-llm-tweaker`
+12. `chatty-factory-rebuild`
+13. `chatty-factory`
+14. `chatty-pet`
+15. `project-leviathan`
+16. `ef-engine`
+17. `rd-engine`
+18. `llm-semantic-dataset-sorter`
+19. `cognition-mesh-test-chamber`
+20. `semantic-signal-alphabet`
+21. `llm-defined-persistent-memory`
+22. `janet-school`
+23. `relational-curriculum-geometry`
+24. `entropy-folding-eureka-cascade-hypothesis`
 
 That order gets you:
 
