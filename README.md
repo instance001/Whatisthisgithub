@@ -139,7 +139,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-09-07T07:52:58Z`_
+_Last updated: `2026-09-08T07:47:32Z`_
 
 Total public repos indexed for **@instance001**: **70**
 
@@ -147,8 +147,8 @@ Total public repos indexed for **@instance001**: **70**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-07 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-07 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-07 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-09-06 |
 | [chatty-factory-rebuild](https://github.com/instance001/chatty-factory-rebuild) | Chasing down a white whale... | Rust | 2026-08-28 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking. | Python | 2026-08-28 |
