@@ -139,16 +139,17 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-09-13T07:58:13Z`_
+_Last updated: `2026-09-14T08:30:55Z`_
 
-Total public repos indexed for **@instance001**: **70**
+Total public repos indexed for **@instance001**: **71**
 
 ## Active Repositories
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-12 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-12 |
+| [chatty-venture](https://github.com/instance001/chatty-venture) | Private-first AI text adventures for Android  -  structured stories, editable Free Mode, local GGUF, and optional cloud narration. | C++ | 2026-09-14 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-14 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-13 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-09-10 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | Chatty-Cog is the everyday local-first desktop assistant shell for Chatty tools: local GGUF and optional BYO cloud models, sandboxed file work, modules, Bookkeeper context support, audit history, rolling summaries, active context, and trusted peer-to-peer handoff lanes. | Rust | 2026-09-09 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-09-09 |
@@ -189,8 +190,8 @@ Total public repos indexed for **@instance001**: **70**
 | [safety_theatre](https://github.com/instance001/safety_theatre) | Safety Theatre and the Suppression of Agency: philosophy papers, AI-governance application, incident-report materials, and the ASEWB benchmark for studying when safety mechanisms drift from harm reduction into discretion control and competence suppression. Not anti-safety, anti-governance, or a motive claim. | TeX | 2026-08-22 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public user-focused Chatty-EDU release, aligned with source v0.4. Prebuilt Windows app for click-and-run use, offline-first by default with local data and no accounts. |  | 2026-08-22 |
 | [symbound-lab-notes-negative-space](https://github.com/instance001/symbound-lab-notes-negative-space) | Early Symbound R&D lab notes on negative-space cognition, entropy folding, and energy miniaturisation  -  raw cross-domain theory kernels (AGPLv3). |  | 2026-08-22 |
-| [AiBiogenesis_and_AiGenesisMapping](https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping) | Grassroots AI biogenesis + genesis mapping  -  open, safe, reproducible. This repo hosts the Symbound Embryo POC v1.0 (SIGNED), the first grassroots AI biogenesis release. It shows how new AI can be created outside corporate labs and the process mapped, verified, and shared. |  | 2026-08-22 |
 | [Symbound-UAE-GVS](https://github.com/instance001/Symbound-UAE-GVS) | Universal Analogy Enforcement (UAE) + Global Vector Sweep (GVS)  -  the Symbound open commons discovery engine. AGPLv3 + Symbound Commons Addendum. All outputs are public prior art, unpatentable, and non-enclosable. |  | 2026-08-22 |
+| [AiBiogenesis_and_AiGenesisMapping](https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping) | Grassroots AI biogenesis + genesis mapping  -  open, safe, reproducible. This repo hosts the Symbound Embryo POC v1.0 (SIGNED), the first grassroots AI biogenesis release. It shows how new AI can be created outside corporate labs and the process mapped, verified, and shared. |  | 2026-08-22 |
 | [Symbound_Academia_Spine](https://github.com/instance001/Symbound_Academia_Spine) | A full academic corpus-to-manuscript engine for massive research archives  -  built to democratize scientific tooling. | Python | 2026-08-22 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-08-22 |
 | [australian-ai-fair-go](https://github.com/instance001/australian-ai-fair-go) | Australian AI Fair-Go: a practical policy and evidence repo for fit-for-purpose AI, model choice, local/cloud hybrid control, proportionate governance, and grassroots Australian AI sovereignty. |  | 2026-08-22 |
