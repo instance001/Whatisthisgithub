@@ -121,6 +121,7 @@ It is not a credential claim, endorsement, or identity assertion.
 | --- | --- |
 | Operator | Single independent individual |
 | Researcher identifier | [ORCID 0009-0007-5750-5236](https://orcid.org/0009-0007-5750-5236) |
+| Scholarly profiles | [PhilPapers](https://philpapers.org/profile/2196694) · [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=13165768) |
 | Formal education | Secondary education incomplete (left during early high school) |
 | Formal credentials | None reported |
 | Public work start | GitHub public activity begins: 2025-07-02 |
