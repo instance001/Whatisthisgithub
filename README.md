@@ -140,7 +140,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-09-15T08:20:58Z`_
+_Last updated: `2026-09-16T08:14:37Z`_
 
 Total public repos indexed for **@instance001**: **71**
 
@@ -148,8 +148,8 @@ Total public repos indexed for **@instance001**: **71**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-16 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-15 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-15 |
 | [chatty-mini](https://github.com/instance001/chatty-mini) | Local-first Android AI chat for small phones, with local GGUF and optional BYO cloud models, dual AI roles, persistent context, and a user-owned sandbox. | C++ | 2026-09-14 |
 | [chatty-venture](https://github.com/instance001/chatty-venture) | Private-first AI text adventures for Android  -  structured stories, editable Free Mode, local GGUF, and optional cloud narration. | C++ | 2026-09-14 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-09-10 |
