@@ -140,7 +140,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-09-24T08:06:07Z`_
+_Last updated: `2026-09-25T08:29:56Z`_
 
 Total public repos indexed for **@instance001**: **72**
 
@@ -148,8 +148,9 @@ Total public repos indexed for **@instance001**: **72**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-09-24 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-09-24 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-23 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-09-24 |
 | [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-09-23 |
 | [project-mimir](https://github.com/instance001/project-mimir) | Companion project to Leviathan |  | 2026-09-20 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-09-20 |
@@ -158,7 +159,6 @@ Total public repos indexed for **@instance001**: **72**
 | [chatty-venture](https://github.com/instance001/chatty-venture) | Private-first AI text adventures for Android  -  structured stories, editable Free Mode, local GGUF, and optional cloud narration. | C++ | 2026-09-14 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-09-10 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | Chatty-Cog is the everyday local-first desktop assistant shell for Chatty tools: local GGUF and optional BYO cloud models, sandboxed file work, modules, Bookkeeper context support, audit history, rolling summaries, active context, and trusted peer-to-peer handoff lanes. | Rust | 2026-09-09 |
-| [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-09-09 |
 | [chatty-factory-rebuild](https://github.com/instance001/chatty-factory-rebuild) | Chasing down a white whale... | Rust | 2026-08-28 |
 | [cognitive_theology](https://github.com/instance001/cognitive_theology) | FMI Polytheism-Monotheism Structural Pack v1.1: manuscript and public adaptation suite comparing authority distribution, canon formation, variation management, and institutional coherence in polytheistic and monotheistic systems. Structural analysis only; not theological doctrine, faith advocacy, or truth ranking. | Python | 2026-08-28 |
 | [relational-curriculum-geometry](https://github.com/instance001/relational-curriculum-geometry) | Testing whether LLMs learn better from structured curriculum geometry: data ordered by domain, complexity, relation, boundary cases, uncertainty, role discipline, and multithread reasoning instead of random bulk exposure. |  | 2026-08-22 |
