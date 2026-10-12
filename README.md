@@ -140,7 +140,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-10-11T09:38:10Z`_
+_Last updated: `2026-10-12T10:10:27Z`_
 
 Total public repos indexed for **@instance001**: **72**
 
@@ -148,8 +148,8 @@ Total public repos indexed for **@instance001**: **72**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-10-10 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-10 |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-10-11 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-11 |
 | [chatty-quest](https://github.com/instance001/chatty-quest) | A Rust desktop adventure engine built on the RD Engine  -  deterministic datapack scenarios, real game state, save/load, maps, inventory, combat, and a chat-forward DM shell. Modders welcome and encouraged: BYO imagination, grab a seat, and let's build and play. | Rust | 2026-10-10 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-10-08 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-09-24 |
