@@ -50,7 +50,7 @@ def item(repo: dict) -> dict:
         "unresolved_provenance_questions": [
             "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
         ],
-        "audit_state": "INDEXED" if archived else "NEEDS_PROJECT_RETROFIT",
+        "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION" if archived else "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
         "retrofit_completed": False,
     }
 
@@ -75,7 +75,8 @@ def refresh() -> None:
         f"- **Active:** {active}",
         f"- **Archived:** {archived}",
         "- **ERROR:** none at inventory stage",
-        f"- **NEEDS HUMAN VERIFICATION:** {active} active repositories need project-specific evidence review before a completed retrofit may be claimed.",
+        f"- **Baseline provenance/citation treatment published:** {active} active repositories",
+        f"- **NEEDS HUMAN VERIFICATION:** {active} active repositories need project-specific evidence review before a completed intellectual-provenance retrofit may be claimed.",
         "- **NOT APPLICABLE:** archived repository contents are not rewritten by this tool.",
         "",
         "## Inventory",

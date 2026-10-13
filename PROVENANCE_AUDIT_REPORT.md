@@ -6,7 +6,8 @@ Generated from authenticated GitHub repository metadata. This report is an inven
 - **Active:** 55
 - **Archived:** 17
 - **ERROR:** none at inventory stage
-- **NEEDS HUMAN VERIFICATION:** 55 active repositories need project-specific evidence review before a completed retrofit may be claimed.
+- **Baseline provenance/citation treatment published:** 55 active repositories
+- **NEEDS HUMAN VERIFICATION:** 55 active repositories need project-specific evidence review before a completed intellectual-provenance retrofit may be claimed.
 - **NOT APPLICABLE:** archived repository contents are not rewritten by this tool.
 
 ## Inventory

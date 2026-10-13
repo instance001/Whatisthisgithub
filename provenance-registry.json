@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T22:38:25.980182Z",
+  "generated_at": "2026-10-13T22:43:57.682008Z",
   "source": "GitHub REST API authenticated as instance001; repository creation timestamps are not asserted publication dates.",
   "repositories": [
     {
@@ -16,7 +16,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-16T01:12:33Z",
-      "verified_last_push": "2026-07-29T04:08:16Z",
+      "verified_last_push": "2026-10-13T22:41:11Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -28,7 +28,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -44,7 +44,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-07T02:18:35Z",
-      "verified_last_push": "2026-08-22T06:55:24Z",
+      "verified_last_push": "2026-10-13T22:41:13Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -56,7 +56,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -72,7 +72,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-10-05T09:31:56Z",
-      "verified_last_push": "2026-08-22T06:55:37Z",
+      "verified_last_push": "2026-10-13T22:41:16Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -84,7 +84,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -100,7 +100,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-23T00:54:50Z",
-      "verified_last_push": "2026-08-22T06:55:46Z",
+      "verified_last_push": "2026-10-13T22:41:18Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -112,7 +112,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -128,7 +128,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-03-21T07:35:10Z",
-      "verified_last_push": "2026-09-23T00:56:24Z",
+      "verified_last_push": "2026-10-13T22:41:20Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -140,7 +140,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -156,7 +156,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-04-14T23:48:13Z",
-      "verified_last_push": "2026-09-09T21:32:42Z",
+      "verified_last_push": "2026-10-13T22:42:07Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -168,7 +168,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -184,7 +184,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-24T05:23:04Z",
-      "verified_last_push": "2026-09-09T07:00:43Z",
+      "verified_last_push": "2026-10-13T22:41:25Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -196,7 +196,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -212,7 +212,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-01-07T02:26:25Z",
-      "verified_last_push": "2026-08-22T06:56:54Z",
+      "verified_last_push": "2026-10-13T22:41:27Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -224,7 +224,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -240,7 +240,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-01T01:53:07Z",
-      "verified_last_push": "2026-08-22T07:14:23Z",
+      "verified_last_push": "2026-10-13T22:41:30Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -252,7 +252,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -268,7 +268,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-08-23T06:35:35Z",
-      "verified_last_push": "2026-08-28T23:34:43Z",
+      "verified_last_push": "2026-10-13T22:41:32Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -280,7 +280,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -296,7 +296,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-04-22T01:30:27Z",
-      "verified_last_push": "2026-08-22T07:14:40Z",
+      "verified_last_push": "2026-10-13T22:41:35Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -308,7 +308,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -324,7 +324,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-13T22:20:54Z",
-      "verified_last_push": "2026-09-14T23:25:33Z",
+      "verified_last_push": "2026-10-13T22:41:38Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -336,7 +336,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -352,7 +352,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-11T00:10:34Z",
-      "verified_last_push": "2026-09-16T09:35:59Z",
+      "verified_last_push": "2026-10-13T22:41:43Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -364,7 +364,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -380,7 +380,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-11T05:09:02Z",
-      "verified_last_push": "2026-10-10T01:09:59Z",
+      "verified_last_push": "2026-10-13T22:41:45Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -392,7 +392,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -408,7 +408,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-09-14T08:23:01Z",
-      "verified_last_push": "2026-09-14T08:29:41Z",
+      "verified_last_push": "2026-10-13T22:41:49Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -420,7 +420,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -448,7 +448,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -464,7 +464,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-25T05:16:35Z",
-      "verified_last_push": "2026-08-22T06:57:11Z",
+      "verified_last_push": "2026-10-13T22:41:52Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -476,7 +476,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -504,7 +504,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -532,7 +532,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -560,7 +560,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -576,7 +576,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-08-05T02:05:21Z",
-      "verified_last_push": "2026-08-22T06:59:42Z",
+      "verified_last_push": "2026-10-13T22:41:55Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -588,7 +588,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -616,7 +616,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -632,7 +632,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-06T08:47:27Z",
-      "verified_last_push": "2026-08-22T07:00:22Z",
+      "verified_last_push": "2026-10-13T22:41:57Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -644,7 +644,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -660,7 +660,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-11-15T12:06:38Z",
-      "verified_last_push": "2026-08-22T06:58:56Z",
+      "verified_last_push": "2026-10-13T22:42:00Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -672,7 +672,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -700,7 +700,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -728,7 +728,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -756,7 +756,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -772,7 +772,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-08T02:49:16Z",
-      "verified_last_push": "2026-08-22T06:59:16Z",
+      "verified_last_push": "2026-10-13T22:42:03Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -784,7 +784,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -800,7 +800,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-07T02:52:06Z",
-      "verified_last_push": "2026-08-28T20:58:00Z",
+      "verified_last_push": "2026-10-13T22:42:05Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -812,7 +812,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -828,7 +828,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-23T23:24:32Z",
-      "verified_last_push": "2026-08-22T06:55:07Z",
+      "verified_last_push": "2026-10-13T22:42:08Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -840,7 +840,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -856,7 +856,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-29T04:49:20Z",
-      "verified_last_push": "2026-08-22T06:59:31Z",
+      "verified_last_push": "2026-10-13T22:42:10Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -868,7 +868,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -884,7 +884,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-03-23T20:55:19Z",
-      "verified_last_push": "2026-08-22T07:15:16Z",
+      "verified_last_push": "2026-10-13T22:42:13Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -896,7 +896,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -912,7 +912,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-18T01:01:55Z",
-      "verified_last_push": "2026-08-22T07:15:09Z",
+      "verified_last_push": "2026-10-13T22:42:15Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -924,7 +924,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -952,7 +952,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -968,7 +968,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-13T03:54:51Z",
-      "verified_last_push": "2026-08-22T07:13:11Z",
+      "verified_last_push": "2026-10-13T22:42:18Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -980,7 +980,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -996,7 +996,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-13T03:53:00Z",
-      "verified_last_push": "2026-06-14T00:48:58Z",
+      "verified_last_push": "2026-10-13T22:42:30Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1008,7 +1008,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1036,7 +1036,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1064,7 +1064,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1092,7 +1092,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1120,7 +1120,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1136,7 +1136,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-09-06T08:03:53Z",
-      "verified_last_push": "2026-10-08T03:51:08Z",
+      "verified_last_push": "2026-10-13T22:42:32Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1148,7 +1148,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1164,7 +1164,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-10-30T20:43:16Z",
-      "verified_last_push": "2026-08-22T07:00:47Z",
+      "verified_last_push": "2026-10-13T22:42:34Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1176,7 +1176,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1192,7 +1192,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-05-22T23:54:57Z",
-      "verified_last_push": "2026-08-22T07:12:20Z",
+      "verified_last_push": "2026-10-13T22:42:37Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1204,7 +1204,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1220,7 +1220,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-05-23T23:59:18Z",
-      "verified_last_push": "2026-08-22T07:12:37Z",
+      "verified_last_push": "2026-10-13T22:42:40Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1232,7 +1232,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1248,7 +1248,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-21T02:15:49Z",
-      "verified_last_push": "2026-08-22T06:58:24Z",
+      "verified_last_push": "2026-10-13T22:42:42Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1260,7 +1260,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1276,7 +1276,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-05-16T03:58:21Z",
-      "verified_last_push": "2026-08-22T06:57:24Z",
+      "verified_last_push": "2026-10-13T22:42:45Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1288,7 +1288,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1304,7 +1304,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-19T00:28:32Z",
-      "verified_last_push": "2026-10-13T11:47:50Z",
+      "verified_last_push": "2026-10-13T22:43:40Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1316,7 +1316,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1332,7 +1332,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-11-15T10:21:46Z",
-      "verified_last_push": "2026-08-22T07:12:46Z",
+      "verified_last_push": "2026-10-13T22:42:47Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1344,7 +1344,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1360,7 +1360,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-23T03:42:49Z",
-      "verified_last_push": "2026-08-11T00:41:24Z",
+      "verified_last_push": "2026-10-13T22:42:50Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1372,7 +1372,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1388,7 +1388,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-12T22:37:34Z",
-      "verified_last_push": "2026-08-22T07:14:53Z",
+      "verified_last_push": "2026-10-13T22:42:21Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1400,7 +1400,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1416,7 +1416,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-24T22:32:45Z",
-      "verified_last_push": "2026-08-22T07:15:00Z",
+      "verified_last_push": "2026-10-13T22:42:53Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1428,7 +1428,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1444,7 +1444,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-02T02:21:33Z",
-      "verified_last_push": "2026-08-22T07:07:52Z",
+      "verified_last_push": "2026-10-13T22:42:55Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1456,7 +1456,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1472,7 +1472,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-04-11T01:16:46Z",
-      "verified_last_push": "2026-08-22T06:57:54Z",
+      "verified_last_push": "2026-10-13T22:42:58Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1484,7 +1484,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1500,7 +1500,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-11-05T00:01:46Z",
-      "verified_last_push": "2026-08-22T06:58:37Z",
+      "verified_last_push": "2026-10-13T22:43:00Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1512,7 +1512,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1528,7 +1528,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-21T00:41:10Z",
-      "verified_last_push": "2026-08-22T07:14:33Z",
+      "verified_last_push": "2026-10-13T22:43:07Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1540,7 +1540,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1556,7 +1556,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-05T03:46:36Z",
-      "verified_last_push": "2026-08-22T06:58:02Z",
+      "verified_last_push": "2026-10-13T22:43:10Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1568,7 +1568,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1584,7 +1584,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-21T06:33:36Z",
-      "verified_last_push": "2026-09-20T06:42:46Z",
+      "verified_last_push": "2026-10-13T22:43:13Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1596,7 +1596,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1612,7 +1612,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-09-20T06:44:13Z",
-      "verified_last_push": "2026-09-20T06:44:17Z",
+      "verified_last_push": "2026-10-13T22:43:15Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1624,7 +1624,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1640,7 +1640,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-21T02:20:34Z",
-      "verified_last_push": "2026-08-22T06:58:14Z",
+      "verified_last_push": "2026-10-13T22:43:17Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1652,7 +1652,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1668,7 +1668,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-19T23:38:29Z",
-      "verified_last_push": "2026-08-22T06:57:44Z",
+      "verified_last_push": "2026-10-13T22:40:38Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1680,7 +1680,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1696,7 +1696,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-07T07:38:43Z",
-      "verified_last_push": "2026-08-13T00:18:47Z",
+      "verified_last_push": "2026-10-13T22:43:19Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1708,7 +1708,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1724,7 +1724,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-08T23:14:36Z",
-      "verified_last_push": "2026-08-22T07:41:36Z",
+      "verified_last_push": "2026-10-13T22:43:22Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1736,7 +1736,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1752,7 +1752,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-02-10T01:33:28Z",
-      "verified_last_push": "2026-08-22T06:57:03Z",
+      "verified_last_push": "2026-10-13T22:43:24Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1764,7 +1764,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1780,7 +1780,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-12T08:57:50Z",
-      "verified_last_push": "2026-08-22T06:56:36Z",
+      "verified_last_push": "2026-10-13T22:43:27Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1792,7 +1792,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1820,7 +1820,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1848,7 +1848,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1864,7 +1864,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-01T00:24:09Z",
-      "verified_last_push": "2026-08-22T06:56:26Z",
+      "verified_last_push": "2026-10-13T22:43:29Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1876,7 +1876,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1904,7 +1904,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -1920,7 +1920,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-11-18T01:52:42Z",
-      "verified_last_push": "2026-08-22T06:56:15Z",
+      "verified_last_push": "2026-10-13T22:43:32Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1932,7 +1932,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1948,7 +1948,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-03T02:10:01Z",
-      "verified_last_push": "2026-08-22T06:56:04Z",
+      "verified_last_push": "2026-10-13T22:43:34Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1960,7 +1960,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
     {
@@ -1988,7 +1988,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "INDEXED",
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
     {
@@ -2004,7 +2004,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-16T01:43:15Z",
-      "verified_last_push": "2026-10-13T10:03:32Z",
+      "verified_last_push": "2026-10-13T22:41:08Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -2016,7 +2016,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     }
   ]
