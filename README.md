@@ -107,7 +107,7 @@ Across the current tooling lanes, "local-first" means the local path stays usabl
 - Glossary (terms + mapping symbols): [GLOSSARY.md](GLOSSARY.md)
 - Full glossary tables (wide): [GLOSSARY_FULL.md](GLOSSARY_FULL.md)
 - Ambiguities (needs disambiguation): [AMBIGUITIES.md](AMBIGUITIES.md)
-- Metadata maintenance: [METADATA_MAINTENANCE.md](METADATA_MAINTENANCE.md)
+- Metadata maintenance: [METADATA_MAINTENANCE.md](METADATA_MAINTENANCE.md)`r`n- Intellectual provenance standard: [PROVENANCE_STANDARD.md](PROVENANCE_STANDARD.md)`r`n- Portfolio provenance registry: [PROVENANCE_AUDIT_REPORT.md](PROVENANCE_AUDIT_REPORT.md) · [machine-readable JSON](provenance-registry.json)`r`n- Legal attribution findings: [LEGAL_FINDINGS.md](LEGAL_FINDINGS.md)
 
 These are reference surfaces, not reading requirements.
 Use them when a term, framing, or repo relationship is unclear.

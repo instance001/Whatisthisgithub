@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If this repository informed your work, please cite the canonical repository."
+title: "Whatisthisgithub"
+url: "https://github.com/instance001/Whatisthisgithub"
+repository-code: "https://github.com/instance001/Whatisthisgithub"
+abstract: "Repository-level citation metadata; see PROVENANCE.md for evidence limits."

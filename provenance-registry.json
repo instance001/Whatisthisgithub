@@ -1,0 +1,2023 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-13T22:38:25.980182Z",
+  "source": "GitHub REST API authenticated as instance001; repository creation timestamps are not asserted publication dates.",
+  "repositories": [
+    {
+      "repository": "4roomciv",
+      "canonical_url": "https://github.com/instance001/4roomciv",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-09-16T01:12:33Z",
+      "verified_last_push": "2026-07-29T04:08:16Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "ai-teaming-framework",
+      "canonical_url": "https://github.com/instance001/ai-teaming-framework",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-07T02:18:35Z",
+      "verified_last_push": "2026-08-22T06:55:24Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "AiBiogenesis_and_AiGenesisMapping",
+      "canonical_url": "https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-10-05T09:31:56Z",
+      "verified_last_push": "2026-08-22T06:55:37Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "australian-ai-fair-go",
+      "canonical_url": "https://github.com/instance001/australian-ai-fair-go",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-23T00:54:50Z",
+      "verified_last_push": "2026-08-22T06:55:46Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-art",
+      "canonical_url": "https://github.com/instance001/chatty-art",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-03-21T07:35:10Z",
+      "verified_last_push": "2026-09-23T00:56:24Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-cog",
+      "canonical_url": "https://github.com/instance001/chatty-cog",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-04-14T23:48:13Z",
+      "verified_last_push": "2026-09-09T21:32:42Z",
+      "license_api": "NOASSERTION",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-edu",
+      "canonical_url": "https://github.com/instance001/chatty-edu",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-24T05:23:04Z",
+      "verified_last_push": "2026-09-09T07:00:43Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-edu-user",
+      "canonical_url": "https://github.com/instance001/chatty-edu-user",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-01-07T02:26:25Z",
+      "verified_last_push": "2026-08-22T06:56:54Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-factory",
+      "canonical_url": "https://github.com/instance001/chatty-factory",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-01T01:53:07Z",
+      "verified_last_push": "2026-08-22T07:14:23Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-factory-rebuild",
+      "canonical_url": "https://github.com/instance001/chatty-factory-rebuild",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-08-23T06:35:35Z",
+      "verified_last_push": "2026-08-28T23:34:43Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-lora",
+      "canonical_url": "https://github.com/instance001/chatty-lora",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-04-22T01:30:27Z",
+      "verified_last_push": "2026-08-22T07:14:40Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-mini",
+      "canonical_url": "https://github.com/instance001/chatty-mini",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-13T22:20:54Z",
+      "verified_last_push": "2026-09-14T23:25:33Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-pet",
+      "canonical_url": "https://github.com/instance001/chatty-pet",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-11T00:10:34Z",
+      "verified_last_push": "2026-09-16T09:35:59Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-quest",
+      "canonical_url": "https://github.com/instance001/chatty-quest",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-11T05:09:02Z",
+      "verified_last_push": "2026-10-10T01:09:59Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chatty-venture",
+      "canonical_url": "https://github.com/instance001/chatty-venture",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-09-14T08:23:01Z",
+      "verified_last_push": "2026-09-14T08:29:41Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Chatty_Ai_V1",
+      "canonical_url": "https://github.com/instance001/Chatty_Ai_V1",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-08-02T08:49:40Z",
+      "verified_last_push": "2026-02-09T05:48:54Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chattydoom",
+      "canonical_url": "https://github.com/instance001/chattydoom",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-25T05:16:35Z",
+      "verified_last_push": "2026-08-22T06:57:11Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "chattyfactory",
+      "canonical_url": "https://github.com/instance001/chattyfactory",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-02-07T02:17:18Z",
+      "verified_last_push": "2026-06-02T00:40:37Z",
+      "license_api": "NOASSERTION",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Chattyfactory-AutoPipeline-v0.2",
+      "canonical_url": "https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-19T00:07:47Z",
+      "verified_last_push": "2026-02-09T05:46:48Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "ChattyFactory-ManualPipeline-v0.1",
+      "canonical_url": "https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-17T12:46:33Z",
+      "verified_last_push": "2026-02-09T05:47:14Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Chattymobile_v1",
+      "canonical_url": "https://github.com/instance001/Chattymobile_v1",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-08-05T02:05:21Z",
+      "verified_last_push": "2026-08-22T06:59:42Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Chattyv1.1",
+      "canonical_url": "https://github.com/instance001/Chattyv1.1",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-08-03T03:34:58Z",
+      "verified_last_push": "2026-02-09T05:50:25Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "cognition-mesh-test-chamber",
+      "canonical_url": "https://github.com/instance001/cognition-mesh-test-chamber",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-06T08:47:27Z",
+      "verified_last_push": "2026-08-22T07:00:22Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Cognition-Scale-Formal-Taxonomy",
+      "canonical_url": "https://github.com/instance001/Cognition-Scale-Formal-Taxonomy",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-15T12:06:38Z",
+      "verified_last_push": "2026-08-22T06:58:56Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Cognitive-Reactor-Profile",
+      "canonical_url": "https://github.com/instance001/Cognitive-Reactor-Profile",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-07T10:55:18Z",
+      "verified_last_push": "2026-06-13T23:40:54Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Cognitive_Crowbar",
+      "canonical_url": "https://github.com/instance001/Cognitive_Crowbar",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-05T08:19:12Z",
+      "verified_last_push": "2026-08-22T07:08:37Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Cognitive_Crowbar_nonverbal",
+      "canonical_url": "https://github.com/instance001/Cognitive_Crowbar_nonverbal",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-05T09:06:22Z",
+      "verified_last_push": "2026-06-13T23:47:56Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "cognitive_reactor_stress_tests",
+      "canonical_url": "https://github.com/instance001/cognitive_reactor_stress_tests",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-08T02:49:16Z",
+      "verified_last_push": "2026-08-22T06:59:16Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "cognitive_theology",
+      "canonical_url": "https://github.com/instance001/cognitive_theology",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-07T02:52:06Z",
+      "verified_last_push": "2026-08-28T20:58:00Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "collapse-of-the-semantic-middle",
+      "canonical_url": "https://github.com/instance001/collapse-of-the-semantic-middle",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-23T23:24:32Z",
+      "verified_last_push": "2026-08-22T06:55:07Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "dual-ai-cognition-spine-prototype",
+      "canonical_url": "https://github.com/instance001/dual-ai-cognition-spine-prototype",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-09-29T04:49:20Z",
+      "verified_last_push": "2026-08-22T06:59:31Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "ecg_window",
+      "canonical_url": "https://github.com/instance001/ecg_window",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-03-23T20:55:19Z",
+      "verified_last_push": "2026-08-22T07:15:16Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "ef-engine",
+      "canonical_url": "https://github.com/instance001/ef-engine",
+      "default_branch": "master",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-18T01:01:55Z",
+      "verified_last_push": "2026-08-22T07:15:09Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy-folding-as-directed-thermodynamics-for-cognition-finished",
+      "canonical_url": "https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-14T05:17:38Z",
+      "verified_last_push": "2026-06-13T23:44:32Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy-folding-cross-domain-signal-atlas",
+      "canonical_url": "https://github.com/instance001/entropy-folding-cross-domain-signal-atlas",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-13T03:54:51Z",
+      "verified_last_push": "2026-08-22T07:13:11Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy-folding-eureka-cascade-hypothesis",
+      "canonical_url": "https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-13T03:53:00Z",
+      "verified_last_push": "2026-06-14T00:48:58Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy-folding-foundational-frameworks",
+      "canonical_url": "https://github.com/instance001/entropy-folding-foundational-frameworks",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-26T01:30:06Z",
+      "verified_last_push": "2026-06-13T23:43:03Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Entropy-Folding-Vector-Theory",
+      "canonical_url": "https://github.com/instance001/Entropy-Folding-Vector-Theory",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-03T01:33:23Z",
+      "verified_last_push": "2026-06-13T23:46:56Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy_folding_scale",
+      "canonical_url": "https://github.com/instance001/entropy_folding_scale",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-05T02:37:28Z",
+      "verified_last_push": "2026-08-22T07:05:27Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "entropy_folding_scope",
+      "canonical_url": "https://github.com/instance001/entropy_folding_scope",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-07T03:10:20Z",
+      "verified_last_push": "2026-08-22T07:11:29Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "fmi-research-papers",
+      "canonical_url": "https://github.com/instance001/fmi-research-papers",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-09-06T08:03:53Z",
+      "verified_last_push": "2026-10-08T03:51:08Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Frisian_Cadence_PID_Control_Loop",
+      "canonical_url": "https://github.com/instance001/Frisian_Cadence_PID_Control_Loop",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-10-30T20:43:16Z",
+      "verified_last_push": "2026-08-22T07:00:47Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "governance-by-design-report",
+      "canonical_url": "https://github.com/instance001/governance-by-design-report",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-05-22T23:54:57Z",
+      "verified_last_push": "2026-08-22T07:12:20Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "governance-by-design-report-commentary",
+      "canonical_url": "https://github.com/instance001/governance-by-design-report-commentary",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-05-23T23:59:18Z",
+      "verified_last_push": "2026-08-22T07:12:37Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass",
+      "canonical_url": "https://github.com/instance001/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-21T02:15:49Z",
+      "verified_last_push": "2026-08-22T06:58:24Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "historical-janet-school-exploratory-build",
+      "canonical_url": "https://github.com/instance001/historical-janet-school-exploratory-build",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-05-16T03:58:21Z",
+      "verified_last_push": "2026-08-22T06:57:24Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "instance001.github.io",
+      "canonical_url": "https://github.com/instance001/instance001.github.io",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-19T00:28:32Z",
+      "verified_last_push": "2026-10-13T11:47:50Z",
+      "license_api": "NOASSERTION",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Janet-MCM-Core",
+      "canonical_url": "https://github.com/instance001/Janet-MCM-Core",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-15T10:21:46Z",
+      "verified_last_push": "2026-08-22T07:12:46Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "janet-school",
+      "canonical_url": "https://github.com/instance001/janet-school",
+      "default_branch": "master",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-23T03:42:49Z",
+      "verified_last_push": "2026-08-11T00:41:24Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "llm-defined-persistent-memory",
+      "canonical_url": "https://github.com/instance001/llm-defined-persistent-memory",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-12T22:37:34Z",
+      "verified_last_push": "2026-08-22T07:14:53Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "llm-semantic-dataset-sorter",
+      "canonical_url": "https://github.com/instance001/llm-semantic-dataset-sorter",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-24T22:32:45Z",
+      "verified_last_push": "2026-08-22T07:15:00Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "MemorySpine",
+      "canonical_url": "https://github.com/instance001/MemorySpine",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-02T02:21:33Z",
+      "verified_last_push": "2026-08-22T07:07:52Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "model-behaviour-toolkit",
+      "canonical_url": "https://github.com/instance001/model-behaviour-toolkit",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-04-11T01:16:46Z",
+      "verified_last_push": "2026-08-22T06:57:54Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "MSI-Trident-Frisian-Echoform-Framework-v1.0-",
+      "canonical_url": "https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-05T00:01:46Z",
+      "verified_last_push": "2026-08-22T06:58:37Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "nanochat-llm-tweaker",
+      "canonical_url": "https://github.com/instance001/nanochat-llm-tweaker",
+      "default_branch": "master",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-21T00:41:10Z",
+      "verified_last_push": "2026-08-22T07:14:33Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "perpetual_cognition_reactor",
+      "canonical_url": "https://github.com/instance001/perpetual_cognition_reactor",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-05T03:46:36Z",
+      "verified_last_push": "2026-08-22T06:58:02Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "project-leviathan",
+      "canonical_url": "https://github.com/instance001/project-leviathan",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-21T06:33:36Z",
+      "verified_last_push": "2026-09-20T06:42:46Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "project-mimir",
+      "canonical_url": "https://github.com/instance001/project-mimir",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-09-20T06:44:13Z",
+      "verified_last_push": "2026-09-20T06:44:17Z",
+      "license_api": "NOASSERTION",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles",
+      "canonical_url": "https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-21T02:20:34Z",
+      "verified_last_push": "2026-08-22T06:58:14Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "rd-engine",
+      "canonical_url": "https://github.com/instance001/rd-engine",
+      "default_branch": "master",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-19T23:38:29Z",
+      "verified_last_push": "2026-08-22T06:57:44Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "reflective_identity_geometry",
+      "canonical_url": "https://github.com/instance001/reflective_identity_geometry",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-07T07:38:43Z",
+      "verified_last_push": "2026-08-13T00:18:47Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "relational-curriculum-geometry",
+      "canonical_url": "https://github.com/instance001/relational-curriculum-geometry",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-07-08T23:14:36Z",
+      "verified_last_push": "2026-08-22T07:41:36Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "safety_theatre",
+      "canonical_url": "https://github.com/instance001/safety_theatre",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-02-10T01:33:28Z",
+      "verified_last_push": "2026-08-22T06:57:03Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "semantic-signal-alphabet",
+      "canonical_url": "https://github.com/instance001/semantic-signal-alphabet",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2026-06-12T08:57:50Z",
+      "verified_last_push": "2026-08-22T06:56:36Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Symbound-Entropy-Architecture",
+      "canonical_url": "https://github.com/instance001/Symbound-Entropy-Architecture",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-19T03:24:02Z",
+      "verified_last_push": "2026-06-13T23:37:15Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Symbound-Entropy-Folding-Toolkit",
+      "canonical_url": "https://github.com/instance001/Symbound-Entropy-Folding-Toolkit",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-19T05:25:52Z",
+      "verified_last_push": "2026-06-13T23:39:10Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "symbound-lab-notes-negative-space",
+      "canonical_url": "https://github.com/instance001/symbound-lab-notes-negative-space",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-01T00:24:09Z",
+      "verified_last_push": "2026-08-22T06:56:26Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Symbound-Master-Toolkit-V1.0",
+      "canonical_url": "https://github.com/instance001/Symbound-Master-Toolkit-V1.0",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-07-11T01:18:25Z",
+      "verified_last_push": "2026-04-11T01:27:09Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Symbound-UAE-GVS",
+      "canonical_url": "https://github.com/instance001/Symbound-UAE-GVS",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-11-18T01:52:42Z",
+      "verified_last_push": "2026-08-22T06:56:15Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Symbound_Academia_Spine",
+      "canonical_url": "https://github.com/instance001/Symbound_Academia_Spine",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-12-03T02:10:01Z",
+      "verified_last_push": "2026-08-22T06:56:04Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Trident_abstract_simulation_wand_V1",
+      "canonical_url": "https://github.com/instance001/Trident_abstract_simulation_wand_V1",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "HISTORICAL",
+      "archived": true,
+      "category": [
+        "F. Historical or archived repository"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-07-13T03:57:50Z",
+      "verified_last_push": "2026-04-11T01:26:37Z",
+      "license_api": "AGPL-3.0",
+      "provenance_document": null,
+      "citation_metadata": null,
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "INDEXED",
+      "retrofit_completed": false
+    },
+    {
+      "repository": "Whatisthisgithub",
+      "canonical_url": "https://github.com/instance001/Whatisthisgithub",
+      "default_branch": "main",
+      "visibility": "public",
+      "status": "NEEDS_HUMAN_VERIFICATION",
+      "archived": false,
+      "category": [
+        "UNCLASSIFIED \u2014 evidence review required"
+      ],
+      "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
+      "public_attribution_identity": "Not asserted automatically.",
+      "verified_repository_creation": "2025-09-16T01:43:15Z",
+      "verified_last_push": "2026-10-13T10:03:32Z",
+      "license_api": "NOASSERTION",
+      "provenance_document": "PROVENANCE.md",
+      "citation_metadata": "CITATION.cff",
+      "relationships": {
+        "predecessors": [],
+        "successors": [],
+        "implementations": []
+      },
+      "unresolved_provenance_questions": [
+        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
+      ],
+      "audit_state": "NEEDS_PROJECT_RETROFIT",
+      "retrofit_completed": false
+    }
+  ]
+}
