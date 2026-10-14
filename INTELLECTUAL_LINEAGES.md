@@ -43,3 +43,27 @@ The taxonomy is a proposed classification; Janet School identifies a determinist
 ## Review protocol
 
 Before strengthening a provenance claim, identify exact source commits/documents, rights-holder status, actual prior art, and whether the relation is code reuse, shared terminology, a specification relationship, or topical adjacency.
+
+## 5. Implemented exoskeleton and local-workflow family
+
+```text
+chatty-cog (hybrid personal/workflow host)
+chatty-edu (education-specific offline host) ─> chatty-edu-user (packaged release record)
+chatty-mini (mobile local-first implementation; substantive review deferred while local work is active)
+```
+
+**Chatty-Cog:** documentation and source describe a host-owned architecture: the operator selects local GGUF or BYO-cloud model lanes; a Bookkeeper maintains bounded memory/audit surfaces; the host controls context attachment, capability normalisation, sandbox approval, module bridges/rundowns, and opt-in Cog-only local networking. These are implemented architectural choices. They do not establish that Chatty-Cog implements every FMI specification, or that local inference, cloud routing, memory tiers, sandboxes, plugins, audit trails, or handoff are FMI inventions.
+
+**Chatty-EDU:** documentation and source describe a separate education-oriented implementation: offline-first operation, teacher/student authority separation, homework hint guardrails distinct from revision support, local Bookkeeper/memory surfaces, approval-gated sandbox work, learning-pack workflows, and EDU-only peer lanes whose received content is previewed before application. Chatty-EDU explicitly declares its LAN protocol incompatible with Chatty-Cog. Shared principles or naming therefore do not prove direct derivation, common code, or independent invention. `chatty-edu-user` is a packaged distribution/history record aligned with a named Chatty-EDU release, not a separate source architecture.
+
+**Chatty-Mini:** README and source indicate a local-first mobile implementation with memory and sandbox surfaces. Its checkout has unrelated active local work, so this phase intentionally adds no project-file edit. It remains a significant foundational repository requiring a clean-worktree substantive review; no Chatty-Cog/EDU inheritance claim is made here.
+
+## 6. Governed semantic-partitioning workbench
+
+```text
+llm-semantic-dataset-sorter (implemented local workbench)
+semantic-signal-alphabet (separately documented fixed-bucket framework)
+llm-defined-persistent-memory (separately documented memory adapter)
+```
+
+The Dataset Sorter records an implementation-specific combination: operator-selected bucket budget, model-created categories, required `junk` overflow, preflight judgment with explicit force override, blind-label/data-skim comparison, frozen-plan validation, artifact persistence, and comparative analyst workflow. Its docs and source do **not** establish a dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory; common semantic language is insufficient evidence. Keep these records separate unless a stronger source is found.

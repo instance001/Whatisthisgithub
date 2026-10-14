@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T22:43:57.682008Z",
+  "generated_at": "2026-10-14T01:51:32.200575Z",
   "source": "GitHub REST API authenticated as instance001; repository creation timestamps are not asserted publication dates.",
   "repositories": [
     {
@@ -28,6 +28,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -44,7 +45,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-07T02:18:35Z",
-      "verified_last_push": "2026-10-13T22:41:13Z",
+      "verified_last_push": "2026-10-14T01:43:05Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -56,6 +57,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -84,6 +86,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -112,6 +115,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -140,6 +144,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -168,6 +173,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Substantively reviewed: implemented hybrid host/model authority, Bookkeeper/memory governance, modules, approval-gated sandbox, and Cog-only local handoff lanes.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -196,6 +202,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Substantively reviewed: implemented education-specific offline/authority/learning-pack architecture; direct derivation from Chatty-Cog not established.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -224,6 +231,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Substantively reviewed: packaged distribution/history record aligned with Chatty-EDU source v0.4; not treated as separate source architecture.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -252,6 +260,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -280,6 +289,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -308,6 +318,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -336,6 +347,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Central evidence review only: substantive project-file edit deferred because its local checkout contains unrelated active work.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -364,6 +376,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -392,6 +405,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -420,6 +434,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -448,6 +463,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -476,6 +492,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -504,6 +521,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -532,6 +550,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -560,6 +579,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -588,6 +608,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -616,6 +637,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -632,7 +654,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-06T08:47:27Z",
-      "verified_last_push": "2026-10-13T22:41:57Z",
+      "verified_last_push": "2026-10-14T01:43:07Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -644,6 +666,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -672,6 +695,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -700,6 +724,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -728,6 +753,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -756,6 +782,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -784,6 +811,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -812,6 +840,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -840,6 +869,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -868,6 +898,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -896,6 +927,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -912,7 +944,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-18T01:01:55Z",
-      "verified_last_push": "2026-10-13T22:42:15Z",
+      "verified_last_push": "2026-10-14T01:42:58Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -924,6 +956,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -952,6 +985,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -980,6 +1014,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1008,6 +1043,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1036,6 +1072,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1064,6 +1101,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1092,6 +1130,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1120,6 +1159,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1148,6 +1188,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1176,6 +1217,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1204,6 +1246,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1232,6 +1275,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1260,6 +1304,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1288,6 +1333,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1316,6 +1362,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1332,7 +1379,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-11-15T10:21:46Z",
-      "verified_last_push": "2026-10-13T22:42:47Z",
+      "verified_last_push": "2026-10-14T01:43:49Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1344,6 +1391,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1360,7 +1408,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-23T03:42:49Z",
-      "verified_last_push": "2026-10-13T22:42:50Z",
+      "verified_last_push": "2026-10-14T01:43:42Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1372,6 +1420,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1388,7 +1437,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-12T22:37:34Z",
-      "verified_last_push": "2026-10-13T22:42:21Z",
+      "verified_last_push": "2026-10-14T01:43:44Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1400,6 +1449,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1428,6 +1478,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Substantively reviewed: implemented governed semantic-partitioning workbench; no dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory established from reviewed evidence.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1456,6 +1507,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1484,6 +1536,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1512,6 +1565,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1540,6 +1594,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1568,6 +1623,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1584,7 +1640,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-21T06:33:36Z",
-      "verified_last_push": "2026-10-13T22:43:13Z",
+      "verified_last_push": "2026-10-14T01:43:00Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1596,6 +1652,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1612,7 +1669,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-09-20T06:44:13Z",
-      "verified_last_push": "2026-10-13T22:43:15Z",
+      "verified_last_push": "2026-10-14T01:43:03Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1624,6 +1681,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1652,6 +1710,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1680,6 +1739,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1708,6 +1768,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1736,6 +1797,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1764,6 +1826,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1780,7 +1843,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-12T08:57:50Z",
-      "verified_last_push": "2026-10-13T22:43:27Z",
+      "verified_last_push": "2026-10-14T01:43:47Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -1792,6 +1855,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1820,6 +1884,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1848,6 +1913,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1876,6 +1942,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1904,6 +1971,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -1932,6 +2000,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1960,6 +2029,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1988,6 +2058,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
       "retrofit_completed": false
     },
@@ -2004,7 +2075,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-16T01:43:15Z",
-      "verified_last_push": "2026-10-13T22:41:08Z",
+      "verified_last_push": "2026-10-14T01:42:51Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -2016,6 +2087,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
+      "lineage_review": "Baseline inventory only.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     }

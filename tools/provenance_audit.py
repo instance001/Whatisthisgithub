@@ -18,6 +18,14 @@ ROOT = Path(__file__).resolve().parents[1]
 REGISTRY = ROOT / "provenance-registry.json"
 REPORT = ROOT / "PROVENANCE_AUDIT_REPORT.md"
 
+LINEAGE_REVIEW = {
+    "chatty-cog": "Substantively reviewed: implemented hybrid host/model authority, Bookkeeper/memory governance, modules, approval-gated sandbox, and Cog-only local handoff lanes.",
+    "chatty-edu": "Substantively reviewed: implemented education-specific offline/authority/learning-pack architecture; direct derivation from Chatty-Cog not established.",
+    "chatty-edu-user": "Substantively reviewed: packaged distribution/history record aligned with Chatty-EDU source v0.4; not treated as separate source architecture.",
+    "llm-semantic-dataset-sorter": "Substantively reviewed: implemented governed semantic-partitioning workbench; no dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory established from reviewed evidence.",
+    "chatty-mini": "Central evidence review only: substantive project-file edit deferred because its local checkout contains unrelated active work.",
+}
+
 
 def github_repos() -> list[dict]:
     if not shutil.which("gh"):
@@ -50,6 +58,7 @@ def item(repo: dict) -> dict:
         "unresolved_provenance_questions": [
             "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
         ],
+        "lineage_review": LINEAGE_REVIEW.get(repo["name"], "Baseline inventory only."),
         "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION" if archived else "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
         "retrofit_completed": False,
     }
