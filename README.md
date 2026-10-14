@@ -148,7 +148,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-10-14T04:04:09Z`_
+_Last updated: `2026-10-14T08:20:59Z`_
 
 Total public repos indexed for **@instance001**: **72**
 
@@ -156,9 +156,10 @@ Total public repos indexed for **@instance001**: **72**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-14 |
+| [project-mimir](https://github.com/instance001/project-mimir) | Companion project to Leviathan |  | 2026-10-14 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-10-14 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | Chatty-Cog is the everyday local-first desktop assistant shell for Chatty tools: local GGUF and optional BYO cloud models, sandboxed file work, modules, Bookkeeper context support, audit history, rolling summaries, active context, and trusted peer-to-peer handoff lanes. | Rust | 2026-10-14 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-14 |
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | A local-first nanochat fork with a guided builder dashboard, GGUF helper assistant, and ChattyCog module packaging aka The best ChatGPT that $0 and a lot of patience can buy. | Python | 2026-10-14 |
 | [Symbound_Academia_Spine](https://github.com/instance001/Symbound_Academia_Spine) | A full academic corpus-to-manuscript engine for massive research archives  -  built to democratize scientific tooling. | Python | 2026-10-14 |
 | [Symbound-UAE-GVS](https://github.com/instance001/Symbound-UAE-GVS) | Universal Analogy Enforcement (UAE) + Global Vector Sweep (GVS)  -  the Symbound open commons discovery engine. AGPLv3 + Symbound Commons Addendum. All outputs are public prior art, unpatentable, and non-enclosable. |  | 2026-10-14 |
@@ -168,7 +169,6 @@ Total public repos indexed for **@instance001**: **72**
 | [relational-curriculum-geometry](https://github.com/instance001/relational-curriculum-geometry) | Testing whether LLMs learn better from structured curriculum geometry: data ordered by domain, complexity, relation, boundary cases, uncertainty, role discipline, and multithread reasoning instead of random bulk exposure. |  | 2026-10-14 |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | Reflective Identity Geometry (RIG): a v0.2 conceptual framework for studying identity-like stability as a possible property of recurring human-LLM interaction regimes, extending HRIS without claiming model consciousness, model-internal personality, or necessary human cognitive change. | TeX | 2026-10-14 |
 | [Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles](https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles) | A preprint and analysis scaffold reframing psychohistory as ethical, aggregate-level analysis of burst patterns emerging from many Entropy Folding cycles. Focuses on early warning, uncertainty, and null-model comparison. Explicitly rejects individual prediction, deterministic control, or social engineering claims. | Python | 2026-10-14 |
-| [project-mimir](https://github.com/instance001/project-mimir) | Companion project to Leviathan |  | 2026-10-14 |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | An open architecture for host-side memory, relational reasoning, earned abstraction, assumption tracking, and cognitive depth control. AGPLV3 |  | 2026-10-14 |
 | [perpetual_cognition_reactor](https://github.com/instance001/perpetual_cognition_reactor) | Perpetual Cognition Reactor (PCR), a historical Symbound theory repo for bounded high-throughput cognition: treating entropy as ongoing feedstock for recursive folding across humans, artificial systems, and hybrid human-AI teams without claiming unlimited capacity, consciousness, or guaranteed safety. |  | 2026-10-14 |
 | [MSI-Trident-Frisian-Echoform-Framework-v1.0-](https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-) | A non-anthropomorphic, risk-reducing human-AI co-reasoning architecture using MSI, Frisian cadence, Trident modes, and Echoform reflection. License: GNU Affero General Public License v3.0. |  | 2026-10-14 |
