@@ -178,6 +178,8 @@ def validate() -> int:
             for repo in data.get("repositories", []):
                 if not repo.get("repository") or not repo.get("canonical_url"):
                     problems.append(("ERROR", "registry entry missing repository or canonical_url"))
+                if repo.get("license_api") != "AGPL-3.0":
+                    problems.append(("ERROR", f"{repo['repository']}: expected AGPL-3.0, found {repo.get('license_api', 'missing')}"))
         except json.JSONDecodeError as error:
             problems.append(("ERROR", f"invalid registry JSON: {error}"))
     for level, message in problems:

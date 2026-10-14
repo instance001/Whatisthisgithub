@@ -18,7 +18,7 @@ Generated from authenticated GitHub repository metadata. This report is an inven
 | [AiBiogenesis_and_AiGenesisMapping](https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping) | AGPL-3.0 | project retrofit required |
 | [australian-ai-fair-go](https://github.com/instance001/australian-ai-fair-go) | AGPL-3.0 | project retrofit required |
 | [chatty-art](https://github.com/instance001/chatty-art) | AGPL-3.0 | project retrofit required |
-| [chatty-cog](https://github.com/instance001/chatty-cog) | NOASSERTION | project retrofit required |
+| [chatty-cog](https://github.com/instance001/chatty-cog) | AGPL-3.0 | project retrofit required |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | AGPL-3.0 | project retrofit required |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | AGPL-3.0 | project retrofit required |
 | [chatty-factory](https://github.com/instance001/chatty-factory) | AGPL-3.0 | project retrofit required |
@@ -59,7 +59,7 @@ Generated from authenticated GitHub repository metadata. This report is an inven
 | [governance-by-design-report-commentary](https://github.com/instance001/governance-by-design-report-commentary) | AGPL-3.0 | project retrofit required |
 | [Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass](https://github.com/instance001/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass) | AGPL-3.0 | project retrofit required |
 | [historical-janet-school-exploratory-build](https://github.com/instance001/historical-janet-school-exploratory-build) | AGPL-3.0 | project retrofit required |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | NOASSERTION | project retrofit required |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | AGPL-3.0 | project retrofit required |
 | [Janet-MCM-Core](https://github.com/instance001/Janet-MCM-Core) | AGPL-3.0 | project retrofit required |
 | [janet-school](https://github.com/instance001/janet-school) | AGPL-3.0 | project retrofit required |
 | [llm-defined-persistent-memory](https://github.com/instance001/llm-defined-persistent-memory) | AGPL-3.0 | project retrofit required |
@@ -70,7 +70,7 @@ Generated from authenticated GitHub repository metadata. This report is an inven
 | [nanochat-llm-tweaker](https://github.com/instance001/nanochat-llm-tweaker) | AGPL-3.0 | project retrofit required |
 | [perpetual_cognition_reactor](https://github.com/instance001/perpetual_cognition_reactor) | AGPL-3.0 | project retrofit required |
 | [project-leviathan](https://github.com/instance001/project-leviathan) | AGPL-3.0 | project retrofit required |
-| [project-mimir](https://github.com/instance001/project-mimir) | NOASSERTION | project retrofit required |
+| [project-mimir](https://github.com/instance001/project-mimir) | AGPL-3.0 | project retrofit required |
 | [Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles](https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles) | AGPL-3.0 | project retrofit required |
 | [rd-engine](https://github.com/instance001/rd-engine) | AGPL-3.0 | project retrofit required |
 | [reflective_identity_geometry](https://github.com/instance001/reflective_identity_geometry) | AGPL-3.0 | project retrofit required |
@@ -84,4 +84,4 @@ Generated from authenticated GitHub repository metadata. This report is an inven
 | [Symbound-UAE-GVS](https://github.com/instance001/Symbound-UAE-GVS) | AGPL-3.0 | project retrofit required |
 | [Symbound_Academia_Spine](https://github.com/instance001/Symbound_Academia_Spine) | AGPL-3.0 | project retrofit required |
 | [Trident_abstract_simulation_wand_V1](https://github.com/instance001/Trident_abstract_simulation_wand_V1) | AGPL-3.0 | indexed without alteration |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | NOASSERTION | project retrofit required |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | AGPL-3.0 | project retrofit required |
