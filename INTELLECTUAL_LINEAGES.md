@@ -67,3 +67,18 @@ llm-defined-persistent-memory (separately documented memory adapter)
 ```
 
 The Dataset Sorter records an implementation-specific combination: operator-selected bucket budget, model-created categories, required `junk` overflow, preflight judgment with explicit force override, blind-label/data-skim comparison, frozen-plan validation, artifact persistence, and comparative analyst workflow. Its docs and source do **not** establish a dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory; common semantic language is insufficient evidence. Keep these records separate unless a stronger source is found.
+
+## 7. Governed build, local media, and transparent activity tools
+
+```text
+chatty-factory (governed build/patch workflow)
+chatty-art <── approved copy-only bridge artifacts ──> chatty-lora
+chatty-pet (domain-specific reducer-owned care toy)
+ecg_window (portable truthful-activity UI pattern)
+```
+
+**ChattyFactory:** the implemented contribution is a host-governed build/patch loop in which user intent, model method, host permissions/funnel, verification, and evidence receipts have separate roles. It does not claim ownership of agent workflows, software generation, testing, retries, or logging.
+
+**Chatty-art and Chatty-lora:** documented sister applications. Art is a local media-generation app and optional ChattyCog module; Lora is a review-first local training/curation workflow. When hosted by ChattyCog, their documented handoff is selected, copy-only artifacts through bridge lanes—not a shared internal state or evidence that the applications are one system. Upstream inference, diffusion, audio, and training dependencies remain third-party work where identified.
+
+**Chatty-Pet and ECG Window:** Chatty-Pet implements a small reducer-owned, local care-toy state loop; it is not asserted to implement RD Engine. ECG Window supplies a portable truthful-workload-activity presentation pattern; its “ECG” language is expressly metaphorical. Neither record claims novelty over reducers, games, telemetry, monitoring, graphing, or progress UI generally.

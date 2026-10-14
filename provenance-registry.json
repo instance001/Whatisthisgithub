@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T01:51:32.200575Z",
+  "generated_at": "2026-10-14T02:24:00.826206Z",
   "source": "GitHub REST API authenticated as instance001; repository creation timestamps are not asserted publication dates.",
   "repositories": [
     {
@@ -144,7 +144,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "lineage_review": "Baseline inventory only.",
+      "lineage_review": "Substantively reviewed: implemented portable local media-generation application; relationship to Chatty-lora is approved copy-only bridge handoff, not shared internal state.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -161,7 +161,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-04-14T23:48:13Z",
-      "verified_last_push": "2026-10-13T22:42:07Z",
+      "verified_last_push": "2026-10-14T01:52:08Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -190,7 +190,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-12-24T05:23:04Z",
-      "verified_last_push": "2026-10-13T22:41:25Z",
+      "verified_last_push": "2026-10-14T01:52:11Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -219,7 +219,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-01-07T02:26:25Z",
-      "verified_last_push": "2026-10-13T22:41:27Z",
+      "verified_last_push": "2026-10-14T01:52:13Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -260,7 +260,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "lineage_review": "Baseline inventory only.",
+      "lineage_review": "Substantively reviewed: implemented host-governed build/patch funnel with bounded attempts, verification, and receipt-driven next-attempt routing.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -318,7 +318,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "lineage_review": "Baseline inventory only.",
+      "lineage_review": "Substantively reviewed: implemented review-first local LoRA curation/training workflow; relationship to Chatty-art is approved copy-only bridge handoff.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -376,7 +376,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "lineage_review": "Baseline inventory only.",
+      "lineage_review": "Substantively reviewed: implemented local reducer-owned care-toy application; RD Engine dependency not established.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -927,7 +927,7 @@
       "unresolved_provenance_questions": [
         "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
       ],
-      "lineage_review": "Baseline inventory only.",
+      "lineage_review": "Substantively reviewed: implemented language-agnostic truthful-activity presentation pattern; ECG terminology is metaphorical.",
       "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
       "retrofit_completed": false
     },
@@ -1466,7 +1466,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-24T22:32:45Z",
-      "verified_last_push": "2026-10-13T22:42:53Z",
+      "verified_last_push": "2026-10-14T01:52:15Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -2075,7 +2075,7 @@
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-16T01:43:15Z",
-      "verified_last_push": "2026-10-14T01:42:51Z",
+      "verified_last_push": "2026-10-14T01:51:45Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",

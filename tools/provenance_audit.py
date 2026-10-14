@@ -24,6 +24,11 @@ LINEAGE_REVIEW = {
     "chatty-edu-user": "Substantively reviewed: packaged distribution/history record aligned with Chatty-EDU source v0.4; not treated as separate source architecture.",
     "llm-semantic-dataset-sorter": "Substantively reviewed: implemented governed semantic-partitioning workbench; no dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory established from reviewed evidence.",
     "chatty-mini": "Central evidence review only: substantive project-file edit deferred because its local checkout contains unrelated active work.",
+    "chatty-factory": "Substantively reviewed: implemented host-governed build/patch funnel with bounded attempts, verification, and receipt-driven next-attempt routing.",
+    "chatty-art": "Substantively reviewed: implemented portable local media-generation application; relationship to Chatty-lora is approved copy-only bridge handoff, not shared internal state.",
+    "chatty-lora": "Substantively reviewed: implemented review-first local LoRA curation/training workflow; relationship to Chatty-art is approved copy-only bridge handoff.",
+    "chatty-pet": "Substantively reviewed: implemented local reducer-owned care-toy application; RD Engine dependency not established.",
+    "ecg_window": "Substantively reviewed: implemented language-agnostic truthful-activity presentation pattern; ECG terminology is metaphorical.",
 }
 
 
