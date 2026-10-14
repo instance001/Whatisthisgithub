@@ -1,5 +1,9 @@
 # Field Root
 
+## License
+
+This repository is released under the [GNU Affero General Public License v3.0](LICENSE).
+
 This repository is the landing page and **auto-generated index** of the public work of [@instance001](https://github.com/instance001).
 
 It refreshes periodically via GitHub Actions and lists all public repositories, ordered by recent activity.
