@@ -17,7 +17,7 @@ Each applicable active repository should contain `PROVENANCE.md` with these sect
 
 ## Status vocabulary
 
-Use only these labels where supported: `IMPLEMENTED`, `SPECIFIED`, `HYPOTHESISED`, `EXPERIMENTAL`, `HISTORICAL`, `SUPERSEDED`, and `NEEDS_HUMAN_VERIFICATION`.
+Use only these labels where supported: `IMPLEMENTED`, `SPECIFIED`, `HYPOTHESISED`, `EXPERIMENTAL`, `HISTORICAL`, and `SUPERSEDED`.
 
 ## Attribution boundary
 

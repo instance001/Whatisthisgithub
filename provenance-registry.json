@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T02:24:00.826206Z",
+  "generated_at": "2026-10-14T03:57:21.678118Z",
   "source": "GitHub REST API authenticated as instance001; repository creation timestamps are not asserted publication dates.",
   "repositories": [
     {
@@ -8,10 +8,9 @@
       "canonical_url": "https://github.com/instance001/4roomciv",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -25,22 +24,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "ai-teaming-framework",
       "canonical_url": "https://github.com/instance001/ai-teaming-framework",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -54,22 +48,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "AiBiogenesis_and_AiGenesisMapping",
       "canonical_url": "https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -83,22 +72,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "australian-ai-fair-go",
       "canonical_url": "https://github.com/instance001/australian-ai-fair-go",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -112,27 +96,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-art",
       "canonical_url": "https://github.com/instance001/chatty-art",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-03-21T07:35:10Z",
-      "verified_last_push": "2026-10-13T22:41:20Z",
+      "verified_last_push": "2026-10-14T02:24:24Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -141,22 +120,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented portable local media-generation application; relationship to Chatty-lora is approved copy-only bridge handoff, not shared internal state.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-cog",
       "canonical_url": "https://github.com/instance001/chatty-cog",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -170,22 +144,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented hybrid host/model authority, Bookkeeper/memory governance, modules, approval-gated sandbox, and Cog-only local handoff lanes.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-edu",
       "canonical_url": "https://github.com/instance001/chatty-edu",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -199,22 +168,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented education-specific offline/authority/learning-pack architecture; direct derivation from Chatty-Cog not established.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-edu-user",
       "canonical_url": "https://github.com/instance001/chatty-edu-user",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -228,27 +192,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: packaged distribution/history record aligned with Chatty-EDU source v0.4; not treated as separate source architecture.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-factory",
       "canonical_url": "https://github.com/instance001/chatty-factory",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-06-01T01:53:07Z",
-      "verified_last_push": "2026-10-13T22:41:30Z",
+      "verified_last_push": "2026-10-14T02:24:22Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -257,22 +216,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented host-governed build/patch funnel with bounded attempts, verification, and receipt-driven next-attempt routing.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-factory-rebuild",
       "canonical_url": "https://github.com/instance001/chatty-factory-rebuild",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -286,27 +240,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-lora",
       "canonical_url": "https://github.com/instance001/chatty-lora",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-04-22T01:30:27Z",
-      "verified_last_push": "2026-10-13T22:41:35Z",
+      "verified_last_push": "2026-10-14T02:24:26Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -315,22 +264,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented review-first local LoRA curation/training workflow; relationship to Chatty-art is approved copy-only bridge handoff.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-mini",
       "canonical_url": "https://github.com/instance001/chatty-mini",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -344,27 +288,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Central evidence review only: substantive project-file edit deferred because its local checkout contains unrelated active work.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-pet",
       "canonical_url": "https://github.com/instance001/chatty-pet",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-07-11T00:10:34Z",
-      "verified_last_push": "2026-10-13T22:41:43Z",
+      "verified_last_push": "2026-10-14T02:24:29Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -373,22 +312,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented local reducer-owned care-toy application; RD Engine dependency not established.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-quest",
       "canonical_url": "https://github.com/instance001/chatty-quest",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -402,22 +336,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chatty-venture",
       "canonical_url": "https://github.com/instance001/chatty-venture",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -431,19 +360,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Chatty_Ai_V1",
       "canonical_url": "https://github.com/instance001/Chatty_Ai_V1",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -460,22 +384,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "chattydoom",
       "canonical_url": "https://github.com/instance001/chattydoom",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -489,19 +408,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "chattyfactory",
       "canonical_url": "https://github.com/instance001/chattyfactory",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -518,19 +432,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Chattyfactory-AutoPipeline-v0.2",
       "canonical_url": "https://github.com/instance001/Chattyfactory-AutoPipeline-v0.2",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -547,19 +456,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "ChattyFactory-ManualPipeline-v0.1",
       "canonical_url": "https://github.com/instance001/ChattyFactory-ManualPipeline-v0.1",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -576,22 +480,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Chattymobile_v1",
       "canonical_url": "https://github.com/instance001/Chattymobile_v1",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -605,19 +504,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Chattyv1.1",
       "canonical_url": "https://github.com/instance001/Chattyv1.1",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -634,22 +528,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "cognition-mesh-test-chamber",
       "canonical_url": "https://github.com/instance001/cognition-mesh-test-chamber",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -663,22 +552,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Cognition-Scale-Formal-Taxonomy",
       "canonical_url": "https://github.com/instance001/Cognition-Scale-Formal-Taxonomy",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -692,19 +576,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Cognitive-Reactor-Profile",
       "canonical_url": "https://github.com/instance001/Cognitive-Reactor-Profile",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -721,19 +600,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Cognitive_Crowbar",
       "canonical_url": "https://github.com/instance001/Cognitive_Crowbar",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -750,19 +624,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Cognitive_Crowbar_nonverbal",
       "canonical_url": "https://github.com/instance001/Cognitive_Crowbar_nonverbal",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -779,22 +648,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "cognitive_reactor_stress_tests",
       "canonical_url": "https://github.com/instance001/cognitive_reactor_stress_tests",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -808,22 +672,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "cognitive_theology",
       "canonical_url": "https://github.com/instance001/cognitive_theology",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -837,22 +696,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "collapse-of-the-semantic-middle",
       "canonical_url": "https://github.com/instance001/collapse-of-the-semantic-middle",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -866,22 +720,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "dual-ai-cognition-spine-prototype",
       "canonical_url": "https://github.com/instance001/dual-ai-cognition-spine-prototype",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -895,27 +744,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "ecg_window",
       "canonical_url": "https://github.com/instance001/ecg_window",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2026-03-23T20:55:19Z",
-      "verified_last_push": "2026-10-13T22:42:13Z",
+      "verified_last_push": "2026-10-14T02:24:31Z",
       "license_api": "AGPL-3.0",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -924,22 +768,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented language-agnostic truthful-activity presentation pattern; ECG terminology is metaphorical.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "ef-engine",
       "canonical_url": "https://github.com/instance001/ef-engine",
       "default_branch": "master",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -953,19 +792,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "entropy-folding-as-directed-thermodynamics-for-cognition-finished",
       "canonical_url": "https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -982,22 +816,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "entropy-folding-cross-domain-signal-atlas",
       "canonical_url": "https://github.com/instance001/entropy-folding-cross-domain-signal-atlas",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1011,22 +840,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "entropy-folding-eureka-cascade-hypothesis",
       "canonical_url": "https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1040,19 +864,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "entropy-folding-foundational-frameworks",
       "canonical_url": "https://github.com/instance001/entropy-folding-foundational-frameworks",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1069,19 +888,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Entropy-Folding-Vector-Theory",
       "canonical_url": "https://github.com/instance001/Entropy-Folding-Vector-Theory",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1098,19 +912,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "entropy_folding_scale",
       "canonical_url": "https://github.com/instance001/entropy_folding_scale",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1127,19 +936,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "entropy_folding_scope",
       "canonical_url": "https://github.com/instance001/entropy_folding_scope",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1156,22 +960,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "fmi-research-papers",
       "canonical_url": "https://github.com/instance001/fmi-research-papers",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1185,22 +984,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Frisian_Cadence_PID_Control_Loop",
       "canonical_url": "https://github.com/instance001/Frisian_Cadence_PID_Control_Loop",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1214,22 +1008,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "governance-by-design-report",
       "canonical_url": "https://github.com/instance001/governance-by-design-report",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1243,22 +1032,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "governance-by-design-report-commentary",
       "canonical_url": "https://github.com/instance001/governance-by-design-report-commentary",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1272,22 +1056,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass",
       "canonical_url": "https://github.com/instance001/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1301,22 +1080,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "historical-janet-school-exploratory-build",
       "canonical_url": "https://github.com/instance001/historical-janet-school-exploratory-build",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1330,22 +1104,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "instance001.github.io",
       "canonical_url": "https://github.com/instance001/instance001.github.io",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1359,22 +1128,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Janet-MCM-Core",
       "canonical_url": "https://github.com/instance001/Janet-MCM-Core",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1388,22 +1152,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "janet-school",
       "canonical_url": "https://github.com/instance001/janet-school",
       "default_branch": "master",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1417,22 +1176,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "llm-defined-persistent-memory",
       "canonical_url": "https://github.com/instance001/llm-defined-persistent-memory",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1446,22 +1200,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "llm-semantic-dataset-sorter",
       "canonical_url": "https://github.com/instance001/llm-semantic-dataset-sorter",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1475,22 +1224,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Substantively reviewed: implemented governed semantic-partitioning workbench; no dependency on Semantic Signal Alphabet or LLM-Defined Persistent Memory established from reviewed evidence.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "MemorySpine",
       "canonical_url": "https://github.com/instance001/MemorySpine",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1504,22 +1248,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "model-behaviour-toolkit",
       "canonical_url": "https://github.com/instance001/model-behaviour-toolkit",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1533,22 +1272,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "MSI-Trident-Frisian-Echoform-Framework-v1.0-",
       "canonical_url": "https://github.com/instance001/MSI-Trident-Frisian-Echoform-Framework-v1.0-",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1562,22 +1296,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "nanochat-llm-tweaker",
       "canonical_url": "https://github.com/instance001/nanochat-llm-tweaker",
       "default_branch": "master",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1591,22 +1320,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "perpetual_cognition_reactor",
       "canonical_url": "https://github.com/instance001/perpetual_cognition_reactor",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1620,22 +1344,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "project-leviathan",
       "canonical_url": "https://github.com/instance001/project-leviathan",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1649,22 +1368,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "project-mimir",
       "canonical_url": "https://github.com/instance001/project-mimir",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1678,22 +1392,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles",
       "canonical_url": "https://github.com/instance001/Psychohistory-after-Symbound-Macro-Trajectories-from-Entropy-Folding-Cycles",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1707,22 +1416,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "rd-engine",
       "canonical_url": "https://github.com/instance001/rd-engine",
       "default_branch": "master",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1736,22 +1440,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "reflective_identity_geometry",
       "canonical_url": "https://github.com/instance001/reflective_identity_geometry",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1765,22 +1464,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "relational-curriculum-geometry",
       "canonical_url": "https://github.com/instance001/relational-curriculum-geometry",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1794,22 +1488,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "safety_theatre",
       "canonical_url": "https://github.com/instance001/safety_theatre",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1823,22 +1512,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "semantic-signal-alphabet",
       "canonical_url": "https://github.com/instance001/semantic-signal-alphabet",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1852,19 +1536,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Symbound-Entropy-Architecture",
       "canonical_url": "https://github.com/instance001/Symbound-Entropy-Architecture",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1881,19 +1560,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Symbound-Entropy-Folding-Toolkit",
       "canonical_url": "https://github.com/instance001/Symbound-Entropy-Folding-Toolkit",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1910,22 +1584,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "symbound-lab-notes-negative-space",
       "canonical_url": "https://github.com/instance001/symbound-lab-notes-negative-space",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1939,19 +1608,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Symbound-Master-Toolkit-V1.0",
       "canonical_url": "https://github.com/instance001/Symbound-Master-Toolkit-V1.0",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -1968,22 +1632,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Symbound-UAE-GVS",
       "canonical_url": "https://github.com/instance001/Symbound-UAE-GVS",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -1997,22 +1656,17 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Symbound_Academia_Spine",
       "canonical_url": "https://github.com/instance001/Symbound_Academia_Spine",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
@@ -2026,19 +1680,14 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     },
     {
       "repository": "Trident_abstract_simulation_wand_V1",
       "canonical_url": "https://github.com/instance001/Trident_abstract_simulation_wand_V1",
       "default_branch": "main",
       "visibility": "public",
-      "status": "HISTORICAL",
       "archived": true,
       "category": [
         "F. Historical or archived repository"
@@ -2055,27 +1704,22 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION",
-      "retrofit_completed": false
+      "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION"
     },
     {
       "repository": "Whatisthisgithub",
       "canonical_url": "https://github.com/instance001/Whatisthisgithub",
       "default_branch": "main",
       "visibility": "public",
-      "status": "NEEDS_HUMAN_VERIFICATION",
       "archived": false,
       "category": [
-        "UNCLASSIFIED \u2014 evidence review required"
+        "UNCLASSIFIED"
       ],
       "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
       "public_attribution_identity": "Not asserted automatically.",
       "verified_repository_creation": "2025-09-16T01:43:15Z",
-      "verified_last_push": "2026-10-14T01:51:45Z",
+      "verified_last_push": "2026-10-14T02:24:09Z",
       "license_api": "NOASSERTION",
       "provenance_document": "PROVENANCE.md",
       "citation_metadata": "CITATION.cff",
@@ -2084,12 +1728,8 @@
         "successors": [],
         "implementations": []
       },
-      "unresolved_provenance_questions": [
-        "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-      ],
       "lineage_review": "Baseline inventory only.",
-      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-      "retrofit_completed": false
+      "audit_state": "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED"
     }
   ]
 }

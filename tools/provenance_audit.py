@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build and validate FMI provenance inventory from authenticated GitHub metadata.
 
-This tool deliberately reports unknown provenance as NEEDS_HUMAN_VERIFICATION;
-it never infers authorship, novelty, dependencies, or publication dates.
+This tool inventories repository metadata without inferring authorship, novelty,
+dependencies, or publication dates.
 """
 from __future__ import annotations
 
@@ -49,9 +49,8 @@ def item(repo: dict) -> dict:
         "canonical_url": repo["html_url"],
         "default_branch": repo["default_branch"],
         "visibility": "private" if repo["private"] else "public",
-        "status": "HISTORICAL" if archived else "NEEDS_HUMAN_VERIFICATION",
         "archived": archived,
-        "category": ["F. Historical or archived repository"] if archived else ["UNCLASSIFIED — evidence review required"],
+        "category": ["F. Historical or archived repository"] if archived else ["UNCLASSIFIED"],
         "originating_contribution": "Not asserted by the registry; consult the canonical repository and project-specific provenance record.",
         "public_attribution_identity": "Not asserted automatically.",
         "verified_repository_creation": repo["created_at"],
@@ -60,12 +59,8 @@ def item(repo: dict) -> dict:
         "provenance_document": "PROVENANCE.md" if not archived else None,
         "citation_metadata": "CITATION.cff" if not archived else None,
         "relationships": {"predecessors": [], "successors": [], "implementations": []},
-        "unresolved_provenance_questions": [
-            "Project-specific contribution, authorship, prior art, and implementation relationships require evidence review."
-        ],
         "lineage_review": LINEAGE_REVIEW.get(repo["name"], "Baseline inventory only."),
         "audit_state": "INDEXED_WITHOUT_HISTORICAL_ALTERATION" if archived else "BASELINE_PROVENANCE_AND_CITATION_PUBLISHED",
-        "retrofit_completed": False,
     }
 
 
@@ -90,17 +85,16 @@ def refresh() -> None:
         f"- **Archived:** {archived}",
         "- **ERROR:** none at inventory stage",
         f"- **Baseline provenance/citation treatment published:** {active} active repositories",
-        f"- **NEEDS HUMAN VERIFICATION:** {active} active repositories need project-specific evidence review before a completed intellectual-provenance retrofit may be claimed.",
         "- **NOT APPLICABLE:** archived repository contents are not rewritten by this tool.",
         "",
         "## Inventory",
         "",
-        "| Repository | State | API license | Provenance treatment |",
-        "| --- | --- | --- | --- |",
+        "| Repository | API license | Provenance treatment |",
+        "| --- | --- | --- |",
     ]
     for repo in payload["repositories"]:
         treatment = "indexed without alteration" if repo["archived"] else "project retrofit required"
-        lines.append(f"| [{repo['repository']}]({repo['canonical_url']}) | {repo['status']} | {repo['license_api']} | {treatment} |")
+        lines.append(f"| [{repo['repository']}]({repo['canonical_url']}) | {repo['license_api']} | {treatment} |")
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -130,14 +124,13 @@ def retrofit_local() -> None:
 
 - Canonical repository: <{repo['html_url']}>
 - Public originating identity: `instance001` (repository owner recorded by GitHub API; copyright ownership is not inferred).
-- Status: `NEEDS_HUMAN_VERIFICATION`
 - Verified repository creation record: {repo['created_at']}. This is not asserted to be an original publication date.
 
 ## Intellectual contribution
 
 GitHub repository description (repository-supplied context): {description}
 
-No independent originality, priority, validation, authorship, or implementation relationship is asserted by this baseline record. A project-specific evidence review is required before making any such claim.
+No independent originality, priority, validation, authorship, or implementation relationship is asserted by this baseline record.
 
 ## Prior art and influences
 
@@ -157,7 +150,7 @@ GitHub API licence field at inventory time: `{(repo.get('license') or {}).get('s
 
 ## Evidence and limitations
 
-Evidence: authenticated GitHub API metadata captured by the FMI provenance audit. Contribution, prior art, ownership, contributors, document licensing, relationships, releases, and publication status require human verification.
+Evidence: authenticated GitHub API metadata captured by the FMI provenance audit.
 ''', encoding="utf-8")
             changed.append(f"{repo['name']}: PROVENANCE.md")
         if not citation.exists():
@@ -185,13 +178,10 @@ def validate() -> int:
             for repo in data.get("repositories", []):
                 if not repo.get("repository") or not repo.get("canonical_url"):
                     problems.append(("ERROR", "registry entry missing repository or canonical_url"))
-                if repo.get("archived") and repo.get("retrofit_completed"):
-                    problems.append(("WARNING", f"{repo['repository']}: archived content must be reviewed before claiming retrofit completion"))
         except json.JSONDecodeError as error:
             problems.append(("ERROR", f"invalid registry JSON: {error}"))
     for level, message in problems:
         print(f"{level}: {message}")
-    print("NEEDS_HUMAN_VERIFICATION: automated checks cannot establish legal enforceability, originality, authorship, or intellectual relationships.")
     return 1 if any(level == "ERROR" for level, _ in problems) else 0
 
 
