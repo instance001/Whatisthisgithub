@@ -148,7 +148,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-10-23T08:13:05Z`_
+_Last updated: `2026-10-24T07:51:26Z`_
 
 Total public repos indexed for **@instance001**: **72**
 
@@ -156,9 +156,9 @@ Total public repos indexed for **@instance001**: **72**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-10-23 |
+| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-23 |
 | [chatty-venture](https://github.com/instance001/chatty-venture) | Private-first AI text adventures for Android  -  structured stories, editable Free Mode, local GGUF, and optional cloud narration. | C++ | 2026-10-22 |
-| [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-10-22 |
-| [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-10-22 |
 | [chatty-lora](https://github.com/instance001/chatty-lora) | Local first, cloud optional LoRA trainer for Wan 2.1 models currently, focused on AMD Windows. Tested on RX 9060 XT (8GB half). Supports image/video pipelines; more models/audio planned. Sister to Chatty-art. End to end achievable fully local. Cloud when you need it, local when you don't. AGPLv3. | Rust | 2026-10-14 |
 | [project-mimir](https://github.com/instance001/project-mimir) | Companion project to Leviathan |  | 2026-10-14 |
 | [chatty-cog](https://github.com/instance001/chatty-cog) | Chatty-Cog is the everyday local-first desktop assistant shell for Chatty tools: local GGUF and optional BYO cloud models, sandboxed file work, modules, Bookkeeper context support, audit history, rolling summaries, active context, and trusted peer-to-peer handoff lanes. | Rust | 2026-10-14 |
