@@ -148,7 +148,7 @@ Version note: In FMI repos, "v0.1" usually means “first working end-to-end rel
 
 <!-- AUTO-GENERATED-INDEX:START -->
 
-_Last updated: `2026-11-24T13:14:09Z`_
+_Last updated: `2026-11-25T12:03:27Z`_
 
 Total public repos indexed for **@instance001**: **72**
 
@@ -156,6 +156,7 @@ Total public repos indexed for **@instance001**: **72**
 
 | Repo | Description | Language | Updated |
 | ---- | ----------- | -------- | ------- |
+| [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-11-24 |
 | [instance001.github.io](https://github.com/instance001/instance001.github.io) | Fractal Media Infrastructure is an independent public-interest organization for open AI research, local-first tooling, and public education. Home of the instance001 R&D lab and the Let's Rethink AI media branch. | HTML | 2026-11-12 |
 | [Whatisthisgithub](https://github.com/instance001/Whatisthisgithub) | Start Here. | Python | 2026-11-12 |
 | [fmi-research-papers](https://github.com/instance001/fmi-research-papers) | Public preprint corpus from Fractal Media Infrastructure: AGPLv3-licensed research on human-AI systems, AI governance, local-first infrastructure, cognition, and related topics. |  | 2026-11-10 |
@@ -205,7 +206,6 @@ Total public repos indexed for **@instance001**: **72**
 | [chatty-factory](https://github.com/instance001/chatty-factory) | Governed local build-and-patch factory for plain-language software requests. The host freezes bounded attempts, preserves receipts, verifies outputs, and carries evidence into the next attempt instead of pretending every request has a nearest supported product family. | Rust | 2026-10-14 |
 | [chatty-edu](https://github.com/instance001/chatty-edu) | Chatty-EDU is a modular, local-first education assistant designed to run on-device for school trust and deployment clarity. No cloud dependency, no accounts, no tracking. | Rust | 2026-10-14 |
 | [chatty-edu-user](https://github.com/instance001/chatty-edu-user) | First public user-focused Chatty-EDU release, aligned with source v0.4. Prebuilt Windows app for click-and-run use, offline-first by default with local data and no accounts. |  | 2026-10-14 |
-| [chatty-art](https://github.com/instance001/chatty-art) | Local first, cloud optional image, GIF, video and audio generator. Drop in a GGUF, type one sentence, get media. No API keys required (cloud when you need it, local when you don't), no node graphs. Vulkan-ready. Plain English UI anyone can use. Built on llama.cpp + stable-diffusion.cpp. | C++ | 2026-10-14 |
 | [australian-ai-fair-go](https://github.com/instance001/australian-ai-fair-go) | Australian AI Fair-Go: a practical policy and evidence repo for fit-for-purpose AI, model choice, local/cloud hybrid control, proportionate governance, and grassroots Australian AI sovereignty. |  | 2026-10-14 |
 | [AiBiogenesis_and_AiGenesisMapping](https://github.com/instance001/AiBiogenesis_and_AiGenesisMapping) | Grassroots AI biogenesis + genesis mapping  -  open, safe, reproducible. This repo hosts the Symbound Embryo POC v1.0 (SIGNED), the first grassroots AI biogenesis release. It shows how new AI can be created outside corporate labs and the process mapped, verified, and shared. |  | 2026-10-14 |
 | [ai-teaming-framework](https://github.com/instance001/ai-teaming-framework) | A skills-based framework for working effectively with any AI tool. Teaches the underlying mechanics of human-AI interaction  -  not a prompt list, not copy-paste templates, but transferable, epistemic principles that work across models, tools, and tasks. |  | 2026-10-14 |
